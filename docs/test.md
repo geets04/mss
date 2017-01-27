@@ -29,15 +29,15 @@ System → Administration → Users and Groups
 
 Via Commandline:
 
-sudo su \#Only mssadmin user is in sudoers group so log in as that user
-first
 
-useradd -m username \#this adds user
 
-passwd username \#creates password for user
+    sudo su \#Only mssadmin user is in sudoers group so log in as that user first
 
-usermod -a -G epoptes username \#adds user to epoptes group, needed only
-for teachers/admin accounts
+    useradd -m username \#this adds user
+
+    passwd username \#creates password for user
+
+    usermod -a -G epoptes username \#adds user to epoptes group, needed only for teachers/admin accounts
 
 Default server is shipped with the following user accounts
 pre-configured i.e. if no customisation has been requested during order
@@ -88,7 +88,7 @@ here:
 
 When launching from Fatclient it has to be launched as below:
 
-ltsp-remoteapps epoptes
+    ltsp-remoteapps epoptes
 
 Creating Live USB
 -----------------
@@ -113,7 +113,7 @@ The iso image is located at /recovery/Li-f-e.iso or /home/mssadmin/
 It is convenient to use command line for running this task multiple
 times as below:
 
-sudo live-grub-stick --isohybrid /recovery/Li-f-e.iso /dev/sdb
+    sudo live-grub-stick --isohybrid /recovery/Li-f-e.iso /dev/sdb
 
 See the following links to learn how to boot from USB stick and
 troubleshooting if the USB does not boot:
@@ -136,22 +136,22 @@ time of order placement.
     > backup so only the changes made to system are stored on rerun of
     > the following command as root (sudo su -):
 
-recovery.sh create
+    recovery.sh create
 
 -   To restore to factory from running system, run the following as root
     > (sudo su -):
 
-recovery.sh restore \[optional snapshot number\]
+    recovery.sh restore [optional snapshot number]
 
 -   Snapshots are numerical, 1 being the factory, by default running
     > restore will restore to that snapshot, to restore to last snapshot
     > taken run the following as root (sudo su -):
 
-recovery.sh restore last
+    recovery.sh restore last
 
 -   To list all snapshots:
 
-sudo borg list /recovery/system
+    sudo borg list /recovery/system
 
 Snapshot management is beyond the scope of this tool and document, refer
 borg documentation for details:
@@ -159,22 +159,21 @@ borg documentation for details:
 
 -   To create snapshot of /home for example:
 
-borg init --encryption=none /backup/folder/path/home
+    borg init --encryption=none /backup/folder/path /home
 
-borg create --stats --progress --compression lz4 \\
-/backup/folder/path/home::snapshotname /home
+    borg create --stats --progress --compression lz4 /backup/folder/path/home::snapshotname /home
 
 /backup/folder/path/ must have sufficient space.
 
 -   To restore /home from snapshot
 
-borg mount /backup/folder/path/home::snapshotname /mnt
+    borg mount /backup/folder/path/home::snapshotname /mnt
 
-rsync -avP /mnt/\* /home/
+    rsync -avP /mnt/\* /home/
 
 When done:
 
-umount /mnt
+    umount /mnt
 
 Troubleshooting
 ===============
@@ -191,7 +190,7 @@ Alt+F2 -&gt; resetpanel
 **Default settings**: To bring the desktop to default settings of any
 user run this in terminal from mssadmin account login -
 
-sudo mv /home/username/.config /home/username/.config-backup
+    sudo mv /home/username/.config /home/username/.config-backup
 
 Users can also try this from running session -
 
@@ -258,7 +257,6 @@ and quote this MSS ID and the nature of your problem.
 
 What next
 ---------
-
 Frequently asked questions -
 [*http://myscoolserver.com/faqs*](http://myscoolserver.com/faqs)
 
@@ -282,7 +280,7 @@ Google+:
 Important Notice
 ----------------
 
-Recherche has supplied this Information believing it to be accurate and
+Recherche Tech has supplied this Information believing it to be accurate and
 reliable at the time of publishing, but is presented without warranty of
 any kind, expressed or implied. Users must take full responsibility for
 their application of any products. Recherche assumes no responsibility
