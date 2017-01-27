@@ -73,29 +73,15 @@ Some helpful links
 |                 | without          |                 |
 |                 | internet)        |                 |
 +-----------------+------------------+-----------------+
-| Getting started | http://server/ms | http://www.mysc |
-| Guide           | s/getting-starte | oolserver.com/g |
-|                 | d.html           | etting-started  |
+|Getting started Guide |http://server/mss/getting-started.html| http://www.myscoolserver.com/getting-started|
 +-----------------+------------------+-----------------+
-| User Guide      | http://server/ms | http://www.mysc |
-|                 | s/user-guide.htm | oolserver.com/u |
-|                 | l                | ser-guide       |
+| User Guide | http://server/mss/user-guide.html | http://www.myscoolserver.com/user-guide |
 +-----------------+------------------+-----------------+
-| Recherche Legal | http://server/ms | http://www.mysc |
-| Terms           | s/recherche-mss- | oolserver.com/r |
-|                 | legal-terms.html | echerche-mss-le |
-|                 |                  | gal-terms       |
+| Recherche Legal Terms | http://server/mss/recherche-mss-legal-terms.html| http://www.myscoolserver.com/recherche-mss-legal-terms |
 +-----------------+------------------+-----------------+
-| MSS Terms of    | http://server/ms | http://www.mysc |
-| Service         | s/mss-service-te | oolserver.com/m |
-|                 | rms.html         | ss-service-term |
-|                 |                  | s               |
+| MSS Terms of Service| http://server/mss/mss-service-terms.html | http://www.myscoolserver.com/mss-service-terms |
 +-----------------+------------------+-----------------+
-| Recherche       | http://server/ms | http://www.mysc |
-| Limited Product | s/recherche-limi | oolserver.com/r |
-| Warranty on MSS | ted-product-warr | echerche-limite |
-|                 | anty-mss.html    | d-product-warra |
-|                 |                  | nty-mss         |
+| Recherche Limited Product Warranty on MSS | http://server/mss/recherche-limited-product-warranty-mss.html | http://www.myscoolserver.com/recherche-limited-product-warranty-mss|
 +-----------------+------------------+-----------------+
 
 .. [1]
