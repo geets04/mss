@@ -1,6 +1,5 @@
 Social
 ======
-
 Twitter:
 `*https://www.twitter.com/myscoolserver* <https://www.twitter.com/myscoolserver>`__
 

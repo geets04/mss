@@ -1,6 +1,5 @@
 Backup and Recovery
 ===================
-
 MSS provides ‘Factory Restore’ option via boot menu or special USB
 created with the tool recovery.sh. Factory Restore will restore the
 system to the state the server left our premises, which may include
@@ -49,7 +48,5 @@ borg documentation for details:
    rsync -avP /mnt/\* /home/
 
 When done:
-
-::
 
     umount /mnt

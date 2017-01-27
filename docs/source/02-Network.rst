@@ -1,6 +1,5 @@
 Network
 =======
-
 MSS comes with 2 predefined network configurations: Static and Dynamic.
 
 If there is no other DHCP server in the network select Static connection

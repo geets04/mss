@@ -1,6 +1,5 @@
 Creating Live USB
 =================
-
 Li-f-e: Linux for Education OS image is included on the server and can
 be used to create a bootable media when logged in as mssadmin account
 via -

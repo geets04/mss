@@ -1,6 +1,5 @@
 Web Server
 ==========
-
 The My sCool Server comes pre-configured with a ready to use web server
 to help you host your content and make it available on the local
 network.

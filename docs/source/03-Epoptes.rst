@@ -1,6 +1,5 @@
 Epoptes
 =======
-
 Only user belonging to “epoptes” group can launch epoptes application,
 see User Management for how to add user to a group. Using epoptes is
 self evident and intuitive, however complete documentation is available

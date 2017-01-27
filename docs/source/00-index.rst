@@ -3,7 +3,6 @@
 
 About the User Manual
 =====================
-
 This user manual includes guidance for some of the day-to-day tasks that
 may be required by an administrator (computer lab in-charge, teacher).
 It is assumed that the administration has some basic knowledge of
@@ -21,7 +20,6 @@ more details or tasks not covered here.
 
 Important Notice
 ----------------
-
 Recherche Tech has supplied this Information believing it to be accurate
 and reliable at the time of publishing, but is presented without
 warranty of any kind, expressed or implied. Users must take full
@@ -33,14 +31,13 @@ notice.
 
 Restricted Rights
 -----------------
-
 Copyright 2016 Recherche Tech LLP. All rights reserved.
 
 My sCool Server, My sCool Server logo are trademark of Recherche Tech
 LLP.
 
---------------
-
+Contact
+-------
 .. figure:: images/image01.png
    :alt: 
 
@@ -51,6 +48,5 @@ LLP.
   Gujarat 380015. INDIA.
 | Phone: +91-79-40080440
 | Web site: http://www.myscoolserver.com
-| Visit
-  `*www.myscoolserver.com/contact* <http://www.myscoolserver.com/contact>`__
+| Visit  `*www.myscoolserver.com/contact* <http://www.myscoolserver.com/contact>`__
   for the regional and latest contact information.
