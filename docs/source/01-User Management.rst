@@ -1,10 +1,15 @@
-#User Management
+User Management
+===============
 
-##Via GUI:
+Via GUI:
+--------
 
 System → Administration → Users and Groups
 
-##Via Commandline:
+Via Commandline:
+----------------
+
+::
 
     sudo su #Only mssadmin user is in sudoers group so log in as that user first
 

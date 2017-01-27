@@ -1,8 +1,11 @@
+Creating Live USB
+=================
+
 Li-f-e: Linux for Education OS image is included on the server and can
 be used to create a bootable media when logged in as mssadmin account
 via -
 
-System Tools -&gt; Live USB GUI
+System Tools -> Live USB GUI
 
 When creating a bootable media intended to boot computers that only
 support EFI booting select “isohybrid” option. This option can also boot
@@ -18,11 +21,13 @@ The iso image is located at /recovery/Li-f-e.iso or /home/mssadmin/
 It is convenient to use command line for running this task multiple
 times as below:
 
+::
+
     sudo live-grub-stick --isohybrid /recovery/Li-f-e.iso /dev/sdb
 
 See the following links to learn how to boot from USB stick and
 troubleshooting if the USB does not boot:
 
-[*https://www.lifewire.com/change-the-boot-order-in-bios-2624528*](https://www.lifewire.com/change-the-boot-order-in-bios-2624528)
+`*https://www.lifewire.com/change-the-boot-order-in-bios-2624528* <https://www.lifewire.com/change-the-boot-order-in-bios-2624528>`__
 
-[*https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091*](https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091)
+`*https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091* <https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091>`__

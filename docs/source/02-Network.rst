@@ -1,3 +1,6 @@
+Network
+=======
+
 MSS comes with 2 predefined network configurations: Static and Dynamic.
 
 If there is no other DHCP server in the network select Static connection
@@ -7,6 +10,9 @@ mode, IPs will be assigned by external DHCP. Edit the setup which will
 not be used to disable ‘auto connect’. No other configuration changes
 are required.
 
-![](images/image00.jpg)
+.. figure:: images/image00.jpg
+   :alt: 
 
-![](images/image02.jpg)
+.. figure:: images/image02.jpg
+   :alt: 
+
