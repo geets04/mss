@@ -5,7 +5,7 @@ Open Issue here https://github.com/cyberorg/myscoolserver/issues
 
 NOTE: Report issues with applications on their respective bug trackers, this place is for issues directly related to MSS.
 
-Also this place is not for support requests, use respective forums of applications for that purpose. We use Ubuntu-Mate, bugs for Ubunty and Ubuntu Mate should be reported there:
+Also this place is not for support requests, use respective forums of applications for that purpose. We use Ubuntu-Mate, bugs for Ubuntu and Ubuntu Mate should be reported there:
 
 Bugs in Ubuntu or applications:
 https://bugs.launchpad.net/
