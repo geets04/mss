@@ -6,6 +6,8 @@ System → Administration → Users and Groups
 
 Via Commandline:
 ----------------
+::
+
     sudo su #Only mssadmin user is in sudoers group so log in as that user first
 
     useradd -m username #this adds user

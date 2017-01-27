@@ -36,12 +36,24 @@ XRDP Remote Desktop Connection
 ------------------------------
 
 Check the status of the service
+::
+
     systemctl status xrdp
+    
 Restart the service
+::
+
     systemctl restart xrdp
+    
 To check the XRDP processes running
+::
+
     ps ax | grep xrdp
+    
 log files related to XRDP
+::
+
     tail -f /var/log/xrdp-sesman.log
-    tail -f /var/log/auth.log # for login issue 
+    tail -f /var/log/auth.log # for login issue
+    
 Try different users, the one not already logged in
