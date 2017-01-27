@@ -293,10 +293,11 @@ specifications. Information is subject to change without notice.
 Important Links
 ---------------
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|Document Title|Offline version| Online version|
+Some helpful links
+
+|Document Title|Offline version|Online version|
+--------------|---------------|--------------|
 | |(Shipped with server and available without internet)|(Latest version available on the internet)|
-| ------------- | ------------- |------------- |
 |Getting started Guide |http://server/mss/getting-started.html| http://www.myscoolserver.com/getting-started|
 | User Guide | http://server/mss/user-guide.html | http:://www.myscoolserver.com/user-guide |
 | Recherche Legal Terms |http://server/mss/recherche-mss-legal-terms.html| http://www.myscoolserver.com/recherche-mss-legal-terms |
