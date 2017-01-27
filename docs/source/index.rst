@@ -19,11 +19,5 @@ Welcome to My sCool Server's documentation!
    07-Troubleshooting
    08-Useful Documentation and Support
    09-Social
-
-Indices and tables
-==================
-
-* :ref:'genindex'
-* :ref:'modinded'
-* :ref:'search'
+  
 
