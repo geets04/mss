@@ -1,9 +1,8 @@
   -------------------------------------------------------------------------------------------------
 ![](images/image03.png)
 
-User Manual
-===========
-  ------------- -----------------------------------------------------------------------------------
+#User Manual
+-----------------------------------------------------------------------------------
 
 This user manual includes guidance for some of the day-to-day tasks that
 may be required by an administrator (computer lab in-charge, teacher).
@@ -20,24 +19,21 @@ administrator must go through the instructions below at the minimum and
 follow up reading the manuals provided by applications or online for
 more details or tasks not covered here.
 
-User Management
----------------
+##User Management
 
-Via GUI:
+###Via GUI:
 
 System → Administration → Users and Groups
 
-Via Commandline:
+###Via Commandline:
 
+    sudo su #Only mssadmin user is in sudoers group so log in as that user first
 
+    useradd -m username #this adds user
 
-    sudo su \#Only mssadmin user is in sudoers group so log in as that user first
+    passwd username #creates password for user
 
-    useradd -m username \#this adds user
-
-    passwd username \#creates password for user
-
-    usermod -a -G epoptes username \#adds user to epoptes group, needed only for teachers/admin accounts
+    usermod -a -G epoptes username #adds user to epoptes group, needed only for teachers/admin accounts
 
 Default server is shipped with the following user accounts
 pre-configured i.e. if no customisation has been requested during order
@@ -47,8 +43,7 @@ placement -
 
 **teacher accounts:** teacher1 to teacher10; **password:** imteacher
 
-Network
--------
+##Network
 
 MSS comes with 2 predefined network configurations: Static and Dynamic.
 
@@ -63,8 +58,7 @@ are required.
 
 ![](images/image02.jpg)
 
-Web Server
-----------
+##Web Server
 
 The My sCool Server comes pre-configured with a ready to use web server
 to help you host your content and make it available on the local
@@ -77,8 +71,7 @@ Each user can host their independent content at
 /home/&lt;username&gt;/public\_html and it may be accessed by all at
 [*http://server/\~&lt;username&gt;*](http://server/~username)
 
-Epoptes
--------
+##Epoptes
 
 Only user belonging to “epoptes” group can launch epoptes application,
 see User Management for how to add user to a group. Using epoptes is
@@ -90,8 +83,7 @@ When launching from Fatclient it has to be launched as below:
 
     ltsp-remoteapps epoptes
 
-Creating Live USB
------------------
+##Creating Live USB
 
 Li-f-e: Linux for Education OS image is included on the server and can
 be used to create a bootable media when logged in as mssadmin account
@@ -122,8 +114,7 @@ troubleshooting if the USB does not boot:
 
 [*https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091*](https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091)
 
-Backup and Recovery
--------------------
+##Backup and Recovery
 
 MSS provides ‘Factory Restore’ option via boot menu or special USB
 created with the tool recovery.sh. Factory Restore will restore the
@@ -175,19 +166,21 @@ When done:
 
     umount /mnt
 
-Troubleshooting
-===============
+##Troubleshooting
 
-**Booting**: If the client does not boot or freezes while working - It
+###Booting
+If the client does not boot or freezes while working - It
 can be caused by faulty network cable, connection or switch, try direct
 connection to the server to ensure that the client and server both are
 in working order then troubleshoot physical network.
 
-**Panel**: If the panel does not show up -
+###Panel
+If the panel does not show up -
 
 Alt+F2 -&gt; resetpanel
 
-**Default settings**: To bring the desktop to default settings of any
+###Default settings
+To bring the desktop to default settings of any
 user run this in terminal from mssadmin account login -
 
     sudo mv /home/username/.config /home/username/.config-backup
@@ -198,8 +191,7 @@ Alt+F2 -&gt; resetdesktop
 
 Will need log out and back in for changes to apply.
 
-Useful Documentation
-====================
+##Useful Documentation
 
 We have included Hackett and Bankwell comic books[^1] and content from
 Spoken Tutorial[^2] that walks you through everything you need to know
@@ -208,46 +200,29 @@ help, and respective documentation in /usr/share/doc folder.
 
 Lot more community created documentation is also available online:
 
-[*https://ubuntu-manual.org/*](https://ubuntu-manual.org/)
+[*https://ubuntu-manual.org/*](https://ubuntu-manual.org/)  
+[*https://help.ubuntu.com/*](https://help.ubuntu.com/)  
+[*https://ubuntu-mate.github.io/*](https://ubuntu-mate.github.io/)  
+[*https://help.ubuntu.com/community/CommonQuestions*](https://help.ubuntu.com/community/CommonQuestions)  
+[*https://help.ubuntu.com/community/Beginners/FAQ*](https://help.ubuntu.com/community/Beginners/FAQ)  
+[*http://askubuntu.com/questions?sort=faq*](http://askubuntu.com/questions?sort=faq)  
+[*https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7*](https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7)  
+[*https://ubuntu-mate.org/faq/*](https://ubuntu-mate.org/faq/)  
 
-[*https://help.ubuntu.com/*](https://help.ubuntu.com/)
-
-[*https://ubuntu-mate.github.io/*](https://ubuntu-mate.github.io/)
-
-[*https://help.ubuntu.com/community/CommonQuestions*](https://help.ubuntu.com/community/CommonQuestions)
-
-[*https://help.ubuntu.com/community/Beginners/FAQ*](https://help.ubuntu.com/community/Beginners/FAQ)
-
-[*http://askubuntu.com/questions?sort=faq*](http://askubuntu.com/questions?sort=faq)
-
-[*https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7*](https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7)
-
-[*https://ubuntu-mate.org/faq/*](https://ubuntu-mate.org/faq/)
-
-Community help Ubuntu specific issues
-=====================================
-
-[*http://community.ubuntu.com/help-information/*](http://community.ubuntu.com/help-information/)
-
+### For community help Ubuntu specific issues
+[*http://community.ubuntu.com/help-information/*](http://community.ubuntu.com/help-information/)  
 [*https://ubuntu-mate.org/community/*](https://ubuntu-mate.org/community/)
 
-For issues specific to Li-f-e
-=============================
-
+###For issues specific to Li-f-e
 [*https://sourceforge.net/projects/cyberorg-home/support*](https://sourceforge.net/projects/cyberorg-home/support)
 
-For issues specific to MSS
-==========================
-
+###For issues specific to MSS
 [*https://github.com/cyberorg/myscoolserver/issues*](https://github.com/cyberorg/myscoolserver/issues)
 
-Recommended reading before asking for assistance
-================================================
+##Seeking Support
 
+###Recommended reading before asking for assistance
 [*http://www.catb.org/esr/faqs/smart-questions.html*](http://www.catb.org/esr/faqs/smart-questions.html)
-
-Seeking Support 
-----------------
 
 Every My sCool Server has a sticker bearing a unique MSS ID. This ID is
 important for all communications with Recherche Tech in regards to your
@@ -255,18 +230,16 @@ MSS hardware. If you ever have an issue with your MSS hardware and it is
 under warranty, simply open a ticket through any of the support channels
 and quote this MSS ID and the nature of your problem.
 
-What next
----------
-Frequently asked questions -
+###Frequently asked questions -
 [*http://myscoolserver.com/faqs*](http://myscoolserver.com/faqs)
 
-Discussion forum -
+###Discussion forum -
 [*http://discourse.myscoolserver.com*](http://discourse.myscoolserver.com)
 
-Feature videos -
+###Feature videos -
 [*https://www.youtube.com/c/myscoolserver*](https://www.youtube.com/c/myscoolserver)
 
-Follow us on -
+###Follow us on -
 
 Twitter:
 [*https://www.twitter.com/myscoolserver*](https://www.twitter.com/myscoolserver)
@@ -277,8 +250,7 @@ Facebook:
 Google+:
 [*https://plus.google.com/+Myscoolserver*](https://plus.google.com/+Myscoolserver)
 
-Important Notice
-----------------
+##Important Notice
 
 Recherche Tech has supplied this Information believing it to be accurate and
 reliable at the time of publishing, but is presented without warranty of
@@ -288,8 +260,8 @@ for any errors that may appear in this document. Recherche reserves the
 right, without notice to make changes in product design or
 specifications. Information is subject to change without notice.
 
-Important Links
----------------
+##Important Links
+
 
 Some helpful links
 
@@ -303,8 +275,7 @@ Some helpful links
 | Recherche Limited Product Warranty on MSS | http://server/mss/recherche-limited-product-warranty-mss.html | http://www.myscoolserver.com/recherche-limited-product-warranty-mss|
 
 
-Restricted Rights
------------------
+##Restricted Rights
 
 Copyright 2016 Recherche Tech LLP. All rights reserved.
 
