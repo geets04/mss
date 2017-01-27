@@ -20,3 +20,15 @@ Users can also try this from running session -
 Alt+F2 -&gt; resetdesktop
 
 Will need log out and back in for changes to apply.
+
+##XRDP Remote Desktop Connection
+Check the status of the service
+    systemctl status xrdp
+Restart the service
+    systemctl restart xrdp
+To check the XRDP processes running
+    ps ax|grep xrdp
+log files related to XRDP
+    tail -f /var/log/xrdp-sesman.log
+    tail -f /var/log/auth.log # for login issue
+try different users, the one not already logged in
