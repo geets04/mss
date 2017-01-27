@@ -9,7 +9,8 @@ time of order placement.
 -  Multiple snapshots can be created, it is limited by space allocated >
    to /recovery partition, however we are using borg deduplicated >
    backup so only the changes made to system are stored on rerun of >
-   the following command as root (sudo su -):
+   the following command as root (sudo su -):  
+   
 ::
 
    recovery.sh create
