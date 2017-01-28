@@ -50,3 +50,14 @@ Contact
 | Web site: http://www.myscoolserver.com
 | Visit  `*www.myscoolserver.com/contact* <http://www.myscoolserver.com/contact>`__
   for the regional and latest contact information.
+
+Social
+======
+Twitter:
+`*https://www.twitter.com/myscoolserver* <https://www.twitter.com/myscoolserver>`__
+
+Facebook:
+`*https://www.facebook.com/myscoolserver* <https://www.facebook.com/myscoolserver>`__
+
+Google+:
+`*https://plus.google.com/+Myscoolserver* <https://plus.google.com/+Myscoolserver>`__

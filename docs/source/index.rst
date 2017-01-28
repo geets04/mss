@@ -18,6 +18,5 @@ Welcome to My sCool Server's documentation!
    06-Backup and Recovery
    07-Troubleshooting
    08-Useful Documentation and Support
-   09-Social
   
 
