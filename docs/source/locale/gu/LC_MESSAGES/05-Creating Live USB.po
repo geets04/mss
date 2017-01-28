@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/05-Creating Live USB.rst:2
+msgid "Creating Live USB"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:3
+msgid ""
+"Li-f-e: Linux for Education OS image is included on the server and can be"
+" used to create a bootable media when logged in as mssadmin account via -"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:7
+msgid "System Tools -> Live USB GUI"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:9
+msgid ""
+"When creating a bootable media intended to boot computers that only "
+"support EFI booting select “isohybrid” option. This option can also boot "
+"on legacy hardware so use this if you are not sure about your hardware "
+"capabilities. Use of “isohybrid” option is officially recommended way of "
+"creating bootable USB. Do note that this will wipe the USB device and "
+"cannot be used as a normal storage media from Windows PC. Use “Ubuntu” "
+"option if you wish to use the device as a storage media on Windows or "
+"preserve data on a vfat formatted USB stick."
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:18
+msgid "The iso image is located at /recovery/Li-f-e.iso or /home/mssadmin/"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:20
+msgid ""
+"It is convenient to use command line for running this task multiple times"
+" as below:"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:27
+msgid ""
+"See the following links to learn how to boot from USB stick and "
+"troubleshooting if the USB does not boot:"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:30
+msgid ""
+"`*https://www.lifewire.com/change-the-boot-order-in-bios-2624528* "
+"<https://www.lifewire.com/change-the-boot-order-in-bios-2624528>`__"
+msgstr ""
+
+#: ../../source/05-Creating Live USB.rst:32
+msgid ""
+"`*https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091* "
+"<https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091>`__"
+msgstr ""
+

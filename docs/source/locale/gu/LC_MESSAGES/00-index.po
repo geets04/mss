@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/00-index.rst:5
+msgid "About the User Manual"
+msgstr ""
+
+#: ../../source/00-index.rst:6
+msgid ""
+"This user manual includes guidance for some of the day-to-day tasks that "
+"may be required by an administrator (computer lab in-charge, teacher). It"
+" is assumed that the administration has some basic knowledge of working "
+"with a Linux distribution as the server is intended to be used to teach "
+"the Linux subject in schools. Providing comprehensive server "
+"administration guidance is outside the scope of this document."
+msgstr ""
+
+#: ../../source/00-index.rst:13
+msgid ""
+"We have created My sCool Server keeping in mind the “ease of use” so "
+"quite a lot of tasks(not all of them) can be accomplished without having "
+"to RTFM, however understanding that this device packs a lot of complex "
+"technologies so to accomplish anything “under the hood” the administrator"
+" must go through the instructions below at the minimum and follow up "
+"reading the manuals provided by applications or online for more details "
+"or tasks not covered here."
+msgstr ""
+
+#: ../../source/00-index.rst:22
+msgid "Important Notice"
+msgstr ""
+
+#: ../../source/00-index.rst:23
+msgid ""
+"Recherche Tech has supplied this Information believing it to be accurate "
+"and reliable at the time of publishing, but is presented without warranty"
+" of any kind, expressed or implied. Users must take full responsibility "
+"for their application of any products. Recherche assumes no "
+"responsibility for any errors that may appear in this document. Recherche"
+" reserves the right, without notice to make changes in product design or "
+"specifications. Information is subject to change without notice."
+msgstr ""
+
+#: ../../source/00-index.rst:33
+msgid "Restricted Rights"
+msgstr ""
+
+#: ../../source/00-index.rst:34
+msgid "Copyright 2016 Recherche Tech LLP. All rights reserved."
+msgstr ""
+
+#: ../../source/00-index.rst:36
+msgid "My sCool Server, My sCool Server logo are trademark of Recherche Tech LLP."
+msgstr ""
+
+#: ../../source/00-index.rst:40
+msgid "Contact"
+msgstr ""
+
+#: ../../source/00-index.rst:44
+msgid "**Corporate Headquarters**"
+msgstr ""
+
+#: ../../source/00-index.rst:46
+msgid "Recherche Tech LLP"
+msgstr ""
+
+#: ../../source/00-index.rst:48
+msgid ""
+"501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad, "
+"Gujarat 380015. INDIA."
+msgstr ""
+
+#: ../../source/00-index.rst:49
+msgid "Phone: +91-79-40080440"
+msgstr ""
+
+#: ../../source/00-index.rst:50
+msgid "Web site: http://www.myscoolserver.com"
+msgstr ""
+
+#: ../../source/00-index.rst:52
+msgid ""
+"Visit  `*www.myscoolserver.com/contact* "
+"<http://www.myscoolserver.com/contact>`__ for the regional and latest "
+"contact information."
+msgstr ""
+

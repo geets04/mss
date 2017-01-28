@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/07-Troubleshooting.rst:2
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:5
+msgid "Booting"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:7
+msgid ""
+"If the client does not boot or freezes while working - It can be caused "
+"by faulty network cable, connection or switch, try direct connection to "
+"the server to ensure that the client and server both are in working order"
+" then troubleshoot physical network."
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:13
+msgid "Panel"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:15
+msgid "If the panel does not show up -"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:17
+msgid "Alt+F2 -> resetpanel"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:20
+msgid "Default settings"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:22
+msgid ""
+"To bring the desktop to default settings of any user run this in terminal"
+" from mssadmin account login -"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:29
+msgid "Users can also try this from running session -"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:31
+msgid "Alt+F2 -> resetdesktop"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:33
+msgid "Will need log out and back in for changes to apply."
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:36
+msgid "XRDP Remote Desktop Connection"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:38
+msgid "Check the status of the service ::"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:43
+msgid "Restart the service ::"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:48
+msgid "To check the XRDP processes running ::"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:53
+msgid "log files related to XRDP ::"
+msgstr ""
+
+#: ../../source/07-Troubleshooting.rst:59
+msgid "Try different users, the one not already logged in"
+msgstr ""
+

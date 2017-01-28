@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/06-Backup Recovery.rst:2 and
+msgid "Backup and Recovery"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:3 and
+msgid ""
+"MSS provides ‘Factory Restore’ option via boot menu or special USB "
+"created with the tool recovery.sh. Factory Restore will restore the "
+"system to the state the server left our premises, which may include "
+"customizations such as user accounts etc if the data is given at the time"
+" of order placement."
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:9 and
+msgid ""
+"Multiple snapshots can be created, it is limited by space allocated > to "
+"/recovery partition, however we are using borg deduplicated > backup so "
+"only the changes made to system are stored on rerun of > the following "
+"command as root (sudo su -):"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:18 and
+msgid ""
+"To restore to factory from running system, run the following as root > "
+"(sudo su -):"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:25 and
+msgid ""
+"Snapshots are numerical, 1 being the factory, by default running > "
+"restore will restore to that snapshot, to restore to last snapshot > "
+"taken run the following as root (sudo su -):"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:33 and
+msgid "To list all snapshots:"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:39 and
+msgid ""
+"Snapshot management is beyond the scope of this tool and document, refer "
+"borg documentation for details: "
+"`*http://borgbackup.readthedocs.io/en/stable/usage.htm* "
+"<http://borgbackup.readthedocs.io/en/stable/usage.htm>`__"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:43 and
+msgid "To create snapshot of /home for example:"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:52 and
+msgid "/backup/folder/path/ must have sufficient space."
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:54 and
+msgid "To restore /home from snapshot"
+msgstr ""
+
+#: ../../source/06-Backup Recovery.rst:62 and
+msgid "When done:"
+msgstr ""
+
