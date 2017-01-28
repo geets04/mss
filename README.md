@@ -20,3 +20,7 @@ Fixes for those applications usually arrive via online update or in next release
 
 Checkout http://mss-doc.readthedocs.io/ for the documentation.
 
+To translate the User manual in Gujarati edit the .po files from here: https://github.com/cyberorg/mss/tree/master/docs/source/locale/gu/LC_MESSAGES
+
+NOTE: DO NOT use "Edit on Github" from http://mss-doc-gu.readthedocs.io/gu/latest/ for translating the manual in Gujarati
+
