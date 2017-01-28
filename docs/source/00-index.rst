@@ -52,7 +52,7 @@ Contact
   for the regional and latest contact information.
 
 Social
-======
+------
 Twitter:
 `*https://www.twitter.com/myscoolserver* <https://www.twitter.com/myscoolserver>`__
 
