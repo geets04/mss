@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"POT-Creation-Date: 2017-01-28 10:33+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,12 @@ msgid ""
 "the Linux subject in schools. Providing comprehensive server "
 "administration guidance is outside the scope of this document."
 msgstr ""
-
+"આ વપરાશકર્તા માર્ગદર્શિકા મા કેટલાક દિવસ થી દિવસ ક્રિયાઓ માટે માર્ગદર્શન સમાવેશ થાય છે"
+"એક સંચાલક (ઈન-ચાર્જ કોમ્પ્યુટર લેબ, શિક્ષક) દ્વારા જરૂરી હોઈ શકે છે. તે"
+"ધારવામાં આવે છે કે વહીવટ કામ કેટલાક મૂળભૂત જ્ઞાન છે"
+"સર્વર તરીકે Linux વિતરણ બનાવાયેલ છે શીખવે વાપરી શકાય"
+"શાળાઓ માં Linux વિષય. વ્યાપક સર્વર પૂરી પાડવા માટે"
+"વહીવટ માર્ગદર્શન આ દસ્તાવેજ દાયરાની બહાર છે."
 #: ../../source/00-index.rst:13
 msgid ""
 "We have created My sCool Server keeping in mind the “ease of use” so "
@@ -101,5 +106,27 @@ msgid ""
 "Visit  `*www.myscoolserver.com/contact* "
 "<http://www.myscoolserver.com/contact>`__ for the regional and latest "
 "contact information."
+msgstr ""
+
+#: ../../source/00-index.rst:55
+msgid "Social"
+msgstr ""
+
+#: ../../source/00-index.rst:56
+msgid ""
+"Twitter: `*https://www.twitter.com/myscoolserver* "
+"<https://www.twitter.com/myscoolserver>`__"
+msgstr ""
+
+#: ../../source/00-index.rst:59
+msgid ""
+"Facebook: `*https://www.facebook.com/myscoolserver* "
+"<https://www.facebook.com/myscoolserver>`__"
+msgstr ""
+
+#: ../../source/00-index.rst:62
+msgid ""
+"Google+: `*https://plus.google.com/+Myscoolserver* "
+"<https://plus.google.com/+Myscoolserver>`__"
 msgstr ""
 
