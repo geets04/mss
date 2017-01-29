@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"POT-Creation-Date: 2017-01-29 10:11+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,14 +19,18 @@ msgstr ""
 "Generated-By: Babel 2.3.4\n"
 
 #: ../../source/02-Network.rst:2
-msgid "Network"
+msgid "Network and Services"
 msgstr ""
 
-#: ../../source/02-Network.rst:3
-msgid "MSS comes with 2 predefined network configurations: Static and Dynamic."
+#: ../../source/02-Network.rst:4
+msgid "Network configuration via Network Manager"
 msgstr ""
 
 #: ../../source/02-Network.rst:5
+msgid "MSS comes with 2 predefined network configurations: Static and Dynamic."
+msgstr ""
+
+#: ../../source/02-Network.rst:7
 msgid ""
 "If there is no other DHCP server in the network select Static connection "
 "from the NetworkManager in mssadmin account. If there is existing DHCP "
@@ -35,4 +39,49 @@ msgid ""
 "not be used to disable ‘auto connect’. No other configuration changes are"
 " required."
 msgstr ""
+
+#: ../../source/02-Network.rst:21
+msgid "Epoptes"
+msgstr ""
+
+#: ../../source/02-Network.rst:22
+msgid ""
+"Only user belonging to “epoptes” group can launch epoptes application, "
+"see User Management for how to add user to a group. Using epoptes is self"
+" evident and intuitive, however complete documentation is available here:"
+" "
+"`*https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes*"
+" "
+"<https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__"
+msgstr ""
+
+#: ../../source/02-Network.rst:28
+msgid "When launching from Fatclient it has to be launched as below:"
+msgstr ""
+
+#: ../../source/02-Network.rst:35
+msgid "Web Server"
+msgstr ""
+
+#: ../../source/02-Network.rst:36
+msgid ""
+"The My sCool Server comes pre-configured with a ready to use web server "
+"to help you host your content and make it available on the local network."
+msgstr ""
+
+#: ../../source/02-Network.rst:40
+msgid ""
+"Hosted content can be accessed from all clients via any web browser at "
+"`*http://server/* <http://server/>`__"
+msgstr ""
+
+#: ../../source/02-Network.rst:43
+msgid ""
+"Each user can host their independent content at "
+"/home/<username>/public\\_html and it may be accessed by all at "
+"`*http://server/~<username>* <http://server/~username>`__"
+msgstr ""
+
+#~ msgid "Network"
+#~ msgstr ""
 

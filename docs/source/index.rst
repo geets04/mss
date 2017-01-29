@@ -12,8 +12,6 @@ Welcome to My sCool Server's documentation!
    00-index
    01-User Management
    02-Network
-   03-Epoptes
-   04-WebServer
    05-Creating Live USB
    06-Backup and Recovery
    07-Troubleshooting
