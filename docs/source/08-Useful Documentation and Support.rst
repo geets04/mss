@@ -67,15 +67,9 @@ Some helpful links
 +-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
 | Document Title                            | Offline version (available on local server without internet   | Online version (Latest version on internet)                         |
 +===========================================+===============================================================+=====================================================================+
-| Getting Started Guide                     | http://server/mss/getting-started.html                        | http://www.myscoolserver.com/getting-started                        |
+| Getting Started Guide                     |                                                               | http://www.myscoolserver.com/getting-started                        |
 +-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
-| User Guide                                | http://server/mss/user-guide.html                             | http://www.myscoolserver.com/user-guide                             |
-+-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
-| Recherche Legal Terms                     | http://server/mss/recherche-mss-legal-terms.html              | http://www.myscoolserver.com/recherche-mss-legal-terms              |
-+-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
-| MSS Terms of Service                      | http://server/mss/mss-service-terms.html                      | http://www.myscoolserver.com/mss-service-terms                      |
-+-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
-| Recherche Limited Product Warranty on MSS | http://server/mss/recherche-limited-product-warranty-mss.html | http://www.myscoolserver.com/recherche-limited-product-warranty-mss |
+| This User Guide                           | http://server/mss/mss-doc-latest/                             | http://mss-doc.rtfd.io/                                             |
 +-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
 
 
