@@ -23,6 +23,11 @@ For community help Ubuntu specific issues
 | `*http://community.ubuntu.com/help-information/* <http://community.ubuntu.com/help-information/>`__
 | `*https://ubuntu-mate.org/community/* <https://ubuntu-mate.org/community/>`__
 
+For various "how-to" such as typing in your language
+----------------------------------------------------
+
+| `*https://help.ubuntu.com/community/ibus/* <https://help.ubuntu.com/community/ibus/>`__
+
 For issues specific to Li-f-e
 -----------------------------
 
