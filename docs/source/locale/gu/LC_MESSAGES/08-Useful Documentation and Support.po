@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-28 10:17+0530\n"
+"POT-Creation-Date: 2017-03-03 10:34+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,36 +93,46 @@ msgid ""
 msgstr ""
 
 #: ../../source/08-Useful Documentation Support.rst:27 and
-msgid "For issues specific to Li-f-e"
+msgid "For various \"how-to\" such as typing in your language"
 msgstr ""
 
 #: ../../source/08-Useful Documentation Support.rst:29 and
+msgid ""
+"`*https://help.ubuntu.com/community/ibus/* "
+"<https://help.ubuntu.com/community/ibus/>`__"
+msgstr ""
+
+#: ../../source/08-Useful Documentation Support.rst:32 and
+msgid "For issues specific to Li-f-e"
+msgstr ""
+
+#: ../../source/08-Useful Documentation Support.rst:34 and
 msgid ""
 "`*https://sourceforge.net/projects/cyberorg-home/support* "
 "<https://sourceforge.net/projects/cyberorg-home/support>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:32 and
+#: ../../source/08-Useful Documentation Support.rst:37 and
 msgid "For issues specific to MSS"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:34 and
+#: ../../source/08-Useful Documentation Support.rst:39 and
 msgid ""
 "`*https://github.com/cyberorg/myscoolserver/issues* "
 "<https://github.com/cyberorg/myscoolserver/issues>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:37 and
+#: ../../source/08-Useful Documentation Support.rst:42 and
 msgid "Recommended reading before asking for assistance"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:39 and
+#: ../../source/08-Useful Documentation Support.rst:44 and
 msgid ""
 "`*http://www.catb.org/esr/faqs/smart-questions.html* "
 "<http://www.catb.org/esr/faqs/smart-questions.html>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:41 and
+#: ../../source/08-Useful Documentation Support.rst:46 and
 msgid ""
 "Every My sCool Server has a sticker bearing a unique MSS ID. This ID is "
 "important for all communications with Recherche Tech in regards to your "
@@ -131,123 +141,122 @@ msgid ""
 "and quote this MSS ID and the nature of your problem."
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:48 and
+#: ../../source/08-Useful Documentation Support.rst:53 and
 msgid "Frequently asked questions -"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:50 and
+#: ../../source/08-Useful Documentation Support.rst:55 and
 msgid "`*http://myscoolserver.com/faqs* <http://myscoolserver.com/faqs>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:53 and
+#: ../../source/08-Useful Documentation Support.rst:58 and
 msgid "Discussion forum -"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:55 and
+#: ../../source/08-Useful Documentation Support.rst:60 and
 msgid ""
 "`*http://discourse.myscoolserver.com* "
 "<http://discourse.myscoolserver.com>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:58 and
+#: ../../source/08-Useful Documentation Support.rst:63 and
 msgid "Feature videos -"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:60 and
+#: ../../source/08-Useful Documentation Support.rst:65 and
 msgid ""
 "`*https://www.youtube.com/c/myscoolserver* "
 "<https://www.youtube.com/c/myscoolserver>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:63 and
+#: ../../source/08-Useful Documentation Support.rst:68 and
 msgid "Important Links"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:65 and
+#: ../../source/08-Useful Documentation Support.rst:70 and
 msgid "Some helpful links"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:68 and
+#: ../../source/08-Useful Documentation Support.rst:73 and
 msgid "Document Title"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:68 and
+#: ../../source/08-Useful Documentation Support.rst:73 and
 msgid "Offline version (available on local server without internet"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:68 and
+#: ../../source/08-Useful Documentation Support.rst:73 and
 msgid "Online version (Latest version on internet)"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:70 and
+#: ../../source/08-Useful Documentation Support.rst:75 and
 msgid "Getting Started Guide"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:70 and
-msgid "http://server/mss/getting-started.html"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:70 and
+#: ../../source/08-Useful Documentation Support.rst:75 and
 msgid "http://www.myscoolserver.com/getting-started"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:72 and
-msgid "User Guide"
+#: ../../source/08-Useful Documentation Support.rst:77 and
+msgid "This User Guide"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:72 and
-msgid "http://server/mss/user-guide.html"
+#: ../../source/08-Useful Documentation Support.rst:77 and
+msgid "http://server/mss/mss-doc-latest/"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:72 and
-msgid "http://www.myscoolserver.com/user-guide"
+#: ../../source/08-Useful Documentation Support.rst:77 and
+msgid "http://mss-doc.rtfd.io/"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:74 and
-msgid "Recherche Legal Terms"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:74 and
-msgid "http://server/mss/recherche-mss-legal-terms.html"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:74 and
-msgid "http://www.myscoolserver.com/recherche-mss-legal-terms"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:76 and
-msgid "MSS Terms of Service"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:76 and
-msgid "http://server/mss/mss-service-terms.html"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:76 and
-msgid "http://www.myscoolserver.com/mss-service-terms"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:78 and
-msgid "Recherche Limited Product Warranty on MSS"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:78 and
-msgid "http://server/mss/recherche-limited-product-warranty-mss.html"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:78 and
-msgid "http://www.myscoolserver.com/recherche-limited-product-warranty-mss"
-msgstr ""
-
-#: ../../source/08-Useful Documentation Support.rst:83 and
+#: ../../source/08-Useful Documentation Support.rst:82 and
 msgid ""
 "`*http://hackettandbankwell.com/* <https://sourceforge.net/projects"
 "/cyberorg-home/support>`__"
 msgstr ""
 
-#: ../../source/08-Useful Documentation Support.rst:86 and
+#: ../../source/08-Useful Documentation Support.rst:85 and
 msgid ""
 "`*http://spoken-tutorial.org/about-us/* <https://sourceforge.net/projects"
 "/cyberorg-home/support>`__"
 msgstr ""
+
+#~ msgid "http://server/mss/getting-started.html"
+#~ msgstr ""
+
+#~ msgid "User Guide"
+#~ msgstr ""
+
+#~ msgid "http://server/mss/user-guide.html"
+#~ msgstr ""
+
+#~ msgid "http://www.myscoolserver.com/user-guide"
+#~ msgstr ""
+
+#~ msgid "Recherche Legal Terms"
+#~ msgstr ""
+
+#~ msgid "http://server/mss/recherche-mss-legal-terms.html"
+#~ msgstr ""
+
+#~ msgid "http://www.myscoolserver.com/recherche-mss-legal-terms"
+#~ msgstr ""
+
+#~ msgid "MSS Terms of Service"
+#~ msgstr ""
+
+#~ msgid "http://server/mss/mss-service-terms.html"
+#~ msgstr ""
+
+#~ msgid "http://www.myscoolserver.com/mss-service-terms"
+#~ msgstr ""
+
+#~ msgid "Recherche Limited Product Warranty on MSS"
+#~ msgstr ""
+
+#~ msgid "http://server/mss/recherche-limited-product-warranty-mss.html"
+#~ msgstr ""
+
+#~ msgid "http://www.myscoolserver.com/recherche-limited-product-warranty-mss"
+#~ msgstr ""
 
