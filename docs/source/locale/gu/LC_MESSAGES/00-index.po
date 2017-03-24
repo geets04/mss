@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/00-index.rst:5
 msgid "About the User Manual"
-msgstr ""
+msgstr "વપરાશકર્તા માર્ગદર્શિકા વિશે"
 
 #: ../../source/00-index.rst:6
 msgid ""
@@ -47,10 +47,13 @@ msgid ""
 "reading the manuals provided by applications or online for more details "
 "or tasks not covered here."
 msgstr ""
-
+"My sCool Server ને  ધ્યાનમાં રાખતા  "ઉપયોગી સરળ" રચના કરી છે."
+"વપરાશકર્તા માર્ગદર્શિકા વગર પણ ઘણા કર્યો (બધા નહિ) પરિપૂર્ણ કરી શકાય છે."
+"આ ઉપકરણ માં ઘણી જટિલ ટેકનોલોજી નો સમાવેશ થાય છે. એટલા માટે સંચાલક ને આ માર્ગદર્શિકા ની જરૂર પડી શકે છે."
+"આ માર્ગદર્શિકા વાંચ્યા પછી પણ , જો જરૂરી હોય તો એપ્લિકેશન પ્રોગ્રામ માર્ગદર્શિકા અથવા  ઑનલાઇન દસ્તાવેજીકરણ ચકાસો."
 #: ../../source/00-index.rst:22
 msgid "Important Notice"
-msgstr ""
+msgstr "અગત્યની નોટીસ"
 
 #: ../../source/00-index.rst:23
 msgid ""
@@ -62,7 +65,11 @@ msgid ""
 " reserves the right, without notice to make changes in product design or "
 "specifications. Information is subject to change without notice."
 msgstr ""
-
+"Recherche Tech એક ચોક્કસ અને વિશ્વસનીય ફોર્મ માં આ માહિતી પ્રકાશિત કરે છે. પરંતુ તે તેના વપરાશ ની કોઈ વોરંટી નથી આપતું."
+"વપરાશકર્તાઓ એ પ્રોડક્ટ નો ઉપીયોગ કરવા માટે સંપૂર્ણ જવાબદારી લેવી પડશે."
+"આ ડોક્યુમેન્ટ માં કોઈ પણ પ્રકાર ની ભૂલચૂક હોવાની જવાબદારી Recherche Tech લેતું નથી."
+"નોટિસ વગર, Recherche tech પ્રોડક્ટ ની ડિઝાઇન કે કોન્ફીગરશન ના ફેરફારો કરવા માટે નો હક  રાખે છે."
+"અમે કોઈ પણ વિષય ની માહિતી, નોટિસ વગર બદલી શકીયે છીએ."
 #: ../../source/00-index.rst:33
 msgid "Restricted Rights"
 msgstr ""
