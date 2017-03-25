@@ -10,10 +10,11 @@ When creating a bootable media intended to boot computers that only
 support EFI booting select “isohybrid” option. This option can also boot
 on legacy hardware so use this if you are not sure about your hardware
 capabilities. Use of “isohybrid” option is officially recommended way of
-creating bootable USB. Do note that this will wipe the USB device and
-cannot be used as a normal storage media from Windows PC. Use “Ubuntu”
-option if you wish to use the device as a storage media on Windows or
-preserve data on a vfat formatted USB stick.
+creating bootable USB, hence more reliable. Do note that this will wipe the USB device and
+cannot be used as a normal storage media from Windows PC. 
+
+Use “Ubuntu”(Legacy) option if you wish to use the device as a storage media on Windows or
+preserve data. This method requires one vfat formatted partition on the USB stick, partition should not be in use at the time of creating boot media. Boot may fail using this method, in that case use isohybrid(EFI) mode.
 
 The iso image is located at /recovery/Li-f-e.iso or /home/mssadmin/
 
