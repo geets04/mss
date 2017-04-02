@@ -1,4 +1,4 @@
-.. figure:: images/image03.png
+.. figure:: images/my_scool_server_logo.png
    :alt: 
 
 About the User Manual
@@ -38,7 +38,7 @@ LLP.
 
 Contact
 -------
-.. figure:: images/image01.png
+.. figure:: images/recherche_logo.png
    :alt: 
 
 **Corporate Headquarters**
@@ -48,16 +48,16 @@ Contact
   Gujarat 380015. INDIA.
 | Phone: +91-79-40080440
 | Web site: http://www.myscoolserver.com
-| Visit  `*www.myscoolserver.com/contact* <http://www.myscoolserver.com/contact>`__
+| Visit  `www.myscoolserver.com/contact <http://www.myscoolserver.com/contact>`__
   for the regional and latest contact information.
 
 Social
 ------
 Twitter:
-`*https://www.twitter.com/myscoolserver* <https://www.twitter.com/myscoolserver>`__
+`https://www.twitter.com/myscoolserver <https://www.twitter.com/myscoolserver>`__
 
 Facebook:
-`*https://www.facebook.com/myscoolserver* <https://www.facebook.com/myscoolserver>`__
+`https://www.facebook.com/myscoolserver <https://www.facebook.com/myscoolserver>`__
 
 Google+:
-`*https://plus.google.com/+Myscoolserver* <https://plus.google.com/+Myscoolserver>`__
+`https://plus.google.com/+Myscoolserver <https://plus.google.com/+Myscoolserver>`__
