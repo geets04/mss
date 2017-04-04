@@ -25,6 +25,12 @@ MSS Documentation
 -----------------
 Checkout http://mss-doc.readthedocs.io/ for the documentation.
 
+After making any changes in english, update gu by running the following in the docs folder:
+    `sphinx-intl update -p build/gettext/ -l gu`
+
+To test changes locally, run the following and open resulting html in web browser:
+    `make -e SPHINXOPTS="-D language='gu'" html`
+
 To translate the User manual in Gujarati edit the .po files from here: https://github.com/cyberorg/mss/tree/master/docs/source/locale/gu/LC_MESSAGES
 
 NOTE: DO NOT use "Edit on Github" from http://mss-doc-gu.readthedocs.io/gu/latest/ for translating the manual in Gujarati
