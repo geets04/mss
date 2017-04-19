@@ -39,11 +39,11 @@ times.
 
     sudo live-grub-stick --isohybrid /recovery/Li-f-e.iso /dev/sdb
 
-Guide & Troubleshoot
-^^^^^^^^^^^^^^^^^^^^
+References
+^^^^^^^^^^
 See the following external links *(requires internet)* to learn how to boot from USB stick and
 troubleshoot if the USB does not boot:
 
-`Change the boot order in BIOS<https://www.lifewire.com/change-the-boot-order-in-bios-2624528>`__
+`Change the boot order in BIOS <https://www.lifewire.com/change-the-boot-order-in-bios-2624528>`_
 
-`Boot from a USB device<https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091>`__
+`Boot from a USB device <https://www.lifewire.com/how-to-boot-from-a-usb-device-2626091>`_
