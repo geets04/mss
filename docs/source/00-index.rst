@@ -12,7 +12,7 @@ administration guidance is outside the scope of this document.
 
 We have created My sCool Server keeping in mind the “ease of use” so
 quite a lot of tasks(not all of them) can be accomplished without having
-to RTFM, however understanding that this device packs a lot of complex
+to `RTFM <https://en.wikipedia.org/wiki/RTFM>`_, however understanding that this device packs a lot of complex
 technologies so to accomplish anything “under the hood” the
 administrator must go through the instructions below at the minimum and
 follow up reading the manuals provided by applications or online for
