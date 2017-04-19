@@ -1,46 +1,34 @@
-Network and Services
+Network Configuration
 ====================
-Network configuration via Network Manager
+Via Network Manager
 -----------------------------------------
 MSS comes with 2 predefined network configurations: Static and Dynamic.
 
-If there is no other DHCP server in the network select Static connection
-from the NetworkManager in mssadmin account. If there is existing DHCP
-server then selecting Dynamic setup will cause MSS to run in proxy-DHCP
-mode, IPs will be assigned by external DHCP. Edit the setup which will
-not be used to disable ‘auto connect’. No other configuration changes
-are required.
+If your network already has a DHCP server serving IP address to devices connected on your LAN then you need to configure the MSS in Dynamic mode. If no such DHCP server exists, then configure the MSS in Static mode.
 
-.. figure:: images/image00.jpg
-   :alt: 
+It is safe to assume that in majority of cases where a new network has just been setup for the purpose of installing the MSS, there is no pre-existing DHCP server, hence one may safely opt for Static mode.
 
-.. figure:: images/image02.jpg
-   :alt: 
+Herein are the details of how to configure in Static or Dynamic mode: 
 
-Epoptes
--------
-Only user belonging to “epoptes” group can launch epoptes application,
-see User Management for how to add user to a group. Using epoptes is
-self evident and intuitive, however complete documentation is available
-here:
-`*https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes* <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__
+After login, edit the connection that would not be used and uncheck “Automatically connect to this network when it is available” to disable auto-connection attempts in the undesired mode. For example, herein below, we are *disabling ‘Dynamic’ and enabling ‘Static’ mode*.
 
-When launching from Fatclient it has to be launched as below:
+.. figure:: images/edit-connections.jpg
+   :alt: Network Manager - Edit Connections
+**Network Manager - Edit Connections**
 
-::
 
-    ltsp-remoteapps epoptes
+.. figure:: images/network-connections-open.png
+   :alt: Network Connections Window
+**Network Connections**
 
-Web Server
-----------
-The My sCool Server comes pre-configured with a ready to use web server
-to help you host your content and make it available on the local
-network.
 
-Hosted content can be accessed from all clients via any web browser at
-`*http://server/* <http://server/>`__
+.. figure:: images/dynamic-off.png
+   :alt: Editing dynamic window
+**Uncheck to switch off dynamic mode**
 
-Each user can host their independent content at
-/home/<username>/public\_html and it may be accessed by all at
-`*http://server/~<username>* <http://server/~username>`__
 
+.. figure:: images/static-on.png
+   :alt: Editing static window
+**Check to switch on static mode**
+
+Finally, choose “static” in the Network Manager menu and your MSS is now operating in static mode.
