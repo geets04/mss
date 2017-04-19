@@ -1,3 +1,8 @@
+.. _monitoring-broadcasting:
+
+Monitoring and Broadcasting
+===========================
+
 Epoptes
 -------
 Epoptes is a monitoring and broadcasting tool to assist teachers in imparting lessons.
@@ -9,9 +14,11 @@ All pre-configured teacher accounts are already members of the “epoptes” gro
 When running in thin-client mode or when directly logged into the MSS, Epoptes can be started as below:
 
 :: 
+
   Applications -> Internet -> Epoptes
 
 When in Fatclient mode epoptes has to be started as below:
 
 ::
+
   Alt+F2 -> ltsp-remoteapps epoptes
