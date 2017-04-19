@@ -13,6 +13,7 @@ Welcome to My sCool Server's documentation!
    01-User Management
    02-Network
    03-Monitoring and Broadcasting
+   04-Content Platform
    05-Creating Live USB
    06-Backup and Recovery
    07-Troubleshooting
