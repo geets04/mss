@@ -6,8 +6,8 @@ Create Live USB
 Li-f-e: Linux for Education OS image is included on the server and can
 be used to create a bootable media when logged in as **mssadmin** user.
 
-:Note: When creating a bootable media intended to boot computers that only
-    support EFI booting, select "isohybrid" option. This option can also boot
+:Note: Select "isohybrid" option when creating a bootable media intended to 
+    boot computers that only support EFI booting. This option can also boot
     on legacy hardware so use this if you are not sure about your hardware
     capabilities. Use of "isohybrid" option is officially recommended way of
     creating bootable USB. *Do note that this will wipe the USB device and
