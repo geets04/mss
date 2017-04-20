@@ -43,7 +43,7 @@ Recommended reading before asking for assistance
 
 http://www.catb.org/esr/faqs/smart-questions.html
 
-Every My sCool Server has a sticker bearing a unique MSS ID. This ID is
+Every My sCool Server has a sticker bearing a unique MSS ID or S/N (Serial Number). This ID is
 important for all communications with Recherche Tech in regards to your
 MSS hardware. If you ever have an issue with your MSS hardware and it is
 under warranty, simply open a ticket through any of the support channels
