@@ -12,7 +12,9 @@ Welcome to My sCool Server's documentation!
    00-index
    01-User Management
    02-Network
-   05-Creating Live USB
+   03-Monitoring and Broadcasting
+   04-Content Platform
+   05-Take Linux Home
    06-Backup and Recovery
    07-Troubleshooting
    08-Useful Documentation and Support
