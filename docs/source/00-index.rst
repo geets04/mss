@@ -36,6 +36,8 @@ Copyright 2016 Recherche Tech LLP. All rights reserved.
 My sCool Server, My sCool Server logo are trademarks of Recherche Tech
 LLP.
 
+.. _contact-info:
+
 Contact
 -------
 .. figure:: images/recherche_logo.png
