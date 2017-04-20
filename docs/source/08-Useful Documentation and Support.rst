@@ -70,7 +70,7 @@ Important Links
 Some helpful links
 
 +-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
-| Document Title                            | Offline version (available on local server without internet   | Online version (Latest version on internet)                         |
+| Document Title                            | Offline version (available on local server without internet)   | Online version (Latest version on internet)                         |
 +===========================================+===============================================================+=====================================================================+
 | Getting Started Guide                     |                                                               | http://www.myscoolserver.com/getting-started                        |
 +-------------------------------------------+---------------------------------------------------------------+---------------------------------------------------------------------+
