@@ -1,47 +1,47 @@
 Useful Documentation and Support
 ================================
 
-We have included Hackett and Bankwell comic books [1]_ and content from
-Spoken Tutorial [2]_ that walks you through everything you need to know
+The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ 
+and content from Spoken Tutorial [2]_ that walks you through everything you need to know
 about using Ubuntu linux, almost every GUI application comes with F1
 help, and respective documentation in /usr/share/doc folder.
 
 Lot more community created documentation is also available online:
 
-| `*https://ubuntu-manual.org/* <https://ubuntu-manual.org/>`__
-| `*https://help.ubuntu.com/* <https://help.ubuntu.com/>`__
-| `*https://ubuntu-mate.github.io/* <https://ubuntu-mate.github.io/>`__
-| `*https://help.ubuntu.com/community/CommonQuestions* <https://help.ubuntu.com/community/CommonQuestions>`__
-| `*https://help.ubuntu.com/community/Beginners/FAQ* <https://help.ubuntu.com/community/Beginners/FAQ>`__
-| `*http://askubuntu.com/questions?sort=faq* <http://askubuntu.com/questions?sort=faq>`__
-| `*https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7* <https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7>`__
-| `*https://ubuntu-mate.org/faq/* <https://ubuntu-mate.org/faq/>`__
+| https://ubuntu-manual.org
+| https://help.ubuntu.com
+| https://ubuntu-mate.github.io
+| https://help.ubuntu.com/community/CommonQuestions
+| https://help.ubuntu.com/community/Beginners/FAQ
+| http://askubuntu.com/questions?sort=faq
+| https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7
+| https://ubuntu-mate.org/faq
 
-For community help Ubuntu specific issues
+Community help for Ubuntu specific issues
 -----------------------------------------
 
-| `*http://community.ubuntu.com/help-information/* <http://community.ubuntu.com/help-information/>`__
-| `*https://ubuntu-mate.org/community/* <https://ubuntu-mate.org/community/>`__
+| http://community.ubuntu.com/help-information
+| https://ubuntu-mate.org/community
 
-For various "how-to" such as typing in your language
-----------------------------------------------------
+Help for typing in your language
+--------------------------------
 
-| `*https://help.ubuntu.com/community/ibus/* <https://help.ubuntu.com/community/ibus/>`__
+https://help.ubuntu.com/community/ibus
 
 For issues specific to Li-f-e
 -----------------------------
 
-`*https://sourceforge.net/projects/cyberorg-home/support* <https://sourceforge.net/projects/cyberorg-home/support>`__
+https://sourceforge.net/projects/cyberorg-home/support
 
 For issues specific to MSS
 --------------------------
 
-`*https://github.com/cyberorg/myscoolserver/issues* <https://github.com/cyberorg/myscoolserver/issues>`__
+https://github.com/cyberorg/myscoolserver/issues
 
 Recommended reading before asking for assistance
 ------------------------------------------------
 
-`*http://www.catb.org/esr/faqs/smart-questions.html* <http://www.catb.org/esr/faqs/smart-questions.html>`__
+http://www.catb.org/esr/faqs/smart-questions.html
 
 Every My sCool Server has a sticker bearing a unique MSS ID. This ID is
 important for all communications with Recherche Tech in regards to your
@@ -52,17 +52,17 @@ and quote this MSS ID and the nature of your problem.
 Frequently asked questions -
 ----------------------------
 
-`*http://myscoolserver.com/faqs* <http://myscoolserver.com/faqs>`__
+http://myscoolserver.com/faqs
 
 Discussion forum -
 ------------------
 
-`*http://discourse.myscoolserver.com* <http://discourse.myscoolserver.com>`__
+http://discourse.myscoolserver.com
 
 Feature videos -
 ----------------
 
-`*https://www.youtube.com/c/myscoolserver* <https://www.youtube.com/c/myscoolserver>`__
+https://www.youtube.com/c/myscoolserver
 
 Important Links
 ---------------
@@ -79,7 +79,7 @@ Some helpful links
 
 
 .. [1]
-   `*http://hackettandbankwell.com/* <https://sourceforge.net/projects/cyberorg-home/support>`__
+   http://hackettandbankwell.com
 
 .. [2]
-   `*http://spoken-tutorial.org/about-us/* <https://sourceforge.net/projects/cyberorg-home/support>`__
+   http://spoken-tutorial.org/about-us
