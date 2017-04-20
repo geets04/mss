@@ -6,15 +6,20 @@ Create Live USB
 Li-f-e: Linux for Education OS image is included on the server and can
 be used to create a bootable media when logged in as **mssadmin** user.
 
-:Note: Select "isohybrid" option when creating a bootable media intended to 
+:Note: Select "isohybrid" / "EFI" option when creating a bootable media intended to 
     boot computers that only support EFI booting. This option can also boot
     on legacy hardware so use this if you are not sure about your hardware
-    capabilities. Use of "isohybrid" option is officially recommended way of
-    creating bootable USB. *Do note that this will wipe the USB device and
-    cannot be used as a normal storage media from Windows PC.* 
+    capabilities. 
     
-    Use "Ubuntu" or "Legacy" option if you wish to use the device as a storage media on Windows or
-    preserve data on a vfat formatted USB stick.
+    Use of "isohybrid" option is officially recommended way of
+    creating bootable USB, hence more reliable. *Do note that this will wipe the 
+    USB device and cannot be used as a normal storage media from Windows PC.* 
+    
+    Use "Ubuntu" / "Legacy" option if you wish to use the device as a storage 
+    media on Windows or to preserve data. This method requires one vfat formatted 
+    partition on the USB stick. The partition should not be in use at the time of 
+    creating boot media. 
+    If booting fails using this method, use isohybrid / EFI mode.
 
 Via Shortcuts
 ^^^^^^^^^^^^^
