@@ -41,8 +41,7 @@ Snapshot management is beyond the scope of this tool and document. Refer `borg d
 
    borg init --encryption=none /backup/folder/path /home
 
-   borg create --stats --progress --compression lz4
-   /backup/folder/path/home::snapshotname /home
+   borg create --stats --progress --compression lz4 /backup/folder/path/home::snapshotname /home
 
 /backup/folder/path/ must have sufficient space.
 
