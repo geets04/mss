@@ -2,8 +2,8 @@ Backup and Recovery
 ===================
 We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around with the server and we do not penalise you for doing so. The My sCool Server provides ‘Factory Restore’ options via –
 
-    1. Server boot menu or
-    2. USB created with the recovery.sh tool
+1. Server boot menu or
+2. USB created with the recovery.sh tool
 
 Factory Restore option restores the system to the state the server left Recherche’s premises, which may include customisation such as user accounts etc., if the data is given at the time of order placement.
 
