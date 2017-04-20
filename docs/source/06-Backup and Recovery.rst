@@ -27,31 +27,34 @@ Multiple snapshots can be created. It is limited by space available on the /reco
 
    recovery.sh restore last
 
+Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details. 
+
+Herein are just a few examples of what can be done with ``borg``:
+
 -  To list all snapshots:
 
 ::
 
    sudo borg list /recovery/system
 
-Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details.
 
--  To create snapshot of /home, for example:
+-  To create a custom snapshot, for example, creating a snapshot of ``/home``:
 
 ::
 
-   borg init --encryption=none /backup/folder/path /home
+   borg init --encryption=none </backup/folder/path> /home
 
-   borg create --stats --progress --compression lz4 /backup/folder/path/home::snapshotname /home
+   borg create --stats --progress --compression lz4 </backup/folder/path>/home::<snapshotname> /home
 
 /backup/folder/path/ must have sufficient space.
 
--  To restore /home from snapshot
+-  To restore ``/home`` from snapshot:
 
 ::
 
-   borg mount /backup/folder/path/home::snapshotname /mnt
+   borg mount </backup/folder/path/home>::<snapshotname> /mnt
 
-   rsync -avP /mnt/\* /home/
+   rsync -avP /mnt/* /home/
 
 When restoration is complete:
 
