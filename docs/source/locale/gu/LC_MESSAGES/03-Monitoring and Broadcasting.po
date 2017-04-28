@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 03:50+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/03-Monitoring Broadcasting.rst:4 and
+msgid "Monitoring and Broadcasting"
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:7 and
+msgid "Epoptes"
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:8 and
+msgid ""
+"Epoptes is a monitoring and broadcasting tool to assist teachers in "
+"imparting lessons."
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:10 and
+msgid ""
+"Only a user belonging to “epoptes” group can launch epoptes application, "
+"see :ref:`user-management` for how to add user to a group."
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:12 and
+msgid ""
+"All pre-configured teacher accounts are already members of the “epoptes” "
+"group. Using epoptes is self evident and intuitive, however complete "
+"documentation is available `here "
+"<https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:14 and
+msgid ""
+"When running in thin-client mode or when directly logged into the MSS, "
+"Epoptes can be started as below:"
+msgstr ""
+
+#: ../../source/03-Monitoring Broadcasting.rst:20 and
+msgid "When in Fatclient mode epoptes has to be started as below:"
+msgstr ""
+

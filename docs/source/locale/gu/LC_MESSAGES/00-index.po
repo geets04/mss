@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-28 10:33+0530\n"
-"PO-Revision-Date: 2017-04-02 21:17+0530\n"
+"POT-Creation-Date: 2017-04-29 03:50+0530\n"
+"PO-Revision-Date: 2017-04-26 20:12+0530\n"
+"Last-Translator: \n"
+"Language: gu\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: gu\n"
-"X-Generator: Poedit 2.0\n"
+"Generated-By: Babel 2.4.0\n"
 
 #: ../../source/00-index.rst:5
 msgid "About the User Manual"
@@ -25,25 +25,37 @@ msgstr "વપરાશકર્તા માર્ગદર્શિકા વ�
 
 #: ../../source/00-index.rst:6
 msgid ""
-"This user manual includes guidance for some of the day-to-day tasks that may be required by an administrator (computer lab in-charge, "
-"teacher). It is assumed that the administration has some basic knowledge of working with a Linux distribution as the server is "
-"intended to be used to teach the Linux subject in schools. Providing comprehensive server administration guidance is outside the scope "
-"of this document."
+"This user manual includes guidance for some of the day-to-day tasks that "
+"may be required by an administrator (computer lab in-charge, teacher). It"
+" is assumed that the administration has some basic knowledge of working "
+"with a Linux distribution as the server is intended to be used to teach "
+"the Linux subject in schools. Providing comprehensive server "
+"administration guidance is outside the scope of this document."
 msgstr ""
-"આ માર્ગદર્શિકા મા વપરાશકર્તા માટે રોજ ની ક્રિયાઓ કે જે સંચાલક દ્વારા કરવામાં આવે છે તેના માટે કેટલાક માર્ગદર્શન નો સમાવેશ થાય છે. તે ધારવામાં આવે છે લિનક્સ ના "
-"કેટલાક મૂળભૂત જ્ઞાન ના દસ્તાવેજ એ લિનક્સ વિતરણ સાથે કામ કરવા અને શાળાઓ માં લિનક્સ વિષય શીખવવા માટે અને  ઉપયોગમાં લેવા માટે બનાવેલ છે.  આ માર્ગદર્શિકા નો "
-"એવો કોઈ ઉદેશ્ય નથી કે સંચાલક ને પૂર્ણ લિનક્સ સંચાલન નું જ્ઞાન આપે."
+"આ માર્ગદર્શિકા મા વપરાશકર્તા માટે રોજ ની ક્રિયાઓ કે જે સંચાલક દ્વારા "
+"કરવામાં આવે છે તેના માટે કેટલાક માર્ગદર્શન નો સમાવેશ થાય છે. તે ધારવામાં "
+"આવે છે લિનક્સ ના કેટલાક મૂળભૂત જ્ઞાન ના દસ્તાવેજ એ લિનક્સ વિતરણ સાથે કામ "
+"કરવા અને શાળાઓ માં લિનક્સ વિષય શીખવવા માટે અને  ઉપયોગમાં લેવા માટે બનાવેલ"
+" છે.  આ માર્ગદર્શિકા નો એવો કોઈ ઉદેશ્ય નથી કે સંચાલક ને પૂર્ણ લિનક્સ "
+"સંચાલન નું જ્ઞાન આપે."
 
 #: ../../source/00-index.rst:13
+#, fuzzy
 msgid ""
-"We have created My sCool Server keeping in mind the “ease of use” so quite a lot of tasks(not all of them) can be accomplished without "
-"having to RTFM, however understanding that this device packs a lot of complex technologies so to accomplish anything “under the hood” "
-"the administrator must go through the instructions below at the minimum and follow up reading the manuals provided by applications or "
-"online for more details or tasks not covered here."
+"We have created My sCool Server keeping in mind the “ease of use” so "
+"quite a lot of tasks(not all of them) can be accomplished without having "
+"to `RTFM <https://en.wikipedia.org/wiki/RTFM>`_, however understanding "
+"that this device packs a lot of complex technologies so to accomplish "
+"anything “under the hood” the administrator must go through the "
+"instructions below at the minimum and follow up reading the manuals "
+"provided by applications or online for more details or tasks not covered "
+"here."
 msgstr ""
-"My sCool Server ને  ધ્યાનમાં રાખતા  \"ઉપયોગી સરળ\" રચના કરી છે.વપરાશકર્તા માર્ગદર્શિકા વગર પણ ઘણા કર્યો (બધા નહિ) પરિપૂર્ણ કરી શકાય છે.આ ઉપકરણ માં "
-"ઘણી જટિલ ટેકનોલોજી નો સમાવેશ થાય છે. એટલા માટે સંચાલક ને આ માર્ગદર્શિકા ની જરૂર પડી શકે છે.આ માર્ગદર્શિકા વાંચ્યા પછી પણ , જો જરૂરી હોય તો એપ્લિકેશન "
-"પ્રોગ્રામ માર્ગદર્શિકા અથવા  ઑનલાઇન દસ્તાવેજીકરણ ચકાસો."
+"My sCool Server ને  ધ્યાનમાં રાખતા  \"ઉપયોગી સરળ\" રચના કરી છે.વપરાશકર્તા"
+" માર્ગદર્શિકા વગર પણ ઘણા કર્યો (બધા નહિ) પરિપૂર્ણ કરી શકાય છે.આ ઉપકરણ માં"
+" ઘણી જટિલ ટેકનોલોજી નો સમાવેશ થાય છે. એટલા માટે સંચાલક ને આ માર્ગદર્શિકા "
+"ની જરૂર પડી શકે છે.આ માર્ગદર્શિકા વાંચ્યા પછી પણ , જો જરૂરી હોય તો "
+"એપ્લિકેશન પ્રોગ્રામ માર્ગદર્શિકા અથવા  ઑનલાઇન દસ્તાવેજીકરણ ચકાસો."
 
 #: ../../source/00-index.rst:22
 msgid "Important Notice"
@@ -51,14 +63,20 @@ msgstr "અગત્યની નોટીસ"
 
 #: ../../source/00-index.rst:23
 msgid ""
-"Recherche Tech has supplied this Information believing it to be accurate and reliable at the time of publishing, but is presented "
-"without warranty of any kind, expressed or implied. Users must take full responsibility for their application of any products. "
-"Recherche assumes no responsibility for any errors that may appear in this document. Recherche reserves the right, without notice to "
-"make changes in product design or specifications. Information is subject to change without notice."
+"Recherche Tech has supplied this Information believing it to be accurate "
+"and reliable at the time of publishing, but is presented without warranty"
+" of any kind, expressed or implied. Users must take full responsibility "
+"for their application of any products. Recherche assumes no "
+"responsibility for any errors that may appear in this document. Recherche"
+" reserves the right, without notice to make changes in product design or "
+"specifications. Information is subject to change without notice."
 msgstr ""
-"Recherche Tech એક ચોક્કસ અને વિશ્વસનીય ફોર્મ માં આ માહિતી પ્રકાશિત કરે છે. પરંતુ તે તેના વપરાશ ની કોઈ વોરંટી નથી આપતું.વપરાશકર્તાઓ એ પ્રોડક્ટ નો ઉપીયોગ "
-"કરવા માટે સંપૂર્ણ જવાબદારી લેવી પડશે.આ ડોક્યુમેન્ટ માં કોઈ પણ પ્રકાર ની ભૂલચૂક હોવાની જવાબદારી Recherche Tech લેતું નથી.નોટિસ વગર, Recherche tech "
-"પ્રોડક્ટ ની ડિઝાઇન કે કોન્ફીગરશન ના ફેરફારો કરવા માટે નો હક  રાખે છે.અમે કોઈ પણ વિષય ની માહિતી, નોટિસ વગર બદલી શકીયે છીએ."
+"Recherche Tech એક ચોક્કસ અને વિશ્વસનીય ફોર્મ માં આ માહિતી પ્રકાશિત કરે "
+"છે. પરંતુ તે તેના વપરાશ ની કોઈ વોરંટી નથી આપતું.વપરાશકર્તાઓ એ પ્રોડક્ટ નો"
+" ઉપીયોગ કરવા માટે સંપૂર્ણ જવાબદારી લેવી પડશે.આ ડોક્યુમેન્ટ માં કોઈ પણ "
+"પ્રકાર ની ભૂલચૂક હોવાની જવાબદારી Recherche Tech લેતું નથી.નોટિસ વગર, "
+"Recherche tech પ્રોડક્ટ ની ડિઝાઇન કે કોન્ફીગરશન ના ફેરફારો કરવા માટે નો "
+"હક  રાખે છે.અમે કોઈ પણ વિષય ની માહિતી, નોટિસ વગર બદલી શકીયે છીએ."
 
 #: ../../source/00-index.rst:33
 msgid "Restricted Rights"
@@ -69,50 +87,104 @@ msgid "Copyright 2016 Recherche Tech LLP. All rights reserved."
 msgstr "કૉપિરાઇટ 2016 Recherche Tech LLP. બધા હકો અમારી પાસે રાખેલા છે."
 
 #: ../../source/00-index.rst:36
-msgid "My sCool Server, My sCool Server logo are trademark of Recherche Tech LLP."
-msgstr "My sCool Server અને My sCool Server logo એ Recherche Tech LLP ના ટ્રેડમાર્ક છે."
+#, fuzzy
+msgid ""
+"My sCool Server, My sCool Server logo are trademarks of Recherche Tech "
+"LLP."
+msgstr ""
+"My sCool Server અને My sCool Server logo એ Recherche Tech LLP ના "
+"ટ્રેડમાર્ક છે."
 
-#: ../../source/00-index.rst:40
+#: ../../source/00-index.rst:42
 msgid "Contact"
 msgstr "સંપર્ક માહિતી"
 
-#: ../../source/00-index.rst:44
-msgid "**Corporate Headquarters**"
+#: ../../source/00-index.rst:47
+#, fuzzy
+msgid "Corporate Headquarters"
 msgstr "**કોર્પોરેટ હેડક્વાર્ટર્સ**"
 
-#: ../../source/00-index.rst:46
-msgid "Recherche Tech LLP"
+#: ../../source/00-index.rst:48
+#, fuzzy
+msgid "**Recherche Tech LLP**"
 msgstr "Recherche Tech LLP"
 
-#: ../../source/00-index.rst:48
-msgid "501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad, Gujarat 380015. INDIA."
-msgstr "501/એ, સિનર્જી બિલ્ડીંગ, એલ-74, કોર્પોરેટ રોડ, મકરબા, અમદાવાદ, ગુજરાત 380015. ભારત."
-
 #: ../../source/00-index.rst:49
+#, fuzzy
+msgid "501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,"
+msgstr ""
+"501/એ, સિનર્જી બિલ્ડીંગ, એલ-74, કોર્પોરેટ રોડ, મકરબા, અમદાવાદ, ગુજરાત "
+"380015. ભારત."
+
+#: ../../source/00-index.rst:50
+msgid "Gujarat 380015. INDIA."
+msgstr ""
+
+#: ../../source/00-index.rst:51
 msgid "Phone: +91-79-40080440"
 msgstr "ફોન: +91-79-40080440"
 
-#: ../../source/00-index.rst:50
+#: ../../source/00-index.rst:52
 msgid "Web site: http://www.myscoolserver.com"
 msgstr "વેબસાઇટ: http://www.myscoolserver.com"
 
-#: ../../source/00-index.rst:52
+#: ../../source/00-index.rst:54
+#, fuzzy
 msgid ""
-"Visit  `*www.myscoolserver.com/contact* <http://www.myscoolserver.com/contact>`__ for the regional and latest contact information."
-msgstr "પ્રાદેશિક અને તાજેતરની સંપર્ક માહિતી માટે `www.myscoolserver.com/contact <http://www.myscoolserver.com/contact>`__ જુઓ."
+"Visit http://www.myscoolserver.com/contact for the regional and latest "
+"contact information."
+msgstr ""
+"પ્રાદેશિક અને તાજેતરની સંપર્ક માહિતી માટે `www.myscoolserver.com/contact "
+"<http://www.myscoolserver.com/contact>`__ જુઓ."
 
-#: ../../source/00-index.rst:55
+#: ../../source/00-index.rst:57
 msgid "Social"
 msgstr "સામાજિક માહિતી"
 
-#: ../../source/00-index.rst:56
-msgid "Twitter: `*https://www.twitter.com/myscoolserver* <https://www.twitter.com/myscoolserver>`__"
-msgstr "ટ્વિટર: `https://www.twitter.com/myscoolserver <https://www.twitter.com/myscoolserver>`__"
+#: ../../source/00-index.rst
+msgid "Twitter"
+msgstr ""
 
 #: ../../source/00-index.rst:59
-msgid "Facebook: `*https://www.facebook.com/myscoolserver* <https://www.facebook.com/myscoolserver>`__"
-msgstr "ફેસબુક: `https://www.facebook.com/myscoolserver <https://www.facebook.com/myscoolserver>`__"
+#, fuzzy
+msgid "https://www.twitter.com/myscoolserver"
+msgstr "વેબસાઇટ: http://www.myscoolserver.com"
 
-#: ../../source/00-index.rst:62
-msgid "Google+: `*https://plus.google.com/+Myscoolserver* <https://plus.google.com/+Myscoolserver>`__"
-msgstr "ગૂગલ+: `https://plus.google.com/+Myscoolserver <https://plus.google.com/+Myscoolserver>`__"
+#: ../../source/00-index.rst
+msgid "Facebook"
+msgstr ""
+
+#: ../../source/00-index.rst:61
+#, fuzzy
+msgid "https://www.facebook.com/myscoolserver"
+msgstr "વેબસાઇટ: http://www.myscoolserver.com"
+
+#: ../../source/00-index.rst
+msgid "Google+"
+msgstr ""
+
+#: ../../source/00-index.rst:63
+msgid "https://plus.google.com/+Myscoolserver"
+msgstr ""
+
+#~ msgid ""
+#~ "Twitter: `*https://www.twitter.com/myscoolserver* "
+#~ "<https://www.twitter.com/myscoolserver>`__"
+#~ msgstr ""
+#~ "ટ્વિટર: `https://www.twitter.com/myscoolserver "
+#~ "<https://www.twitter.com/myscoolserver>`__"
+
+#~ msgid ""
+#~ "Facebook: `*https://www.facebook.com/myscoolserver* "
+#~ "<https://www.facebook.com/myscoolserver>`__"
+#~ msgstr ""
+#~ "ફેસબુક: `https://www.facebook.com/myscoolserver "
+#~ "<https://www.facebook.com/myscoolserver>`__"
+
+#~ msgid ""
+#~ "Google+: `*https://plus.google.com/+Myscoolserver* "
+#~ "<https://plus.google.com/+Myscoolserver>`__"
+#~ msgstr ""
+#~ "ગૂગલ+: `https://plus.google.com/+Myscoolserver "
+#~ "<https://plus.google.com/+Myscoolserver>`__"
+

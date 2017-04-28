@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 03:50+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/04-Content Platform.rst:4
+msgid "Content Platform"
+msgstr ""
+
+#: ../../source/04-Content Platform.rst:7
+msgid "Web Server"
+msgstr ""
+
+#: ../../source/04-Content Platform.rst:8
+msgid ""
+"The My sCool Server comes pre-configured with a ready to use web server "
+"to help you host your content and make it available on the local network."
+msgstr ""
+
+#: ../../source/04-Content Platform.rst:12
+msgid ""
+"Hosted content can be accessed from all clients powered by the MSS via "
+"any web browser at"
+msgstr ""
+
+#: ../../source/04-Content Platform.rst:18
+msgid "Each user can host her independent content at"
+msgstr ""
+
+#: ../../source/04-Content Platform.rst:24
+msgid "and it may then be accessed by all connected clients at"
+msgstr ""
+

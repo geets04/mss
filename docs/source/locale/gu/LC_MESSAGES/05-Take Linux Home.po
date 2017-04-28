@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 03:50+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/05-Take Home.rst:2 Linux
+msgid "Take Linux Home"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:5 Linux
+msgid "Create Live USB"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:6 Linux
+msgid ""
+"Li-f-e: Linux for Education OS image is included on the server and can be"
+" used to create a bootable media when logged in as **mssadmin** user."
+msgstr ""
+
+#: ../../source/05-Take Home.rst Linux
+msgid "Note"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:9 Linux
+msgid ""
+"Select \"isohybrid\" / \"EFI\" option when creating a bootable media "
+"intended to boot computers that only support EFI booting. This option can"
+" also boot on legacy hardware so use this if you are not sure about your "
+"hardware capabilities."
+msgstr ""
+
+#: ../../source/05-Take Home.rst:14 Linux
+msgid ""
+"Use of \"isohybrid\" option is officially recommended way of creating "
+"bootable USB, hence more reliable. *Do note that this will wipe the USB "
+"device and cannot be used as a normal storage media from Windows PC.*"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:18 Linux
+msgid ""
+"Use \"Ubuntu\" / \"Legacy\" option if you wish to use the device as a "
+"storage media on Windows or to preserve data. This method requires one "
+"vfat formatted partition on the USB stick. The partition should not be in"
+" use at the time of creating boot media. If booting fails using this "
+"method, use isohybrid / EFI mode."
+msgstr ""
+
+#: ../../source/05-Take Home.rst:25 Linux
+msgid "Via Shortcuts"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:27 Linux
+msgid ""
+"Use either of these launcher icons on the Desktop - ``Live USB GUI EFI`` "
+"or ``Live USB GUI Legacy`` as per your bootable media preference."
+msgstr ""
+
+#: ../../source/05-Take Home.rst:30 Linux
+msgid "Via Menu"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:35 Linux
+msgid ""
+"You will be requested for the ISO image in the above process. The "
+"Li-f-e.iso file is located at one of these directory paths - "
+"``/recovery/`` or ``/home/mssadmin/``"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:38 Linux
+msgid "Via Terminal"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:40 Linux
+msgid ""
+"It may be more convenient to use command line for running this task "
+"multiple times."
+msgstr ""
+
+#: ../../source/05-Take Home.rst:48 Linux
+msgid "References"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:49 Linux
+msgid ""
+"See the following external links *(requires internet)* to learn how to "
+"boot from USB stick and troubleshoot if the USB does not boot:"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:52 Linux
+msgid ""
+"`Change the boot order in BIOS <https://www.lifewire.com/change-the-boot-"
+"order-in-bios-2624528>`_"
+msgstr ""
+
+#: ../../source/05-Take Home.rst:54 Linux
+msgid ""
+"`Boot from a USB device <https://www.lifewire.com/how-to-boot-from-a-usb-"
+"device-2626091>`_"
+msgstr ""
+
