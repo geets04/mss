@@ -4,44 +4,45 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 04:04+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-04-29 07:14+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: ../../source/02-Network.rst:2
 msgid "Network Configuration"
-msgstr ""
+msgstr "નેટવર્ક વ્યવસ્થાપક"
 
 #: ../../source/02-Network.rst:4
 msgid "Via Network Manager"
-msgstr ""
+msgstr "નેટવર્ક ગોઠવણી દ્વારા"
 
 #: ../../source/02-Network.rst:5
 msgid "MSS comes with 2 predefined network configurations: Static and Dynamic."
-msgstr ""
+msgstr "MSS 2 પૂર્વવ્યાખ્યાયિત નેટવર્ક કન્ફિગરેશન્સ સાથે આવે છે: સ્ટેટિક અને ડાયનેમિક."
 
 #: ../../source/02-Network.rst:7
 msgid ""
 "If your network already has a DHCP server serving IP address to devices "
-"connected on your LAN then you need to configure the MSS in Dynamic mode."
-" If no such DHCP server exists, then configure the MSS in Static mode."
+"connected on your LAN then you need to configure the MSS in Dynamic mode. If "
+"no such DHCP server exists, then configure the MSS in Static mode."
 msgstr ""
 
 #: ../../source/02-Network.rst:9
 msgid ""
-"It is safe to assume that in majority of cases where a new network has "
-"just been setup for the purpose of installing the MSS, there is no pre-"
-"existing DHCP server, hence one may safely opt for Static mode."
+"It is safe to assume that in majority of cases where a new network has just "
+"been setup for the purpose of installing the MSS, there is no pre-existing "
+"DHCP server, hence one may safely opt for Static mode."
 msgstr ""
 
 #: ../../source/02-Network.rst:11
@@ -51,9 +52,9 @@ msgstr ""
 #: ../../source/02-Network.rst:13
 msgid ""
 "After login, edit the connection that would not be used and uncheck "
-"“Automatically connect to this network when it is available” to disable "
-"auto-connection attempts in the undesired mode. For example, herein "
-"below, we are *disabling ‘Dynamic’ and enabling ‘Static’ mode*."
+"“Automatically connect to this network when it is available” to disable auto-"
+"connection attempts in the undesired mode. For example, herein below, we are "
+"*disabling ‘Dynamic’ and enabling ‘Static’ mode*."
 msgstr ""
 
 #: ../../source/02-Network.rst:18
@@ -77,69 +78,3 @@ msgid ""
 "Finally, choose “static” in the Network Manager menu and your MSS is now "
 "operating in static mode."
 msgstr ""
-
-#~ msgid "Network"
-#~ msgstr ""
-
-#~ msgid "Network and Services"
-#~ msgstr ""
-
-#~ msgid "Network configuration via Network Manager"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If there is no other DHCP server"
-#~ " in the network select Static "
-#~ "connection from the NetworkManager in "
-#~ "mssadmin account. If there is existing"
-#~ " DHCP server then selecting Dynamic "
-#~ "setup will cause MSS to run in "
-#~ "proxy-DHCP mode, IPs will be "
-#~ "assigned by external DHCP. Edit the "
-#~ "setup which will not be used to"
-#~ " disable ‘auto connect’. No other "
-#~ "configuration changes are required."
-#~ msgstr ""
-
-#~ msgid "Epoptes"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Only user belonging to “epoptes” group"
-#~ " can launch epoptes application, see "
-#~ "User Management for how to add "
-#~ "user to a group. Using epoptes is"
-#~ " self evident and intuitive, however "
-#~ "complete documentation is available here: "
-#~ "`*https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes*"
-#~ " "
-#~ "<https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__"
-#~ msgstr ""
-
-#~ msgid "When launching from Fatclient it has to be launched as below:"
-#~ msgstr ""
-
-#~ msgid "Web Server"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The My sCool Server comes pre-"
-#~ "configured with a ready to use web"
-#~ " server to help you host your "
-#~ "content and make it available on "
-#~ "the local network."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Hosted content can be accessed from "
-#~ "all clients via any web browser at"
-#~ " `*http://server/* <http://server/>`__"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Each user can host their independent "
-#~ "content at /home/<username>/public\\_html and "
-#~ "it may be accessed by all at "
-#~ "`*http://server/~<username>* <http://server/~username>`__"
-#~ msgstr ""
-
