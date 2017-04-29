@@ -4,93 +4,104 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-04-29 19:09+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: ../../source/07-Troubleshooting.rst:2
 msgid "Troubleshooting"
-msgstr ""
+msgstr "મુશ્કેલીનિવારણ"
 
 #: ../../source/07-Troubleshooting.rst:5
 msgid "Booting or Freezing Problem"
-msgstr ""
+msgstr "બુટીંગ અથવા ફ્રીઝિંગ પ્રોબ્લેમ"
 
 #: ../../source/07-Troubleshooting.rst:7
 msgid ""
-"If the client machines do not boot or they freeze while working, it can "
-"be caused by a faulty network cable, connection or switch. Try connecting"
-" a client directly to the server using a LAN cable and attempt booting "
-"the client. If the client boots, it confirms that the client and server "
-"both are in working order. Then continue troubleshooting your physical "
-"network or contact your network engineer."
+"If the client machines do not boot or they freeze while working, it can be "
+"caused by a faulty network cable, connection or switch. Try connecting a "
+"client directly to the server using a LAN cable and attempt booting the "
+"client. If the client boots, it confirms that the client and server both are "
+"in working order. Then continue troubleshooting your physical network or "
+"contact your network engineer."
 msgstr ""
+"જો ક્લાઈન્ટ મશીનો બૂટ કરતા નથી અથવા કામ કરતી વખતે ફ્રીઝ થાય છે, તો તે ખામીવાળી નેટવર્ક "
+"કેબલ, જોડાણ અથવા સ્વીચને કારણે થઇ શકે છે. કોઈ લેન કેબલનો ઉપયોગ કરીને સીધા ક્લાઈન્ટને "
+"ક્લાઇન્ટને કનેક્ટ કરવાનો પ્રયાસ કરો અને ક્લાયન્ટને બુટ કરવાનો પ્રયાસ કરો. જો ક્લાઈન્ટ બુટ "
+"થાય, તો તે ખાતરી કરે છે કે ક્લાઈન્ટ અને સર્વર બન્ને કાર્યકારી હુકમમાં છે. પછી તમારા ભૌતિક "
+"નેટવર્કનું મુશ્કેલીનિવારણ ચાલુ રાખો અથવા તમારા નેટવર્ક ઈજનેરનો સંપર્ક કરો."
 
 #: ../../source/07-Troubleshooting.rst:9
 msgid ""
-"In case the client machines still do not boot after trying all above "
-"steps, :ref:`contact the MSS support team <contact-info>`."
+"In case the client machines still do not boot after trying all above steps, :"
+"ref:`contact the MSS support team <contact-info>`."
 msgstr ""
+"જો ઉપરોક્ત તમામ પગલાઓનો પ્રયાસ કર્યા પછી ક્લાઈન્ટ મશીનો હજુ પણ બૂટ કરતા નથી, તો :ref:"
+"`MSS  સપોર્ટ ટીમને સંપર્ક કરો <contact-info>`."
 
 #: ../../source/07-Troubleshooting.rst:12
 msgid "Top Panel Missing"
-msgstr ""
+msgstr "ટોચના પેનલ ગુમ"
 
 #: ../../source/07-Troubleshooting.rst:14
 msgid "If the top panel does not show up execute the following – ::"
-msgstr ""
+msgstr "જો ટોચનું પેનલ બતાવતું નથી કે તે નીચેના ચલાવશે – ::"
 
 #: ../../source/07-Troubleshooting.rst:20
 msgid "Restore Desktop to Default Settings"
-msgstr ""
+msgstr "ડિફૉલ્ટ સેટિંગ્સ પર ડેસ્કટૉપને પુનઃસ્થાપિત કરો"
 
 #: ../../source/07-Troubleshooting.rst:22
 msgid ""
-"To restore the desktop to default settings of any user run this in "
-"terminal from mssadmin account login once the user has logged out – ::"
+"To restore the desktop to default settings of any user run this in terminal "
+"from mssadmin account login once the user has logged out – ::"
 msgstr ""
+"ડેસ્કટૉપને કોઈ પણ વપરાશકર્તાની ડિફૉલ્ટ સુયોજનોને પુનઃસ્થાપિત કરવા માટે ટર્મિનલમાંથી "
+"mssadmin એકાઉન્ટ લોગિનમાંથી આ વપરાશકર્તા લૉગ આઉટ થયા પછી – ::"
 
 #: ../../source/07-Troubleshooting.rst:27
 msgid "Next ask the user to login again."
-msgstr ""
+msgstr "આગળ વપરાશકર્તા ફરીથી લૉગિનને પૂછો."
 
 #: ../../source/07-Troubleshooting.rst:29
 msgid "*or*"
-msgstr ""
+msgstr "*અથવા*"
 
 #: ../../source/07-Troubleshooting.rst:31
 msgid "Users can also try this from a running session - ::"
-msgstr ""
+msgstr "વપરાશકર્તાઓ ચાલતી સત્રમાંથી આ પણ અજમાવી શકે છે - ::"
 
 #: ../../source/07-Troubleshooting.rst:36
 msgid "User will need to log out and back in for changes to apply."
-msgstr ""
+msgstr "ફેરફારો કરવા માટે વપરાશકર્તાને લૉગ આઉટ કરવાની અને પાછા આવવાની જરૂર પડશે."
 
 #: ../../source/07-Troubleshooting.rst:39
 msgid "Remote Desktop Connection Issues"
-msgstr ""
+msgstr "રિમોટ ડેસ્કટોપ કન્નેકશન સમસ્યાઓ"
 
 #: ../../source/07-Troubleshooting.rst:41
 msgid "Try the following steps as mssadmin user (enter password when prompted) -"
 msgstr ""
+"વપરાશકર્તા 'mssadmin' તરીકે નીચેના પગલાંઓ અજમાવો (પૂછવામાં આવે ત્યારે પાસવર્ડ દાખલ કરો) -"
 
 #: ../../source/07-Troubleshooting.rst:43
 msgid "Check the status of the service ::"
-msgstr ""
+msgstr "સેવાની સ્થિતિ તપાસો ::"
 
 #: ../../source/07-Troubleshooting.rst:48
 msgid "Restart the service ::"
-msgstr ""
+msgstr "સેવા પુનઃપ્રારંભ કરો ::"
 
 #: ../../source/07-Troubleshooting.rst:53
 msgid "To check the XRDP processes running ::"
@@ -106,58 +117,5 @@ msgstr ""
 
 #: ../../source/07-Troubleshooting.rst:68
 msgid ""
-"Try a user part from one that may currently be logged into an active "
-"session."
+"Try a user part from one that may currently be logged into an active session."
 msgstr ""
-
-#~ msgid "Booting"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If the client does not boot or "
-#~ "freezes while working - It can be"
-#~ " caused by faulty network cable, "
-#~ "connection or switch, try direct "
-#~ "connection to the server to ensure "
-#~ "that the client and server both "
-#~ "are in working order then troubleshoot"
-#~ " physical network."
-#~ msgstr ""
-
-#~ msgid "Panel"
-#~ msgstr ""
-
-#~ msgid "If the panel does not show up -"
-#~ msgstr ""
-
-#~ msgid "Alt+F2 -> resetpanel"
-#~ msgstr ""
-
-#~ msgid "Default settings"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To bring the desktop to default "
-#~ "settings of any user run this in"
-#~ " terminal from mssadmin account login "
-#~ "-"
-#~ msgstr ""
-
-#~ msgid "Users can also try this from running session -"
-#~ msgstr ""
-
-#~ msgid "Alt+F2 -> resetdesktop"
-#~ msgstr ""
-
-#~ msgid "Will need log out and back in for changes to apply."
-#~ msgstr ""
-
-#~ msgid "XRDP Remote Desktop Connection"
-#~ msgstr ""
-
-#~ msgid "log files related to XRDP ::"
-#~ msgstr ""
-
-#~ msgid "Try different users, the one not already logged in"
-#~ msgstr ""
-
