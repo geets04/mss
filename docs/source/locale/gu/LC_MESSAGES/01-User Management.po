@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 04:01+0530\n"
-"PO-Revision-Date: 2017-04-01 13:27+0530\n"
+"PO-Revision-Date: 2017-04-29 07:06+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: ../../source/01-User Management.rst:4
 msgid "User Management"
@@ -25,7 +26,7 @@ msgstr "વપરાશકર્તા વ્યવસ્થાપન"
 
 #: ../../source/01-User Management.rst:6
 msgid "Via GUI:"
-msgstr ""
+msgstr "GUI દ્વારા:"
 
 #: ../../source/01-User Management.rst:8
 msgid "System → Administration → Users and Groups"
@@ -33,7 +34,7 @@ msgstr ""
 
 #: ../../source/01-User Management.rst:11
 msgid "Via Commandline:"
-msgstr ""
+msgstr "કંમાન્ડલાઇન દ્વારા:"
 
 #: ../../source/01-User Management.rst:12
 msgid "Login as mssadmin and then execute the following commands in a terminal –"
@@ -53,16 +54,17 @@ msgstr ""
 
 #: ../../source/01-User Management.rst:29
 msgid ""
-"To add a user to epoptes group, needed only for teachers and admin "
-"accounts – ::"
+"To add a user to epoptes group, needed only for teachers and admin accounts "
+"– ::"
 msgstr ""
 
 #: ../../source/01-User Management.rst:34
 msgid ""
-"By default, the appliance is shipped with the following user accounts "
-"pre-configured i.e. if no customisation has been requested during order "
-"placement –"
+"By default, the appliance is shipped with the following user accounts pre-"
+"configured i.e. if no customisation has been requested during order placement –"
 msgstr ""
+"ડિફૉલ્ટ સર્વરને નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે જે પૂર્વ-સમન્વયિત છે.\n"
+"જો ઓર્ડર પ્લેસમેન્ટ દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી –"
 
 #: ../../source/01-User Management.rst:36
 msgid "**student accounts:** student1 to student100; **password:** 12345"
@@ -71,11 +73,3 @@ msgstr ""
 #: ../../source/01-User Management.rst:38
 msgid "**teacher accounts:** teacher1 to teacher10; **password:** imteacher"
 msgstr ""
-
-#~ msgid ""
-#~ "Default server is shipped with the "
-#~ "following user accounts pre-configured "
-#~ "i.e. if no customisation has been "
-#~ "requested during order placement -"
-#~ msgstr ""
-
