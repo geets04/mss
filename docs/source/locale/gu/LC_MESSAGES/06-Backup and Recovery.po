@@ -4,23 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-04-29 18:33+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: ../../source/06-Backup Recovery.rst:2 and
 msgid "Backup and Recovery"
-msgstr ""
+msgstr "બેકઅપ અને પુનઃપ્રાપ્તિ"
 
 #: ../../source/06-Backup Recovery.rst:3 and
 msgid ""
@@ -73,8 +74,8 @@ msgstr ""
 #: ../../source/06-Backup Recovery.rst:30 and
 msgid ""
 "Snapshot management is beyond the scope of this tool and document. Refer "
-"`borg documentation "
-"<http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details."
+"`borg documentation <http://borgbackup.readthedocs.io/en/stable/usage."
+"htm>`_ for details."
 msgstr ""
 
 #: ../../source/06-Backup Recovery.rst:32 and
@@ -87,8 +88,8 @@ msgstr ""
 
 #: ../../source/06-Backup Recovery.rst:41 and
 msgid ""
-"To create a custom snapshot, for example, creating a snapshot of "
-"``/home``:"
+"To create a custom snapshot, for example, creating a snapshot of ``/"
+"home``:"
 msgstr ""
 
 #: ../../source/06-Backup Recovery.rst:49 and
@@ -102,59 +103,3 @@ msgstr ""
 #: ../../source/06-Backup Recovery.rst:59 and
 msgid "When restoration is complete:"
 msgstr ""
-
-#~ msgid ""
-#~ "MSS provides ‘Factory Restore’ option "
-#~ "via boot menu or special USB "
-#~ "created with the tool recovery.sh. "
-#~ "Factory Restore will restore the system"
-#~ " to the state the server left "
-#~ "our premises, which may include "
-#~ "customizations such as user accounts etc"
-#~ " if the data is given at the"
-#~ " time of order placement."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Multiple snapshots can be created, it"
-#~ " is limited by space allocated > "
-#~ "to /recovery partition, however we are"
-#~ " using borg deduplicated > backup so"
-#~ " only the changes made to system "
-#~ "are stored on rerun of > the "
-#~ "following command as root (sudo su "
-#~ "-):"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To restore to factory from running "
-#~ "system, run the following as root "
-#~ "> (sudo su -):"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Snapshots are numerical, 1 being the "
-#~ "factory, by default running > restore"
-#~ " will restore to that snapshot, to"
-#~ " restore to last snapshot > taken "
-#~ "run the following as root (sudo su"
-#~ " -):"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Snapshot management is beyond the scope"
-#~ " of this tool and document, refer "
-#~ "borg documentation for details: "
-#~ "`*http://borgbackup.readthedocs.io/en/stable/usage.htm* "
-#~ "<http://borgbackup.readthedocs.io/en/stable/usage.htm>`__"
-#~ msgstr ""
-
-#~ msgid "To create snapshot of /home for example:"
-#~ msgstr ""
-
-#~ msgid "To restore /home from snapshot"
-#~ msgstr ""
-
-#~ msgid "When done:"
-#~ msgstr ""
-

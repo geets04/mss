@@ -4,45 +4,52 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-04-29 18:24+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: ../../source/05-Take Home.rst:2 Linux
 msgid "Take Linux Home"
-msgstr ""
+msgstr "Linux ઘરે લો"
 
 #: ../../source/05-Take Home.rst:5 Linux
 msgid "Create Live USB"
-msgstr ""
+msgstr "લાઈવ યુએસબી બનાવવી"
 
 #: ../../source/05-Take Home.rst:6 Linux
 msgid ""
-"Li-f-e: Linux for Education OS image is included on the server and can be"
-" used to create a bootable media when logged in as **mssadmin** user."
+"Li-f-e: Linux for Education OS image is included on the server and can "
+"be used to create a bootable media when logged in as **mssadmin** user."
 msgstr ""
+"Li-f-e: શિક્ષણ માટે Linux ઓએસ ઈમેજ સર્વર પર શામેલ છે અને mssadmin એકાઉન્ટ તરીકે "
+"લૉગ ઇન થયા પછી બૂટ થઇ શકાય તેવી માધ્યમને બનાવવા માટે વાપરી શકાય છે."
 
 #: ../../source/05-Take Home.rst Linux
 msgid "Note"
-msgstr ""
+msgstr "ધ્યાનમાં રાખવું"
 
 #: ../../source/05-Take Home.rst:9 Linux
 msgid ""
 "Select \"isohybrid\" / \"EFI\" option when creating a bootable media "
-"intended to boot computers that only support EFI booting. This option can"
-" also boot on legacy hardware so use this if you are not sure about your "
-"hardware capabilities."
+"intended to boot computers that only support EFI booting. This option "
+"can also boot on legacy hardware so use this if you are not sure about "
+"your hardware capabilities."
 msgstr ""
+"\"Isohybrid\" / \"UEFI\" વિકલ્પ પસંદ કરો જ્યારે કમ્પ્યૂટરો બુટ કરવા માટેનો બુટ કરી "
+"શકાય તેવી મીડિયા બનાવતી હોય જે ફક્ત EFI બુટીંગને આધાર આપે છે. આ વિકલ્પ લીગસી "
+"હાર્ડવેર પર પણ બુટ કરી શકે છે. તેથી આનો ઉપયોગ કરો જો તમને તમારી હાર્ડવેર ક્ષમતાઓ "
+"વિશે ચોક્કસ ન હોય તો."
 
 #: ../../source/05-Take Home.rst:14 Linux
 msgid ""
@@ -50,66 +57,83 @@ msgid ""
 "bootable USB, hence more reliable. *Do note that this will wipe the USB "
 "device and cannot be used as a normal storage media from Windows PC.*"
 msgstr ""
+"\"isohybrid\" વિકલ્પનો ઉપયોગ સત્તાવાર રીતે બાયબલ યુએસબી બનાવવાનો આગ્રહણીય છે, "
+"તેથી તે વધુ વિશ્વસનીય છે. *નોંધ કરો કે આ USB ઉપકરણને સાફ કરશે અને Windows PC માંથી "
+"સામાન્ય સ્ટોરેજ મીડિયા તરીકે ઉપયોગ કરી શકાશે નહીં.*"
 
 #: ../../source/05-Take Home.rst:18 Linux
 msgid ""
 "Use \"Ubuntu\" / \"Legacy\" option if you wish to use the device as a "
 "storage media on Windows or to preserve data. This method requires one "
-"vfat formatted partition on the USB stick. The partition should not be in"
-" use at the time of creating boot media. If booting fails using this "
+"vfat formatted partition on the USB stick. The partition should not be "
+"in use at the time of creating boot media. If booting fails using this "
 "method, use isohybrid / EFI mode."
 msgstr ""
+"\"Ubuntu\" / \"Legacy\" વિકલ્પનો ઉપયોગ કરો જો તમે ઉપકરણને Windows પર સ્ટોરેજ "
+"મીડિયા તરીકે વાપરવા અથવા ડેટાને બચાવવા માંગો છો. આ પદ્ધતિને USB સ્ટીક પર એક "
+"vfat ફોર્મેટ કરેલ પાર્ટીશનની જરૂર છે. બુટ મીડિયા બનાવતી વખતે પાર્ટીશનનો ઉપયોગ ન "
+"કરવો જોઇએ. જો બુટીંગ આ પદ્ધતિની મદદથી નિષ્ફળ જાય તો, \"isohybrid / EFI\" "
+"વિકલ્પ વાપરો."
 
 #: ../../source/05-Take Home.rst:25 Linux
 msgid "Via Shortcuts"
-msgstr ""
+msgstr "શૉર્ટકટ્સ દ્વારા"
 
 #: ../../source/05-Take Home.rst:27 Linux
 msgid ""
 "Use either of these launcher icons on the Desktop - ``Live USB GUI EFI`` "
 "or ``Live USB GUI Legacy`` as per your bootable media preference."
 msgstr ""
+"ડેસ્કટોપ - \"Live USB GUI EFI\" અથવા \"Live USB GUI Legacy\" પરના આ બન્ને "
+"લૉન્ચર આઇકોન્સનો ઉપયોગ કરો તમારી બૂટ-લેબલ મીડિયાની પસંદગી મુજબ."
 
 #: ../../source/05-Take Home.rst:30 Linux
 msgid "Via Menu"
-msgstr ""
+msgstr "મેનુ દ્વારા"
 
 #: ../../source/05-Take Home.rst:35 Linux
 msgid ""
-"You will be requested for the ISO image in the above process. The "
-"Li-f-e.iso file is located at one of these directory paths - "
-"``/recovery/`` or ``/home/mssadmin/``"
+"You will be requested for the ISO image in the above process. The Li-f-e."
+"iso file is located at one of these directory paths - ``/recovery/`` or "
+"``/home/mssadmin/``."
 msgstr ""
+"ઉપરોક્ત પ્રક્રિયામાં તમને ISO ઇમેજ માટે વિનંતી કરવામાં આવશે. Li-f-e.iso ફાઇલ આ "
+"ડિરેક્ટરી પથમાંની એક પર સ્થિત છે - `` /recovery/ `` અથવા ``/home/mssadmin/``."
 
 #: ../../source/05-Take Home.rst:38 Linux
 msgid "Via Terminal"
-msgstr ""
+msgstr "ટર્મિનલ દ્વારા"
 
 #: ../../source/05-Take Home.rst:40 Linux
 msgid ""
 "It may be more convenient to use command line for running this task "
 "multiple times."
-msgstr ""
+msgstr "આ કાર્યને ઘણી વખત ચલાવવા માટે આદેશ વાક્યનો ઉપયોગ કરવો વધુ અનુકૂળ હોઈ શકે છે."
 
 #: ../../source/05-Take Home.rst:48 Linux
 msgid "References"
-msgstr ""
+msgstr "સંદર્ભ"
 
 #: ../../source/05-Take Home.rst:49 Linux
 msgid ""
 "See the following external links *(requires internet)* to learn how to "
 "boot from USB stick and troubleshoot if the USB does not boot:"
 msgstr ""
+"USB સ્ટીકથી કેવી રીતે બુટ કરવું તે જાણવા માટે નીચેના બાહ્ય લિંક્સને જુઓ અને USB બુટ ન "
+"થાય તો મુશ્કેલી નિવારવા *(ઇન્ટરનેટની જરૂર છે)*:"
 
 #: ../../source/05-Take Home.rst:52 Linux
 msgid ""
 "`Change the boot order in BIOS <https://www.lifewire.com/change-the-boot-"
 "order-in-bios-2624528>`_"
 msgstr ""
+"`BIOS માં બુટ ક્રમમાં બદલો <https://www.lifewire.com/change-the-boot-order-"
+"in-bios-2624528>`_"
 
 #: ../../source/05-Take Home.rst:54 Linux
 msgid ""
 "`Boot from a USB device <https://www.lifewire.com/how-to-boot-from-a-usb-"
 "device-2626091>`_"
 msgstr ""
-
+"`USB ઉપકરણમાંથી બુટ કરો <https://www.lifewire.com/how-to-boot-from-a-usb-"
+"device-2626091>`_"
