@@ -1,10 +1,9 @@
-.. My sCool Server documentation master file, created by
-   sphinx-quickstart on Fri Jan 27 17:56:13 2017.
+.. My sCool Server documentation master file.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to My sCool Server's documentation!
-===========================================
+Welcome to the My sCool Server documentation!
+=============================================
 
 .. toctree::
    :maxdepth: 2
@@ -18,5 +17,4 @@ Welcome to My sCool Server's documentation!
    06-Backup and Recovery
    07-Troubleshooting
    08-Useful Documentation and Support
-  
-
+   09-Reach the MSS Team
