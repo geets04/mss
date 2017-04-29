@@ -1,5 +1,5 @@
 Network Configuration
-====================
+=====================
 Via Network Manager
 -----------------------------------------
 MSS comes with 2 predefined network configurations: Static and Dynamic.
@@ -14,21 +14,25 @@ After login, edit the connection that would not be used and uncheck “Automatic
 
 .. figure:: images/edit-connections.jpg
    :alt: Network Manager - Edit Connections
+
 **Network Manager - Edit Connections**
 
 
 .. figure:: images/network-connections-open.png
    :alt: Network Connections Window
+
 **Network Connections**
 
 
 .. figure:: images/dynamic-off.png
    :alt: Editing dynamic window
+
 **Uncheck to switch off dynamic mode**
 
 
 .. figure:: images/static-on.png
    :alt: Editing static window
+
 **Check to switch on static mode**
 
 Finally, choose “static” in the Network Manager menu and your MSS is now operating in static mode.

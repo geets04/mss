@@ -20,7 +20,7 @@ more details or tasks not covered here.
 
 Important Notice
 ----------------
-Recherche Tech has supplied this Information believing it to be accurate
+Recherche Tech has supplied this information believing it to be accurate
 and reliable at the time of publishing, but is presented without
 warranty of any kind, expressed or implied. Users must take full
 responsibility for their application of any products. Recherche assumes

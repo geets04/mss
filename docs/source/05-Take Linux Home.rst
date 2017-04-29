@@ -32,7 +32,7 @@ Via Menu
 
   System Tools -> Live USB GUI
 
-You will be requested for the ISO image in the above process. The Li-f-e.iso file is located at one of these directory paths - ``/recovery/`` or ``/home/mssadmin/``
+You will be requested for the ISO image in the above process. The Li-f-e.iso file is located at one of these directory paths - ``/recovery/`` or ``/home/mssadmin/``.
 
 Via Terminal
 ^^^^^^^^^^^^
