@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 04:01+0530\n"
-"PO-Revision-Date: 2017-04-29 07:06+0530\n"
+"PO-Revision-Date: 2017-04-30 13:49+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -38,33 +38,35 @@ msgstr "કંમાન્ડલાઇન દ્વારા:"
 
 #: ../../source/01-User Management.rst:12
 msgid "Login as mssadmin and then execute the following commands in a terminal –"
-msgstr ""
+msgstr "મસ્સડમીન (mssadmin) તરીકે લોગીન કરો અને પછી નીચેનાં આદેશો ટર્મિનલમાં આપો –"
 
 #: ../../source/01-User Management.rst:14
 msgid "To switch to root user privileges – ::"
-msgstr ""
+msgstr "રુટ યુઝર વિશેષાધિકારો પર સ્વિચ કરવા માટે - ::"
 
 #: ../../source/01-User Management.rst:19
 msgid "To add a new user – ::"
-msgstr ""
+msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
 
 #: ../../source/01-User Management.rst:24
 msgid "To set a password for a previously created user – ::"
-msgstr ""
+msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
 
 #: ../../source/01-User Management.rst:29
 msgid ""
 "To add a user to epoptes group, needed only for teachers and admin accounts "
 "– ::"
 msgstr ""
+"એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ માટે જ "
+"જરૂરી છે) – ::"
 
 #: ../../source/01-User Management.rst:34
 msgid ""
 "By default, the appliance is shipped with the following user accounts pre-"
 "configured i.e. if no customisation has been requested during order placement –"
 msgstr ""
-"ડિફૉલ્ટ સર્વરને નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે જે પૂર્વ-સમન્વયિત છે.\n"
-"જો ઓર્ડર પ્લેસમેન્ટ દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી –"
+"સર્વર નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે તે પૂર્વ-સમન્વયિત છે (જો ઓર્ડર પ્લેસમેન્ટ "
+"દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી) –"
 
 #: ../../source/01-User Management.rst:36
 msgid "**student accounts:** student1 to student100; **password:** 12345"
