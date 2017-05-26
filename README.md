@@ -12,7 +12,9 @@ For issues related to the My sCool Server report them at the [github issue track
 
 Also this place is not for support requests, use respective forums of applications for that purpose. 
 
-We use Ubuntu-Mate as base, bugs for Ubuntu and Ubuntu Mate should be reported there.
+We use Ubuntu-Mate as base, bugs for Ubuntu, Ubuntu Mate and packages from their respective repositories(or ppa) should be reported on their bug trackers.
+
+Add-on content is not part of MSS, it is provided free of cost upon request from schools, use their respective forums for any issues with them or features needed.
 
 Bugs in Ubuntu or applications
 ------------------------------
