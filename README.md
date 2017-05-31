@@ -6,7 +6,7 @@ Support for My sCool Server
 ---------------------------
 For support documentation related to the MSS project refer [Documentation and Support](http://mss-doc.readthedocs.io/en/latest/08-Useful%20Documentation%20and%20Support.html).
 
-For issues specifically related to the My sCool Server report them at the [github issue tracker](https://github.com/cyberorg/myscoolserver/issues).
+For issues specifically related to the My sCool Server report them at the [github issue tracker](https://github.com/RechercheTech/mss/issues).
 
 **NOTE:** Report issues or feature requests with applications and add-on contents on their respective bug trackers/forums, this space is for issues directly related to MSS only.
 
