@@ -30,21 +30,25 @@ msgid ""
 "server and we do not penalise you for doing so. The My sCool Server "
 "provides ‘Factory Restore’ options via –"
 msgstr ""
+"અમે સમજીએ છીએ કે અકસ્માતો થાય છે અને તે દરેકને બીજી તક મળે છે. ઓપન સોઉર્સ  બનવું એ સર્વર સાથે ફરવાની લાલચ "
+"થઈ શકે છે અને અમે આમ કરવા માટે તમને શિક્ષા આપતા નથી. My sCool Server 'ફેક્ટરી રીસ્ટોર' વિકલ્પો પ્રદાન "
+"કરે છે -"
 
 #: ../../source/06-Backup Recovery.rst:5 and
 msgid "Server boot menu or"
-msgstr ""
+msgstr "સર્વર બૂટ મેનૂ અથવા"
 
 #: ../../source/06-Backup Recovery.rst:6 and
 msgid "USB created with the recovery.sh tool"
-msgstr ""
+msgstr "recovery.sh ના સાધન સાથે યુએસબી બનાવ્યું"
 
 #: ../../source/06-Backup Recovery.rst:8 and
 msgid ""
 "Factory Restore option restores the system to the state the server left "
 "Recherche’s premises, which may include customisation such as user "
 "accounts etc., if the data is given at the time of order placement."
-msgstr ""
+msgstr "ફેક્ટરી રીસ્ટોર વિકલ્પ સિસ્ટમને પુનઃસ્થાપિત કરે છે જે સર્વરએ Rechercheના સ્થળ છોડી દીધું છે, જેમાં વપરાશકર્તા "
+"એકાઉન્ટ્સ વગેરે જેવી વૈવિધ્યપણું શામેલ હોઈ શકે છે, જો ડેટા ઓર્ડર પ્લેસમેન્ટ સમયે આપવામાં આવે ."
 
 #: ../../source/06-Backup Recovery.rst:10 and
 msgid ""
@@ -53,53 +57,57 @@ msgid ""
 "changes made to system since the last backup are stored on subsequent "
 "backup attempts."
 msgstr ""
+"મલ્ટીપલ સ્નેપશોટ બનાવી શકાય છે. તે /recovery પાર્ટીશન પર ઉપલબ્ધ જગ્યા દ્વારા મર્યાદિત છે. MSS બૉર્ગને "
+"ડુપ્લિકેટ બેકઅપનો ઉપયોગ કરે છે, જેથી માત્ર સિસ્ટમમાં કરવામાં આવેલ ફેરફારો છે કારણ કે છેલ્લા બૅકઅપ અનુગામી બેકઅપ "
+"પ્રયાસો પર સંગ્રહિત છે."
 
 #: ../../source/06-Backup Recovery.rst:12 and
 msgid "To create a backup, run the following command as root (sudo su -):"
-msgstr ""
+msgstr "ચાલતી સિસ્ટમમાંથી ફેક્ટરી ઇમેજને પુનઃસ્થાપિત કરવા માટે, નીચેનાં root (sudo su -) તરીકે ચલાવો :"
 
 #: ../../source/06-Backup Recovery.rst:18 and
 msgid ""
 "To restore to factory image from a running system, run the following as "
 "root (sudo su -):"
-msgstr ""
+msgstr "ચાલતી સિસ્ટમમાંથી ફેક્ટરી ઇમેજને પુનઃસ્થાપિત કરવા માટે, નીચેનાં root (sudo su -) તરીકે ચલાવો :"
 
 #: ../../source/06-Backup Recovery.rst:24 and
 msgid ""
 "Snapshots are numerical, 1 denoting the factory image. By default, "
 "running restore will restore to that snapshot. To restore to last "
 "snapshot taken run the following as root (sudo su -):"
-msgstr ""
+msgstr "સ્નેપશોટ આંકડાકીય છે, 1 ફેક્ટરી ઇમેજને સૂચવતી છે. ડિફૉલ્ટ રૂપે, પુનર્સ્થાપિત કરવાનું તે સ્નેપશોટમાં પુનઃસ્થાપિત થશે. "
+"છેલ્લા સ્નેપશોટમાં પુનઃસ્થાપિત કરવા માટે નીચે root (sudo su -) તરીકે ચલાવો :"
 
 #: ../../source/06-Backup Recovery.rst:30 and
 msgid ""
 "Snapshot management is beyond the scope of this tool and document. Refer "
 "`borg documentation <http://borgbackup.readthedocs.io/en/stable/usage."
 "htm>`_ for details."
-msgstr ""
+msgstr "સ્નેપશોટનું સંચાલન આ સાધન અને દસ્તાવેજની અવકાશથી બહાર છે. વિગતો માટે `બોર્ગ દસ્તાવેજીકરણ <http://"
+"borgbackup.readthedocs.io/en/stable/usage.htm>`_ નો સંદર્ભ લો."
 
 #: ../../source/06-Backup Recovery.rst:32 and
 msgid "Herein are just a few examples of what can be done with ``borg``:"
-msgstr ""
+msgstr "અહીં ``borg`` સાથે શું કરી શકાય તેના કેટલાક ઉદાહરણો છે:"
 
 #: ../../source/06-Backup Recovery.rst:34 and
 msgid "To list all snapshots:"
-msgstr ""
+msgstr "બધા સ્નેપશોટને સૂચિબદ્ધ કરવા માટે:"
 
 #: ../../source/06-Backup Recovery.rst:41 and
-msgid ""
-"To create a custom snapshot, for example, creating a snapshot of ``/"
+msgid "To create a custom snapshot, for example, creating a snapshot of ``/"
 "home``:"
-msgstr ""
+msgstr "કસ્ટમ સ્નેપશોટ બનાવવા માટે, ઉદાહરણ તરીકે, ``/home`` નું સ્નેપશોટ બનાવવી:"
 
 #: ../../source/06-Backup Recovery.rst:49 and
 msgid "/backup/folder/path/ must have sufficient space."
-msgstr ""
+msgstr "/backup/folder/path/ પાસે પૂરતી જગ્યા હોવી જ જોઈએ."
 
 #: ../../source/06-Backup Recovery.rst:51 and
 msgid "To restore ``/home`` from snapshot:"
-msgstr ""
+msgstr "સ્નેપશોટમાંથી ``/home`` પુનઃસ્થાપિત કરવા માટે:"
 
 #: ../../source/06-Backup Recovery.rst:59 and
 msgid "When restoration is complete:"
-msgstr ""
+msgstr "પુનઃસંગ્રહ પૂર્ણ થાય ત્યારે:"
