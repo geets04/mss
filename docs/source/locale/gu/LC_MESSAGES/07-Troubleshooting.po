@@ -105,17 +105,17 @@ msgstr "સેવા પુનઃપ્રારંભ કરો ::"
 
 #: ../../source/07-Troubleshooting.rst:53
 msgid "To check the XRDP processes running ::"
-msgstr ""
+msgstr "XRDP પ્રક્રિયાઓ ચાલી રહ્યું છે તે ચકાસવા માટે ::"
 
 #: ../../source/07-Troubleshooting.rst:58
 msgid "Log files related to XRDP ::"
-msgstr ""
+msgstr "XRDP થી સંબંધિત લોગ ફાઈલો ::"
 
 #: ../../source/07-Troubleshooting.rst:63
 msgid "To specifically diagnose rdp login issue. ::"
-msgstr ""
+msgstr "rdp લૉગિન સમસ્યાને નિદાન કરવા માટે. ::"
 
 #: ../../source/07-Troubleshooting.rst:68
 msgid ""
 "Try a user part from one that may currently be logged into an active session."
-msgstr ""
+msgstr "કોઈ એક વપરાશકર્તા ભાગનો પ્રયાસ કરો કે જે હાલમાં સક્રિય સત્રમાં લૉગ ઇન થઈ શકે છે."
