@@ -49,8 +49,8 @@ msgid ""
 "u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
 msgstr ""
 "ઍપ્પોટ્સનો ઉપયોગ સ્વયં અને સ્પષ્ટ છે, જો કે સંપૂર્ણ દસ્તાવેજીકરણ ઉપલબ્ધ છે `અહીં <https://"
-"translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>` "
-"__."
+"translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
 msgid "When in Fat-client mode epoptes has to be started as below:"
