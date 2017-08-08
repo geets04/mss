@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-29 21:59+0530\n"
+"POT-Creation-Date: 2017-08-08 12:50+0530\n"
 "PO-Revision-Date: 2017-04-29 20:34+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
@@ -103,7 +103,7 @@ msgid "For issues specific to MSS"
 msgstr "MSS માટે વિશિષ્ટ સમસ્યાઓ માટે"
 
 #: ../../source/08-Useful Documentation Support.rst:39 and
-msgid "https://github.com/cyberorg/myscoolserver/issues"
+msgid "https://github.com/RechercheTech/mss/issues"
 msgstr ""
 
 #: ../../source/08-Useful Documentation Support.rst:42 and
@@ -220,4 +220,7 @@ msgstr ""
 #~ "લગભગ દરેક GUI એપ્લિકેશન F1 દ્વારા "
 #~ "સુલભ્ય સહાય સાથે આવે છે, અને "
 #~ "/usr/share/doc ફોલ્ડરમાં સંબંધિત દસ્તાવેજો."
+
+#~ msgid "https://github.com/cyberorg/myscoolserver/issues"
+#~ msgstr ""
 
