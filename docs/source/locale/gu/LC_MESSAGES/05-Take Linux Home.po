@@ -93,7 +93,6 @@ msgid "Via Menu"
 msgstr "મેનુ દ્વારા"
 
 #: ../../source/05-Take Home.rst:35 Linux
-#, fuzzy
 msgid ""
 "You will be requested for the ISO image in the above process. The "
 "Li-f-e.iso file is located at one of these directory paths - "
