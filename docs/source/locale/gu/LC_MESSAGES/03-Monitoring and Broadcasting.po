@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 12:58+0530\n"
-"PO-Revision-Date: 2017-08-08 13:07+0530\n"
+"POT-Creation-Date: 2017-04-29 03:50+0530\n"
+"PO-Revision-Date: 2017-08-08 10:34+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,28 +29,28 @@ msgstr "એપોપટસ"
 
 #: ../../source/03-Monitoring Broadcasting.rst:8 and
 msgid ""
-"Epoptes is a monitoring and broadcasting tool to assist teachers in "
-"imparting lessons."
+"Epoptes is a monitoring and broadcasting tool to assist teachers in imparting "
+"lessons."
 msgstr "એપોપટસ એ પાઠ આપવા માટે શિક્ષકોને મદદ કરવાનો એક સાધન છે."
 
 #: ../../source/03-Monitoring Broadcasting.rst:10 and
 msgid ""
-"Only a user belonging to “epoptes” group can launch epoptes application, "
-"see :ref:`user-management` for how to add user to a group."
+"Only a user belonging to “epoptes” group can launch epoptes application, see :"
+"ref:`user-management` for how to add user to a group."
 msgstr ""
+
 "ફક્ત “epoptes” જૂથથી જ વપરાશકર્તા epoptes એપ્લિકેશન લોન્ચ કરી શકે છે, વપરાશકર્તાને "
 "જૂથમાં કેવી રીતે ઉમેરવું તે માટે વપરાશકર્તા વ્યવસ્થાપન જુઓ."
 
 #: ../../source/03-Monitoring Broadcasting.rst:12 and
 msgid ""
-"All pre-configured teacher accounts are already members of the “epoptes” "
-"group. Using epoptes is self evident and intuitive, however complete "
-"documentation is available `here <https://translate.google.com/translate?"
-"u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+"All pre-configured teacher accounts are already members of the “epoptes” group. "
+"Using epoptes is self evident and intuitive, however complete documentation is "
+"available `here <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/"
+"Linux/epoptes>`__."
 msgstr ""
 "ઍપ્પોટ્સનો ઉપયોગ સ્વયં અને સ્પષ્ટ છે, જો કે સંપૂર્ણ દસ્તાવેજીકરણ ઉપલબ્ધ છે `અહીં <https://"
 "translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
-
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
 msgid "When in Fat-client mode epoptes has to be started as below:"
@@ -58,8 +58,14 @@ msgstr "જ્યારે ફેટક્લાયન્ટ મોડમાં 
 
 #: ../../source/03-Monitoring Broadcasting.rst:20 and
 msgid ""
-"When running in thin-client mode or when directly logged into the MSS, "
-"Epoptes can be started as below:"
+"When running in thin-client mode or when directly logged into the MSS, Epoptes "
+"can be started as below:"
 msgstr ""
+
 "થિન-ક્લાયન્ટ મોડમાં ચાલતી વખતે અથવા MSSમાં જ્યારે સીધી રીતે લૉગ ઇન થાય ત્યારે, "
 "એપોટેટ્સ નીચે પ્રમાણે શરૂ કરી શકાય છે:"
+
+#: ../../source/03-Monitoring Broadcasting.rst:20 and
+msgid "When in Fatclient mode epoptes has to be started as below:"
+msgstr "જ્યારે ફેટક્લાયન્ટ  મોડમાં ઇપોટેટ્સ નીચે પ્રમાણે શરૂ કરવાની હોય:"
+
