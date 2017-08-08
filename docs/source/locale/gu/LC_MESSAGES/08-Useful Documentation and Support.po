@@ -30,7 +30,10 @@ msgid ""
 "everything you need to know about using Ubuntu linux, almost every GUI "
 "application comes with F1 help, and respective documentation in "
 "/usr/share/doc folder."
-msgstr ""
+msgstr "My sCool Server  હેકેટ અને બેંકવેલ કોમિક પુસ્તકો [1]_ અને સ્પોકન ટ્યુટોરીયલ [2]_ ના "
+"સામગ્રી સાથે પહેલાથી આવે છે, જે તમને ઉબુન્ટુ લીનક્સનો ઉપયોગ કરવા વિશે જાણવાની જરૂર છે, "
+"જેમાંથી લગભગ દરેક GUI એપ્લિકેશન F1 મદદ અને સંબંધિત છે. /usr/share/doc ફોલ્ડરમાં "
+"દસ્તાવેજીકરણ."
 
 #: ../../source/08-Useful Documentation Support.rst:9 and
 msgid "Lot more community created documentation is also available online:"
