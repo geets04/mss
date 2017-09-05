@@ -2,6 +2,9 @@
 
 User Management
 ===============
+
+On Start up Boot with Legacy Client Option then perform the following steps –
+
 Via GUI:
 --------
  
