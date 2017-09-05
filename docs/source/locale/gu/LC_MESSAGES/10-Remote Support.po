@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-05 17:45+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/10-Remote Support.rst:4
+msgid "Remote Support"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:6
+msgid "Login with any account"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:8
+msgid "Start Remmina Remote Desktop Client from"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:10
+msgid "Applications → Internet → Remmina"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:13
+msgid "Type \"server\" in textbox and hit Connect"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:13
+msgid "Note : Make sure RDP is selected in dropbox."
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:15
+msgid "Now, Login as mssadmin in remmina screen."
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:17
+msgid "Launch Epoptes from"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:19
+msgid "Applications → Internet → Epoptes"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:21
+msgid "Select Remote Support option"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:23
+msgid "Help → Remote Support"
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:28
+msgid "In Host type the I.P Address provided by technichian and hit Connect."
+msgstr ""
+
+#: ../../source/10-Remote Support.rst:26
+msgid "Note: In Method check \"Graphic(VNC)\" is selected"
+msgstr ""
+

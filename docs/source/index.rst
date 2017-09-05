@@ -18,3 +18,4 @@ Welcome to the My sCool Server documentation!
    07-Troubleshooting
    08-Useful Documentation and Support
    09-Reach the MSS Team
+   10-Remote Support
