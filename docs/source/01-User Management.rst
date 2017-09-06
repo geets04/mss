@@ -25,9 +25,16 @@ To add a new user –
  useradd -m username
 
 To set a password for a previously created user –
+
+**Via GUI :**
 ::
  
- passwd username
+ Alt+F2 -> ltsp-remoteapps users-admin
+
+**Via Terminal :**
+::
+ 
+ Alt+F2 -> ltsp-remoteapps xterm -> passwd
 
 To add a user to epoptes group, needed only for teachers and admin accounts –
 ::
