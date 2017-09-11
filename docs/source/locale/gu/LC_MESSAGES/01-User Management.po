@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-05 17:45+0530\n"
+"POT-Creation-Date: 2017-09-11 16:40+0530\n"
 "PO-Revision-Date: 2017-04-30 13:49+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
@@ -25,7 +25,7 @@ msgstr "વપરાશકર્તા વ્યવસ્થાપન"
 
 #: ../../source/01-User Management.rst:6
 msgid ""
-"On Start up Boot with Legacy Client Option then perform the following "
+"On Start up Boot with Admin-Desktop Option then perform the following "
 "steps –"
 msgstr ""
 
@@ -54,10 +54,19 @@ msgid "To add a new user – ::"
 msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
 
 #: ../../source/01-User Management.rst:27
-msgid "To set a password for a previously created user – ::"
+#, fuzzy
+msgid "To set a password for a previously created user –"
 msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
 
-#: ../../source/01-User Management.rst:32
+#: ../../source/01-User Management.rst:29
+msgid "**Via GUI :** ::"
+msgstr ""
+
+#: ../../source/01-User Management.rst:34
+msgid "**Via Terminal :** ::"
+msgstr ""
+
+#: ../../source/01-User Management.rst:39
 msgid ""
 "To add a user to epoptes group, needed only for teachers and admin "
 "accounts – ::"
@@ -65,7 +74,7 @@ msgstr ""
 "એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન "
 "એકાઉન્ટ્સ માટે જ જરૂરી છે) – ::"
 
-#: ../../source/01-User Management.rst:37
+#: ../../source/01-User Management.rst:44
 msgid ""
 "By default, the appliance is shipped with the following user accounts "
 "pre-configured i.e. if no customisation has been requested during order "
@@ -74,11 +83,45 @@ msgstr ""
 "સર્વર નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે તે પૂર્વ-સમન્વયિત છે (જો"
 " ઓર્ડર પ્લેસમેન્ટ દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી) –"
 
-#: ../../source/01-User Management.rst:39
+#: ../../source/01-User Management.rst:46
 msgid "**student accounts:** student1 to student100; **password:** 12345"
 msgstr ""
 
-#: ../../source/01-User Management.rst:41
+#: ../../source/01-User Management.rst:48
 msgid "**teacher accounts:** teacher1 to teacher10; **password:** imteacher"
 msgstr ""
+
+#: ../../source/01-User Management.rst:51
+msgid "Mass User Addition:"
+msgstr ""
+
+#: ../../source/01-User Management.rst:53
+msgid "Start LibreOffice Calc or any spreadsheet software."
+msgstr ""
+
+#: ../../source/01-User Management.rst:55
+msgid ""
+"Create space separated by \"username password\" file users.csv (`see "
+"sample "
+"<https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_),"
+" there should be no empty lines in the file."
+msgstr ""
+
+#: ../../source/01-User Management.rst:57
+msgid ""
+"Tip: Use Libreoffice Calc to create the file, Save as CSV, Edit filter "
+"settings, Use {space} as field delimeter."
+msgstr ""
+
+#: ../../source/01-User Management.rst:59
+msgid ""
+"Open terminal and execute the command \"sudo massuseradd "
+"/path/to/file/users.csv\" ."
+msgstr ""
+
+#~ msgid ""
+#~ "On Start up Boot with Legacy "
+#~ "Client Option then perform the following"
+#~ " steps –"
+#~ msgstr ""
 

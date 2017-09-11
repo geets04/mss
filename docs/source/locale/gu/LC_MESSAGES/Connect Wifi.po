@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-11 16:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/Connect Wifi.rst:4
+msgid "How to Connect Wi-fi"
+msgstr ""
+
+#: ../../source/Connect Wifi.rst:6
+msgid "Select your wi-fi/hotspot from the list."
+msgstr ""
+
+#: ../../source/Connect Wifi.rst:11
+msgid ""
+"Then you will prompt with the Authenticate window, type password of "
+"mssadmin and hit Authenticate -"
+msgstr ""
+
+#: ../../source/Connect Wifi.rst:16
+msgid ""
+"You will be again asked for the password with the Authenticate window, "
+"type password of mssadmin and hit Authenticate -"
+msgstr ""
+
+#: ../../source/Connect Wifi.rst:21
+msgid ""
+"And then , You need to type your wi-fi/hotspot password in Wi-Fi Network "
+"Authentication Required window -"
+msgstr ""
+

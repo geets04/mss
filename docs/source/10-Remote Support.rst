@@ -17,6 +17,8 @@ Type "server" in textbox and hit Connect
 
 Now, Login as mssadmin in remmina screen.
 
+`Connect Wi-Fi/Hotspot <http://mss-update.readthedocs.io/en/latest/Connect%20Wifi.html#how-to-connect-wi-fi>`__ for Internet Connection.
+
 Launch Epoptes from
 
  Applications → Internet → Epoptes
