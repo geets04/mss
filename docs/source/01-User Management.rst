@@ -3,15 +3,17 @@
 User Management
 ===============
 
-On Start up Boot with Admin-Desktop Option then perform the following steps –
+How to add new user ?
+-----------------------
 
-Via GUI:
---------
+Boot with "Admin-Desktop" then perform the following steps –
+
+**Via GUI:**
  
  System → Administration → Users and Groups
 
-Via Commandline:
-----------------
+**Via Commandline:**
+
 Login as mssadmin and then execute the following commands in a terminal –
 
 To switch to root user privileges –
@@ -23,6 +25,9 @@ To add a new user –
 ::
 
  useradd -m username
+
+How to set a password ?
+-----------------------
 
 To set a password for a previously created user –
 
@@ -48,12 +53,21 @@ By default, the appliance is shipped with the following user accounts pre-config
 **teacher accounts:** teacher1 to teacher10; **password:** imteacher
 
 Mass User Addition:
-----------------
+-------------------
 
-Start LibreOffice Calc or any spreadsheet software.
+For adding more than one users at a time , create users list in LibreOffice Calc .
 
 Create space separated by "username password" file users.csv (`see sample <https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_), there should be no empty lines in the file. 
 
- Tip: Use Libreoffice Calc to create the file, Save as CSV, Edit filter settings, Use {space} as field delimeter.
+	Tip : 
 
-Open terminal and execute the command "sudo massuseradd /path/to/file/users.csv" .
+	* Use LibreOffice Calc to create the file
+
+	* Save file as .csv
+
+	* In Edit filter setting , Use {space} as field delimeter.
+
+Open terminal and execute the command –
+::
+
+ sudo massuseradd /path/to/file/users.csv
