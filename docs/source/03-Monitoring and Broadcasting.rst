@@ -23,8 +23,8 @@ When running in thin-client mode or when directly logged into the MSS, Epoptes c
 
   Applications -> Internet -> Epoptes
 
-How to create Epoptes Launcher ?
--------
+For creating Epoptes Launcher
+----------------------------
 Right click on desktop , then select "Create launcher..."
 
 In Create Launcher Window type "Epoptes" in Name and "ltsp-remoteapps epoptes" in Command then press OK -
