@@ -3,7 +3,7 @@
 User Management
 ===============
 
-How to add new user ?
+To create new user 
 -----------------------
 
 Boot with "Admin-Desktop" then perform the following steps –
@@ -26,7 +26,7 @@ To add a new user –
 
  useradd -m username
 
-How to set a password ?
+To set a new password 
 -----------------------
 
 To set a password for a previously created user –
@@ -63,9 +63,14 @@ Create space separated by "username password" file users.csv (`see sample <https
 
 	* Use LibreOffice Calc to create the file
 
-	* Save file as .csv
+	* Choose File -> Save as. You will see the Save as dialog.
 
-	* In Edit filter setting , Use {space} as field delimeter.
+	* In the File type field select the format "Text CSV (.csv)".
+
+	* Enter a file name as users.csv and click Save.
+
+	* From the Export of text files dialog that appears, select the field delimeter as {space} for the data to be exported, and confirm with OK.
+
 
 Open terminal and execute the command –
 ::
