@@ -3,76 +3,115 @@
 User Management
 ===============
 
-To create new user 
------------------------
+Create new user 
+---------------
 
-Boot with "Admin-Desktop" then perform the following steps –
+Boot into ``Admin-Desktop``, login as *mssadmin* and perform the following steps –
 
-**Via GUI:**
+**Via GUI**
  
  System → Administration → Users and Groups
 
-**Via Commandline:**
+Add new user by pressing the ``+Add`` button, once the existing user list has loaded.
 
-Login as mssadmin and then execute the following commands in a terminal –
+Thereafter set the new user's password when prompted.
 
-To switch to root user privileges –
+**Via Terminal**
+
+ Add a new user –
+::
+
+ sudo useradd -m <username>
+
+Enter *mssadmin's* password when prompted and continue.
+
+
+ Add a user to *epoptes* group (needed only for teacher accounts) –
 ::
  
- sudo su
+ usermod -a -G epoptes <username>
 
-To add a new user –
-::
 
- useradd -m username
+Change password 
+---------------
 
-To set a new password 
------------------------
+.. _change_own_password:
 
-To set a password for a previously created user –
+To change your *own* password press ``Alt+F2``, followed by –
 
-**Via GUI :**
+**Via GUI**
 ::
  
- Alt+F2 -> ltsp-remoteapps users-admin
+ ltsp-remoteapps users-admin
 
-**Via Terminal :**
+Press ``Change...`` against the ``Password:`` label. Thereafter set your password in the ``Change User Password`` dialog.
+
+**Via Terminal**
 ::
  
- Alt+F2 -> ltsp-remoteapps xterm -> passwd
+ ltsp-remoteapps xterm -> passwd
 
-To add a user to epoptes group, needed only for teachers and admin accounts –
-::
+.. _change_other_password:
+
+To change password of *other* user, boot into ``Admin-Desktop``, login as *mssadmin*, followed by –
+
+**Via GUI**
  
- usermod -a -G epoptes username
+ System → Administration → Users and Groups
 
-By default, the appliance is shipped with the following user accounts pre-configured i.e. if no customisation has been requested during order placement –
+Select the user whose password needs changing. Press ``Change...`` against the ``Password`` label. Authenticate with *mssadmin's* password when prompted. Finally set new password in the ``Change User Password`` dialog.
 
-**student accounts:** student1 to student100; **password:** 12345
+**Via Terminal**
+::
 
-**teacher accounts:** teacher1 to teacher10; **password:** imteacher
+ sudo passwd <username>
 
-Mass User Addition:
--------------------
+Enter *mssadmin's* password when prompted and continue.
+ 
 
-For adding more than one users at a time , create users list in LibreOffice Calc .
+Mass user addition
+------------------
 
-Create space separated by "username password" file users.csv (`see sample <https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_), there should be no empty lines in the file. 
+For adding more than one user at a time, create users list in LibreOffice Calc.
 
-	Tip : 
+Create space separated file containing "username password" such as this (`sample <https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_). 
+
+ Note: There should be no empty lines in the file. 
+
+	Steps : 
 
 	* Use LibreOffice Calc to create the file
 
-	* Choose File -> Save as. You will see the Save as dialog.
+	* Choose ``File -> Save as``. You will see the ``Save as`` dialog.
 
-	* In the File type field select the format "Text CSV (.csv)".
+	* In the ``File type`` field select the format ``Text CSV (.csv)``.
 
-	* Enter a file name as users.csv and click Save.
+	* Enter a file name as users.csv and click ``Save``.
 
-	* From the Export of text files dialog that appears, select the field delimeter as {space} for the data to be exported, and confirm with OK.
+	* From the ``Export of text files`` dialog that appears, select the field delimeter as ``{space}`` for the data to be exported, and press OK.
 
 
 Open terminal and execute the command –
 ::
 
- sudo massuseradd /path/to/file/users.csv
+ sudo massuseradd <path_to_csv_file>
+
+Example: 
+:: 
+
+ sudo massuseradd /home/mssadmin/users.csv
+
+Default credentials
+-------------------
+
+By default, the appliance is shipped with the following user accounts pre-configured i.e. if no customisation has been requested during order placement –
+
+==================  ============  ===========
+Account Type        Username      Password
+==================  ============  ===========
+Admin 		    mssadmin	   myskool
+Student             student<n>    12345
+Teacher		    teacher<n>    imteacher
+==================  ============  ===========
+
+**We strongly recommend that all user passwords must be changed upon first time use of a user account.**
