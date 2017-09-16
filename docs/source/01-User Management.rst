@@ -18,7 +18,6 @@ Thereafter set the new user's password when prompted.
 
 **Via Terminal**
 
- Add a new user –
 ::
 
  sudo useradd -m <username>
@@ -26,7 +25,7 @@ Thereafter set the new user's password when prompted.
 Enter *mssadmin's* password when prompted and continue.
 
 
- Add a user to *epoptes* group (needed only for teacher accounts) –
+Adding a user to *epoptes* group (needed only for teacher accounts) –
 ::
  
  usermod -a -G epoptes <username>
@@ -78,17 +77,17 @@ Create space separated file containing "username password" such as this (`sample
 
  Note: There should be no empty lines in the file. 
 
-	Steps : 
+ Steps : 
 
-	* Use LibreOffice Calc to create the file
+ * Use LibreOffice Calc to create the file
 
-	* Choose ``File -> Save as``. You will see the ``Save as`` dialog.
+ * Choose ``File -> Save as``. You will see the ``Save as`` dialog.
 
-	* In the ``File type`` field select the format ``Text CSV (.csv)``.
+ * In the ``File type`` field select the format ``Text CSV (.csv)``.
 
-	* Enter a file name as users.csv and click ``Save``.
+ * Enter a file name as users.csv and click ``Save``.
 
-	* From the ``Export of text files`` dialog that appears, select the field delimeter as ``{space}`` for the data to be exported, and press OK.
+ * From the ``Export of text files`` dialog that appears, select the field delimeter as ``{space}`` for the data to be exported, and press OK.
 
 
 Open terminal and execute the command –
@@ -114,4 +113,4 @@ Student             student<n>    12345
 Teacher		    teacher<n>    imteacher
 ==================  ============  ===========
 
-**We strongly recommend that all user passwords must be changed upon first time use of a user account.**
+**It is strongly recommend that a user must change the account password upon first time use.**
