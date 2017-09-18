@@ -16,6 +16,6 @@ Welcome to the My sCool Server documentation!
    05-Take Linux Home
    06-Backup and Recovery
    07-Troubleshooting
-   08-Useful Documentation and Support
-   09-Reach the MSS Team
-   10-Remote Support
+   08-Remote Support
+   09-Useful Documentation and Support
+   10-Reach the MSS Team
