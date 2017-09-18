@@ -7,28 +7,29 @@ Epoptes
 -------
 Epoptes is a monitoring and broadcasting tool to assist teachers in imparting lessons.
 
-Only a user belonging to “epoptes” group can launch epoptes application, see :ref:`user-management` for how to add user to a group.
+Only a user belonging to “epoptes” group can launch epoptes application, see :ref:`add-user-to-epoptes-group`.
 
-All pre-configured teacher accounts are already members of the “epoptes” group. Using epoptes is self evident and intuitive, however complete documentation is available `here <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__.
+All pre-configured teacher accounts are already members of the *epoptes* group. Using epoptes is self evident and intuitive, however complete documentation is available `here <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__.
 
-When in ``Fat-client`` mode epoptes has to be started as below:
+When using ``English-Desktop``, a teacher can start Epoptes as below:
 
 ::
 
   Alt+F2 -> ltsp-remoteapps epoptes
 
-When running in ``thin-client`` mode or when directly logged into the ``MSS``, Epoptes can be started as below:
 
-:: 
+Create Epoptes Launcher
+-----------------------
+Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click.
 
-  Applications -> Internet -> Epoptes
-
-For creating Epoptes Launcher
-----------------------------
-Right click on desktop, then select ``Create launcher...``
-
-In Create Launcher dialog, type ``Epoptes`` in ``Name`` and ``ltsp-remoteapps epoptes`` in ``Command`` then press OK -
+#. Right click on desktop and select ``Create launcher...``
+#. In ``Create Launcher`` dialog enter -
+  
+  * ``Name`` as ``Epoptes``
+  * ``Command`` as ``ltsp-remoteapps epoptes``
+  * Press OK
 
 .. figure:: images/epoptes-launcher.png
    :alt: Monitoring and Broadcasting - Epoptes Launcher
 
+.. note:: You may need to refresh (:kbd:`F5`) the desktop to see the newly created launcher
