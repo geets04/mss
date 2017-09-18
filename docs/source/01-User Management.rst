@@ -22,6 +22,8 @@ Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –
 
 Enter *mssadmin's* password when prompted and continue.
 
+.. _add-user-to-epoptes-group:
+
 Add user to epoptes group
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
