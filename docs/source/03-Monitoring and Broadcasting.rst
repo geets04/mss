@@ -19,7 +19,7 @@ When using ``English-Desktop``, a teacher can start Epoptes as below:
 
 
 Create Epoptes Launcher
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click.
 
 #. Right click on desktop and select ``Create launcher...``
