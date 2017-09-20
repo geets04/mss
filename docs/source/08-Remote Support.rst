@@ -7,12 +7,14 @@ For getting support remotely from support team, perform the following steps -
 
 * Login with any account, navigate to ``Applications`` → ``Internet`` →  ``Remmina``
 
-* Type ``server`` as shown below and hit ``Connect !``
+* Do following steps -
 
- .. figure:: images/remmina.png
+ #. ``RDP`` must be selected in dropdown box. 
+ #. Type ``server`` as shown below.
+ #. Hit ``Connect !``.
+
+ .. figure:: images/remmina.jpg
    :alt: Remote Support - Reminna
-
- .. note:: ``RDP`` must be selected in dropdown box.
 
 * When connection is established, Login as *mssadmin* in remmina screen .
 
@@ -24,15 +26,17 @@ For getting support remotely from support team, perform the following steps -
 
 * Select ``Remote support`` option from ``Help`` → ``Remote support``
 
- .. figure:: images/epoptes.png
+ .. figure:: images/epoptes.jpg
    :alt: Remote Support - Epoptes
 
-* In ``Host`` type the I.P Address provided by technichian and hit ``Connect``.
+* In ``remote-assistance`` dialog follow the steps below -
 
- .. figure:: images/remote-assistance.png
+ #. In ``Method`` check if ``Graphic(VNC)`` is selected.
+ #. In ``Host`` type ``support.myscoolserver.com:5500`` 
+ #. Hit ``Connect``.
+
+ .. figure:: images/remote-assistance.jpg
    :alt: Remote Support - Remote Assistance
-
- .. note:: In ``Method`` check if ``Graphic(VNC)`` is selected.
 
 * On successful connection, ``Status`` will change to ``Connected``. 
 
@@ -43,9 +47,11 @@ Connect Wi-Fi/Hotspot
 
 For connecting Wi-Fi/Hotspot in MSS, login as *mssadmin* and perform these steps -
 
-* Click on 🡱🡳  from top-right corner of the screen, and click the name of the network you want to connect to.
+* Click on |internet|  from top-right corner of the screen, and click the name of the network you want to connect to.
 
- .. figure:: images/wifi-list.png
+ .. |internet| image:: images/internet-icon.png
+
+ .. figure:: images/wifi-list.jpg
    :alt: Connect Wi-fi - Wi-fi List
 
  .. note:: If the name of the network is not in the list, select ``More networks`` to see if the network is further down the list. If you still do not see the network, your device may be out of range or the network might be hidden.
@@ -66,6 +72,8 @@ For connecting Wi-Fi/Hotspot in MSS, login as *mssadmin* and perform these steps
  .. figure:: images/wifi-authenticate.png
    :alt: Connect Wi-fi - Wi-fi Authentication
 
-* The network icon will change appearance as the computer attempts to connect to the network.
+* The network icon will change to |wifi|
+
+ .. |wifi| image:: images/wifi-icon.png
 
  .. note:: If the connection is not successful, you may be asked for your password again or it might just tell you that the connection has been disconnected. 

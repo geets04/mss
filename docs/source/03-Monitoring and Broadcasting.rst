@@ -22,14 +22,15 @@ Create Epoptes Launcher
 ^^^^^^^^^^^^^^^^^^^^^^^
 Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click.
 
-#. Right click on desktop and select ``Create launcher...``
-#. In ``Create Launcher`` dialog enter -
-  
-  * ``Name`` as ``Epoptes``
-  * ``Command`` as ``ltsp-remoteapps epoptes``
-  * Press OK
+* Right click on desktop and select ``Create launcher...``
 
-.. figure:: images/epoptes-launcher.png
+* In ``Create Launcher`` dialog do following steps -
+  
+  #. Enter ``Name`` as ``Epoptes``
+  #. Enter ``Command`` as ``ltsp-remoteapps epoptes``
+  #. Press OK
+
+.. figure:: images/epoptes-launcher.jpg
    :alt: Monitoring and Broadcasting - Epoptes Launcher
 
 .. note:: You may need to refresh (:kbd:`F5`) the desktop to see the newly created launcher
