@@ -8,64 +8,91 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: 2017-08-08 10:34+0530\n"
+"POT-Creation-Date: 2017-09-20 14:49+0530\n"
+"PO-Revision-Date: 2017-09-27 12:06+0530\n"
+"Last-Translator: \n"
+"Language: gu\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: gu\n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #: ../../source/03-Monitoring Broadcasting.rst:4 and
 msgid "Monitoring and Broadcasting"
-msgstr "મોનિટરિંગ અને પ્રસારણ"
+msgstr "મોનીટરીંગ અને બ્રોડકાસ્ટિંગ"
 
 #: ../../source/03-Monitoring Broadcasting.rst:7 and
 msgid "Epoptes"
-msgstr "એપોપટસ"
+msgstr "Epoptes"
 
 #: ../../source/03-Monitoring Broadcasting.rst:8 and
-msgid ""
-"Epoptes is a monitoring and broadcasting tool to assist teachers in imparting "
-"lessons."
-msgstr "એપોપટસ એ પાઠ આપવા માટે શિક્ષકોને મદદ કરવાનો એક સાધન છે."
+msgid "Epoptes is a monitoring and broadcasting tool to assist teachers in imparting lessons."
+msgstr "Epoptes એક મોનીટરીંગ અને બ્રોડકાસ્ટિંગ ટૂલ છે જે શિક્ષકો ને પાઠ આપવા માં મદદ કરે છે."
 
 #: ../../source/03-Monitoring Broadcasting.rst:10 and
 msgid ""
-"Only a user belonging to “epoptes” group can launch epoptes application, see :"
-"ref:`user-management` for how to add user to a group."
+"Only a user belonging to “epoptes” group can launch epoptes application, see :ref:`add-user-to-epoptes-"
+"group`."
 msgstr ""
-
-"ફક્ત “epoptes” જૂથથી જ વપરાશકર્તા epoptes એપ્લિકેશન લોન્ચ કરી શકે છે, વપરાશકર્તાને "
-"જૂથમાં કેવી રીતે ઉમેરવું તે માટે વપરાશકર્તા વ્યવસ્થાપન જુઓ."
+"જે યુઝર “epoptes” સમૂહ થી જોડાયેલા છે ફક્ત એજ લોકો epoptes એપ્લીકેશન લોંચ કરી સકે છે, જુવો :ref:`add-user-to-epoptes-"
+"group`."
 
 #: ../../source/03-Monitoring Broadcasting.rst:12 and
 msgid ""
-"All pre-configured teacher accounts are already members of the “epoptes” group. "
-"Using epoptes is self evident and intuitive, however complete documentation is "
-"available `here <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/"
-"Linux/epoptes>`__."
+"All pre-configured teacher accounts are already members of the *epoptes* group. Using epoptes is self "
+"evident and intuitive, however complete documentation is available `here <https://translate.google.com/"
+"translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
 msgstr ""
-"ઍપ્પોટ્સનો ઉપયોગ સ્વયં અને સ્પષ્ટ છે, જો કે સંપૂર્ણ દસ્તાવેજીકરણ ઉપલબ્ધ છે `અહીં <https://"
-"translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+"જે શિક્ષકો ના અકાઉંટ પેલા થી કોન્ફિગર કરેલા છે એ લોકો પહેલેથી જ *epoptes* સમુહ ના સદસ્યો છે. Epoptes નું ઉપયોગ આત્મ સ્પષ્ટ અને "
+"સાહજિક છે, જોકે એનું સંપૂર્ણ દસ્તાવેજીકરણ `અહીં <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/"
+"epoptes>`__ ઉપલબ્ધ છે."
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
-msgid "When in Fat-client mode epoptes has to be started as below:"
-msgstr "જ્યારે ફેટક્લાયન્ટ મોડમાં ઇપોટેટ્સ નીચે પ્રમાણે શરૂ કરવાની હોય:"
+msgid "When using ``English-Desktop``, a teacher can start Epoptes as below:"
+msgstr "અગર શિક્ષક ``English-Desktop`` નું ઉપયોગ કરે છે તો, નીચે દીધેલાં માર્ગ પર જઈને Epoptes શૂરું કરી સકે છે:"
 
-#: ../../source/03-Monitoring Broadcasting.rst:20 and
-msgid ""
-"When running in thin-client mode or when directly logged into the MSS, Epoptes "
-"can be started as below:"
-msgstr ""
+#: ../../source/03-Monitoring Broadcasting.rst:22 and
+msgid "Create Epoptes Launcher"
+msgstr "Epoptes લોંચર બનાવું"
 
-"થિન-ક્લાયન્ટ મોડમાં ચાલતી વખતે અથવા MSSમાં જ્યારે સીધી રીતે લૉગ ઇન થાય ત્યારે, "
-"એપોટેટ્સ નીચે પ્રમાણે શરૂ કરી શકાય છે:"
+#: ../../source/03-Monitoring Broadcasting.rst:23 and
+msgid "Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click."
+msgstr "નીચે દીધેલાં ચરણો નું પાલન કરીને શિક્ષકો Epoptes ને એક ક્લિક થી શૂરું કરવા માટે ડેકસ્ટોપ લોંચર બનાવી સકે છે."
 
-#: ../../source/03-Monitoring Broadcasting.rst:20 and
-msgid "When in Fatclient mode epoptes has to be started as below:"
-msgstr "જ્યારે ફેટક્લાયન્ટ  મોડમાં ઇપોટેટ્સ નીચે પ્રમાણે શરૂ કરવાની હોય:"
+#: ../../source/03-Monitoring Broadcasting.rst:25 and
+msgid "Right click on desktop and select ``Create launcher...``"
+msgstr "ડેકસ્ટોપ પર રાઇટ ક્લિક કરો અને સિલેક્ટ કરો ``Create launcher...``"
 
+#: ../../source/03-Monitoring Broadcasting.rst:27 and
+msgid "In ``Create Launcher`` dialog do following steps -"
+msgstr "In ``Create Launcher`` dialog do following steps -"
+
+#: ../../source/03-Monitoring Broadcasting.rst:29 and
+msgid "Enter ``Name`` as ``Epoptes``"
+msgstr "``Name`` માં ``Epoptes`` દાખલ કરો"
+
+#: ../../source/03-Monitoring Broadcasting.rst:30 and
+msgid "Enter ``Command`` as ``ltsp-remoteapps epoptes``"
+msgstr "``Command`` માં ``ltsp-remoteapps epoptes`` દાખલ કરો"
+
+#: ../../source/03-Monitoring Broadcasting.rst:31 and
+msgid "Press OK"
+msgstr "OK દબાઓ"
+
+#: ../../source/03-Monitoring Broadcasting.rst:36 and
+msgid "You may need to refresh (:kbd:`F5`) the desktop to see the newly created launcher"
+msgstr "નવું બનાવેલું લોંચર જોવા માટે તમને ડેસ્કટોપ ને રિફ્રેશ (:kbd:`F5`) કરવુ પડસે"
+
+#~ msgid "When in Fat-client mode epoptes has to be started as below:"
+#~ msgstr "જ્યારે ફેટક્લાયન્ટ મોડમાં ઇપોટેટ્સ નીચે પ્રમાણે શરૂ કરવાની હોય:"
+
+#~ msgid ""
+#~ "When running in thin-client mode or when directly logged into the MSS, Epoptes can be started as below:"
+#~ msgstr ""
+#~ "થિન-ક્લાયન્ટ મોડમાં ચાલતી વખતે અથવા MSSમાં જ્યારે સીધી રીતે લૉગ ઇન થાય ત્યારે, એપોટેટ્સ નીચે પ્રમાણે શરૂ કરી શકાય છે:"
+
+#~ msgid "When in Fatclient mode epoptes has to be started as below:"
+#~ msgstr "જ્યારે ફેટક્લાયન્ટ  મોડમાં ઇપોટેટ્સ નીચે પ્રમાણે શરૂ કરવાની હોય:"

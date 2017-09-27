@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 04:04+0530\n"
-"PO-Revision-Date: 2017-04-30 14:36+0530\n"
+"PO-Revision-Date: 2017-09-27 09:50+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,73 +17,60 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: gu\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #: ../../source/02-Network.rst:2
 msgid "Network Configuration"
-msgstr "નેટવર્ક વ્યવસ્થાપક"
+msgstr "નેટવર્ક કોન્ફિગરેશન"
 
 #: ../../source/02-Network.rst:4
 msgid "Via Network Manager"
-msgstr "નેટવર્ક મેનેગેર દ્વારા"
+msgstr "નેટવર્ક મેનેજર દ્વારા"
 
 #: ../../source/02-Network.rst:5
 msgid "MSS comes with 2 predefined network configurations: Static and Dynamic."
-msgstr "MSS 2 પૂર્વવ્યાખ્યાયિત નેટવર્ક કન્ફિગરેશન્સ સાથે આવે છે: સ્ટેટિક અને ડાયનેમિક."
+msgstr "MSS બે પૂર્વવ્યાખ્યાયિત નેટવર્ક કન્ફિગરેશંસ સાથે આવે છે: સ્ટેટિક અને ડાયનેમિક."
 
 #: ../../source/02-Network.rst:7
 msgid ""
-"If your network already has a DHCP server serving IP address to devices connected on "
-"your LAN then you need to configure the MSS in Dynamic mode. If no such DHCP server "
-"exists, then configure the MSS in Static mode."
-msgstr ""
-"જો તમારા નેટવર્કમાં dhcp સર્વર હોય જે તમારા ઉપકરણનો ને IP એડ્રેસ આપતું હોય તો MSS ને ડાયનામિક "
-"મોડેમાં કોન્ફીગર કરો. જો DHCP સર્વર ના હોય તો MSS ને સ્ટેટિક મોડેમાં કોન્ફીગર કરો."
+"If your network already has a DHCP server serving IP address to devices connected on your LAN then you need to configure the MSS in Dynamic mode. If no such DHCP server exists, then configure the MSS "
+"in Static mode."
+msgstr "યદિ તમારા નેટવર્ક માં પેલ્લા થી જ DHCP સર્વર છે જે તમારા LAN થી જોડાયેલા ડિવાઇસ ને IP એડ્રેસ આપે છે તો તમને MSS ડાયનેમિક મોડ માં કંફિગર કરવું પડસે. યદિ એવું કોઈ DHCP સર્વર નથી , તો MSS ને સ્ટેટિક મોડ માં કંફિગર કરવું પડસે."
 
 #: ../../source/02-Network.rst:9
 msgid ""
-"It is safe to assume that in majority of cases where a new network has just been "
-"setup for the purpose of installing the MSS, there is no pre-existing DHCP server, "
-"hence one may safely opt for Static mode."
-msgstr ""
-"મોટાભાગના કેસોમાં જ્યાં નવું નેટવર્ક ફક્ત MSS ની સ્થાપના કરવા માટે તૈયાર કરવામાં આવ્યું છે, ત્યાં લગભગ "
-"DHCP સર્વર હોવાની સંભાવના ઓછી છે, તેથી કોઈ સ્ટેટિક મોડ પસંદ કરી શકે છે."
+"It is safe to assume that in majority of cases where a new network has just been setup for the purpose of installing the MSS, there is no pre-existing DHCP server, hence one may safely opt for Static "
+"mode."
+msgstr "આ માનવું સેફ છે કે લગભગ બધાજ કેસ માં જ્યાં નવું નેટવર્ક સેટઅપ કરવામાં આવ્યું છે MSS ને ઇન્સ્ટોલ કરવા માટે, ત્યાં કોઈ પેલ્લા થી મૌજૂદ DHCP સર્વર નહી હોય, એટ્લે તમે સેફલી સ્ટેટિક  સર્વર ને પસંદ કરી સકો છો."
 
 #: ../../source/02-Network.rst:11
 msgid "Herein are the details of how to configure in Static or Dynamic mode:"
-msgstr "અહીં સ્ટેટિક અથવા ડાયનેમિક મોડમાં કોન્ફીગર કરવાની વિગતો છે:"
+msgstr "સ્ટેટિક અને ડાયનેમિક મોડ માં કેવી રીતે કંફિગર કરવું તે નીચે સમજાવ્યું છે:"
 
 #: ../../source/02-Network.rst:13
 msgid ""
-"After login, edit the connection that would not be used and uncheck “Automatically "
-"connect to this network when it is available” to disable auto-connection attempts in "
-"the undesired mode. For example, herein below, we are *disabling ‘Dynamic’ and "
-"enabling ‘Static’ mode*."
+"After login, edit the connection that would not be used and uncheck “Automatically connect to this network when it is available” to disable auto-connection attempts in the undesired mode. For "
+"example, herein below, we are *disabling ‘Dynamic’ and enabling ‘Static’ mode*."
 msgstr ""
-"લોગીન થયા પછી, જે મોડ ના વાપરતા હો તેની સેટિંગમાં “Automatically connect to this network "
-"when it is available” અનચેક કરો. આનાથી જે મોડ ના વાપરવાનો હોય તે નિષ્ક્રિય થશે. ઉદાહરણ "
-"તરીકે, નીચે બતાવેલ પ્રમાણે, અમે 'ડાયનેમિક' ને નિષ્ક્રિય કરી રહ્યા છીએ અને 'સ્ટેટિક' મોડને સક્રિય કરી "
-"રહ્યા છીએ."
+"લૉગિન કર્યા પછી જે કનેક્શન નું ઇસ્તેમાલ નથી કરી રયા તેને એડિટ કરો અને “Automatically connect to this network when it is available” ને અનચેક કરો , આવું કરવાથી અનિચ્છિત મોડમાં ઓટો- કનેક્શન ના પ્રયાસો અક્ષમ થઈ જસે. ઉદાહરણ ના "
+"તૌર પર અઇયાં નીચે, અમે *'ડાયનેમિક' મોડે ને અક્ષમ કરી 'સ્ટેટિક' મોડને સક્ષમ કરી રહ્યા છે*."
 
 #: ../../source/02-Network.rst:18
 msgid "**Network Manager - Edit Connections**"
-msgstr ""
+msgstr "**નેટવર્ક મેનેજર - કનેક્શન ને એડિટ કરવું**"
 
 #: ../../source/02-Network.rst:24
 msgid "**Network Connections**"
-msgstr "**નેટવર્ક વ્યવસ્થાપક (Network Manager)**"
+msgstr "**નેટવર્ક કનેક્શન્સ**"
 
 #: ../../source/02-Network.rst:30
 msgid "**Uncheck to switch off dynamic mode**"
-msgstr "**ડાયનેમિક મોડને નિષ્ક્રિય કરવા માટે અનચેક કરો**"
+msgstr "**ડાયનેમિક મોડને બંધ કરવા માટે અનચેક કરો**"
 
 #: ../../source/02-Network.rst:36
 msgid "**Check to switch on static mode**"
-msgstr "**સ્ટેટિક મોડને સક્રિય કરવા માટે ચેક કરો**"
+msgstr "**સ્ટેટિક મોડ પર સ્વિચ કરવા માટે ચેક કરો**"
 
 #: ../../source/02-Network.rst:38
-msgid ""
-"Finally, choose “static” in the Network Manager menu and your MSS is now operating "
-"in static mode."
-msgstr ""
-"છેલ્લે, \"નેટવર્ક વ્યવસ્થાપક\" મેનૂમાં \"સ્ટેટિક\" પસંદ કરો અને તમારું MSS હવે સ્ટેટિક મોડમાં કાર્યરત થશે."
+msgid "Finally, choose “static” in the Network Manager menu and your MSS is now operating in static mode."
+msgstr "છેલ્લે, નેટવર્ક મેનેજર મેન્યૂ માં જઈને \"સ્ટેટિક\" પસંદ કરો અને તમારું MSS હવે સ્ટેટિક મોડ માં કાર્ય કરી રહ્યું છે."
