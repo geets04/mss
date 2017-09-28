@@ -42,9 +42,9 @@ Herein are just a few examples of what can be done with ``borg``:
 
 ::
 
-   borg init --encryption=none </backup/folder/path> /home
+   borg init --encryption=none </backup/folder/path/home>
 
-   borg create --stats --progress --compression lz4 </backup/folder/path>/home::<snapshotname> /home
+   borg create --stats --progress --compression lz4 </backup/folder/path/home>::<snapshotname> /home
 
 /backup/folder/path/ must have sufficient space.
 
