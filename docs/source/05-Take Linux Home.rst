@@ -4,7 +4,7 @@ Take Linux Home
 Create Live USB
 -----------------
 Li-f-e: Linux for Education OS image is included on the server and can
-be used to create a bootable media when logged in as **mssadmin** user.
+be used to create a bootable media by botting into ``Admin-Desktop`` and thereafter logging in as **mssadmin** user.
 
 :Note: Select "isohybrid" / "EFI" option when creating a bootable media intended to 
     boot computers that only support EFI booting. This option can also boot
