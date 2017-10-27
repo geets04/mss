@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: 2017-10-27 13:21+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/04-Content Platform.rst:4
+msgid "Content Platform"
+msgstr "सामग्री प्लेटफार्म"
+
+#: ../../source/04-Content Platform.rst:7
+msgid "Web Server"
+msgstr "वेब सर्वर"
+
+#: ../../source/04-Content Platform.rst:8
+msgid ""
+"The My sCool Server comes pre-configured with a ready to use web server "
+"to help you host your content and make it available on the local network."
+msgstr ""
+"My sCool सर्वर उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता "
+"है, जिससे आपको अपनी सामग्री को रखने और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद "
+"मिलती है."
+
+#: ../../source/04-Content Platform.rst:12
+msgid ""
+"Hosted content can be accessed from all clients powered by the MSS via "
+"any web browser at"
+msgstr ""
+"जो सामग्री आपने उपलब्ध कराई है वो किसी भी वेब ब्राउज़र पर उपलब्ध रहेगी उन सभी "
+"ग्राहको के लिए जो MSS द्वारा संचालित है निम्न लिंक पर"
+
+#: ../../source/04-Content Platform.rst:18
+msgid "Each user can host her independent content at"
+msgstr "प्रत्येक उपयोगकर्ता अपनी स्वतंत्र सामग्री को होस्ट कर सकता है"
+
+#: ../../source/04-Content Platform.rst:24
+msgid "and it may then be accessed by all connected clients at"
+msgstr "और इसके बाद सभी जुड़े ग्राहकों द्वारा इसे एक्सेस किया जा सकता है"

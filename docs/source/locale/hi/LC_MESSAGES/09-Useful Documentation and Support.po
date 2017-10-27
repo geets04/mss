@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: 2017-10-27 15:17+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/09-Useful Documentation Support.rst:2 and
+msgid "Useful Documentation and Support"
+msgstr "उपयोगी दस्तावेज़ीकरण और सहायता"
+
+#: ../../source/09-Useful Documentation Support.rst:4 and
+msgid ""
+"The My sCool Server comes preloaded with Hackett and Bankwell comic "
+"books [1]_ and content from Spoken Tutorial [2]_ that walks you through "
+"everything you need to know about using Ubuntu linux, almost every GUI "
+"application comes with F1 help, and respective documentation in /usr/"
+"share/doc folder."
+msgstr ""
+"My sCool सर्वर हैकेट और बैंकवेल की कॉमिक पुस्तकों [1]_ और स्पोकन टूटोरियल [2]_ के "
+"कंटैंट के साथ आता है जो आपको Ubuntu linux के बारे मे हर वो जानकारी प्राप्त करवाता "
+"है जिसकी आपको आवश्यकता है, अधिकतर सारी gui एप्लीकेशन्स F1 हेल्प के साथ आती है, "
+"जिनसे संबन्धित दस्तावेज़ /usr/share/doc फोंल्डर मे उपलब्ध है."
+
+#: ../../source/09-Useful Documentation Support.rst:9 and
+msgid "Lot more community created documentation is also available online:"
+msgstr ""
+"और भी कई सारे समूहो द्वारा बनाए गए दस्तावेज़ ऑनलाइन निम्न लिंक्स पर उपलब्ध है:"
+
+#: ../../source/09-Useful Documentation Support.rst:11 and
+msgid "https://ubuntu-manual.org"
+msgstr "https://ubuntu-manual.org"
+
+#: ../../source/09-Useful Documentation Support.rst:12 and
+msgid "https://help.ubuntu.com"
+msgstr "https://help.ubuntu.com"
+
+#: ../../source/09-Useful Documentation Support.rst:13 and
+msgid "https://ubuntu-mate.github.io"
+msgstr "https://ubuntu-mate.github.io"
+
+#: ../../source/09-Useful Documentation Support.rst:14 and
+msgid "https://help.ubuntu.com/community/CommonQuestions"
+msgstr "https://help.ubuntu.com/community/CommonQuestions"
+
+#: ../../source/09-Useful Documentation Support.rst:15 and
+msgid "https://help.ubuntu.com/community/Beginners/FAQ"
+msgstr "https://help.ubuntu.com/community/Beginners/FAQ"
+
+#: ../../source/09-Useful Documentation Support.rst:16 and
+msgid "http://askubuntu.com/questions?sort=faq"
+msgstr "http://askubuntu.com/questions?sort=faq"
+
+#: ../../source/09-Useful Documentation Support.rst:17 and
+msgid ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-"
+"install-and-run-first-update/955/7"
+msgstr ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-"
+"install-and-run-first-update/955/7"
+
+#: ../../source/09-Useful Documentation Support.rst:18 and
+msgid "https://ubuntu-mate.org/faq"
+msgstr "https://ubuntu-mate.org/faq"
+
+#: ../../source/09-Useful Documentation Support.rst:21 and
+msgid "Community help for Ubuntu specific issues"
+msgstr "Ubuntu संबन्धित मुद्दो के लिए सामुदायिक सहायता"
+
+#: ../../source/09-Useful Documentation Support.rst:23 and
+msgid "http://community.ubuntu.com/help-information"
+msgstr "http://community.ubuntu.com/help-information"
+
+#: ../../source/09-Useful Documentation Support.rst:24 and
+msgid "https://ubuntu-mate.org/community"
+msgstr "https://ubuntu-mate.org/community"
+
+#: ../../source/09-Useful Documentation Support.rst:27 and
+msgid "Help for typing in your language"
+msgstr "अपनी भाषा मे टाइप करने के लिए मदद"
+
+#: ../../source/09-Useful Documentation Support.rst:29 and
+msgid "https://help.ubuntu.com/community/ibus"
+msgstr "https://help.ubuntu.com/community/ibus"
+
+#: ../../source/09-Useful Documentation Support.rst:32 and
+msgid "For issues specific to Li-f-e"
+msgstr "Li-f-e संबन्धित मुद्दो के लिए"
+
+#: ../../source/09-Useful Documentation Support.rst:34 and
+msgid "https://sourceforge.net/projects/cyberorg-home/support"
+msgstr "https://sourceforge.net/projects/cyberorg-home/support"
+
+#: ../../source/09-Useful Documentation Support.rst:37 and
+msgid "For issues specific to MSS"
+msgstr "MSS संबन्धित मुद्दो के लिए"
+
+#: ../../source/09-Useful Documentation Support.rst:39 and
+msgid "https://github.com/RechercheTech/mss/issues"
+msgstr "https://github.com/RechercheTech/mss/issues"
+
+#: ../../source/09-Useful Documentation Support.rst:42 and
+msgid "Recommended reading before asking for assistance"
+msgstr "सहायता लेने से पहले निम्न अवश्य पढे"
+
+#: ../../source/09-Useful Documentation Support.rst:44 and
+msgid "http://www.catb.org/esr/faqs/smart-questions.html"
+msgstr "http://www.catb.org/esr/faqs/smart-questions.html"
+
+#: ../../source/09-Useful Documentation Support.rst:46 and
+msgid ""
+"Every My sCool Server has a sticker bearing a unique MSS ID or S/N "
+"(Serial Number). This ID is important for all communications with "
+"Recherche Tech in regards to your MSS hardware. If you ever have an "
+"issue with your MSS hardware and it is under warranty, simply open a "
+"ticket through any of the support channels and quote this MSS ID and the "
+"nature of your problem."
+msgstr ""
+"प्रत्येक My sCool सर्वर एक स्टिकर के साथ आता है जिसमे एक अद्वितीय MSS ID या S/N "
+"(क्रमांक) रहता है. यह आईडी रेचेरचे टेक के साथ MSS हार्डवेयर से संबन्धित होने वाले सारे "
+"संवादो के लिए महत्वपूर्ण है. यदि आपको कभी भी MSS हार्डवेयर संबन्धित कोई समस्या आती "
+"है और यह वारंटी के तहत है, तो किसी भी सहायता केंद्र से टिकिट खोले और यह MSS आईडी "
+"और अपनी समस्या का विवरण लिखे."
+
+#: ../../source/09-Useful Documentation Support.rst:53 and
+msgid "Frequently asked questions -"
+msgstr "अक्सर पूछे जाने वाले प्रश्न -"
+
+#: ../../source/09-Useful Documentation Support.rst:55 and
+msgid "http://myscoolserver.com/faqs"
+msgstr "http://myscoolserver.com/faqs"
+
+#: ../../source/09-Useful Documentation Support.rst:58 and
+msgid "Discussion forum -"
+msgstr "चर्चा मंच -"
+
+#: ../../source/09-Useful Documentation Support.rst:60 and
+msgid "http://discourse.myscoolserver.com"
+msgstr "http://discourse.myscoolserver.com"
+
+#: ../../source/09-Useful Documentation Support.rst:63 and
+msgid "Feature videos -"
+msgstr "फ़ीचर वीडियो -"
+
+#: ../../source/09-Useful Documentation Support.rst:65 and
+msgid "https://www.youtube.com/c/myscoolserver"
+msgstr "https://www.youtube.com/c/myscoolserver"
+
+#: ../../source/09-Useful Documentation Support.rst:68 and
+msgid "Important Links"
+msgstr "महत्वपूर्ण लिंक"
+
+#: ../../source/09-Useful Documentation Support.rst:70 and
+msgid "Some helpful links"
+msgstr "कुछ उपयोगी लिंक"
+
+#: ../../source/09-Useful Documentation Support.rst:73 and
+msgid "Document Title"
+msgstr "दस्तावेज़ का शीर्षक"
+
+#: ../../source/09-Useful Documentation Support.rst:73 and
+msgid "Offline version (available on local server without internet)"
+msgstr "ऑफ़लाइन संस्करण (बिना इंटरनेट के स्थानीय सर्वर पर उपलब्ध)"
+
+#: ../../source/09-Useful Documentation Support.rst:73 and
+msgid "Online version (Latest version on internet)"
+msgstr "ऑनलाइन संस्करण (इंटरनेट पर नवीनतम संस्करण)"
+
+#: ../../source/09-Useful Documentation Support.rst:75 and
+msgid "Getting Started Guide"
+msgstr "कार्य शुरू करने हेतु मार्गदर्शिका"
+
+#: ../../source/09-Useful Documentation Support.rst:75 and
+msgid "http://www.myscoolserver.com/getting-started"
+msgstr "http://www.myscoolserver.com/getting-started"
+
+#: ../../source/09-Useful Documentation Support.rst:77 and
+msgid "This User Guide"
+msgstr "यह उपयोगकर्ता मार्गदर्शिका"
+
+#: ../../source/09-Useful Documentation Support.rst:77 and
+msgid "http://server/mss/mss-doc-latest/"
+msgstr "http://server/mss/mss-doc-latest/"
+
+#: ../../source/09-Useful Documentation Support.rst:77 and
+msgid "http://mss-doc.rtfd.io/"
+msgstr "http://mss-doc.rtfd.io/"
+
+#: ../../source/09-Useful Documentation Support.rst:82 and
+msgid "http://hackettandbankwell.com"
+msgstr "http://hackettandbankwell.com"
+
+#: ../../source/09-Useful Documentation Support.rst:85 and
+msgid "http://spoken-tutorial.org/about-us"
+msgstr "http://spoken-tutorial.org/about-us"

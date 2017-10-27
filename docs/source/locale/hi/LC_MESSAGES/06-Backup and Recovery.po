@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: 2017-10-27 15:53+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/06-Backup Recovery.rst:2 and
+msgid "Backup and Recovery"
+msgstr "बैकअप और रिकवरी"
+
+#: ../../source/06-Backup Recovery.rst:3 and
+msgid ""
+"We understand that accidents happen and that everyone deserves a second chance. Being "
+"open-source one may be tempted to play around with the server and we do not penalise "
+"you for doing so. The My sCool Server provides ‘Factory Restore’ options via –"
+msgstr ""
+"हम समझते हैं कि दुर्घटनाएं होती हैं और हर किसी को दूसरा मौका मिलना चाहिए. ओपन सोर्स होने के नाते "
+"किसी को भी सर्वर के साथ खेलने का मन कर सकता है और ऐसा करने पर हम आपको दंडित नहे करेंगे. My sCool "
+"सर्वर ‘फ़ैक्टरि रिस्टोर’ का विकल्प उपलब्ध करता है निम्न द्वारा –"
+
+#: ../../source/06-Backup Recovery.rst:5 and
+msgid "Server boot menu or"
+msgstr "सर्वर बूट मेन्यू"
+
+#: ../../source/06-Backup Recovery.rst:6 and
+msgid "USB created with the recovery.sh tool"
+msgstr "recovery.sh साधन द्वारा बनी USB से"
+
+#: ../../source/06-Backup Recovery.rst:8 and
+msgid ""
+"Factory Restore option restores the system to the state the server left Recherche’s "
+"premises, which may include customisation such as user accounts etc., if the data is "
+"given at the time of order placement."
+msgstr ""
+"फ़ैक्टरि रिस्टोर विकल्प सिस्टम को रिस्टोर करता है और उस स्थिति मे ले आता है जब वो रेचेरचे के परिसर से "
+"बाहर निकला था, जिसमे पहले से किए बदलाव जैसे के उपयोगकर्ता अकाउंट आदि शामिल है, यदि डाटा ऑर्डर देते "
+"समय ही दिया गया था."
+
+#: ../../source/06-Backup Recovery.rst:10 and
+msgid ""
+"Multiple snapshots can be created. It is limited by space available on the /recovery "
+"partition. MSS uses borg deduplicated backup so only the changes made to system since "
+"the last backup are stored on subsequent backup attempts."
+msgstr ""
+"कई स्नैपशॉट बनाए जा सकते हैं. यह रिकवरी पारटिशन पर उपलब्ध जगह पर मर्यादित है. MSS बोरग "
+"डीडुप्लिकेटेड बैकअप का उपयोग करता है इससे सिर्फ वही बदलाव जो आखरी बेकअप के बाद हुए है वही अगले बैकअप "
+"के वक्त संग्रहीत होते है."
+
+#: ../../source/06-Backup Recovery.rst:12 and
+msgid "To create a backup, run the following command as root (sudo su -):"
+msgstr "बैकअप बनाने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
+
+#: ../../source/06-Backup Recovery.rst:18 and
+msgid ""
+"To restore to factory image from a running system, run the following as root (sudo su "
+"-):"
+msgstr ""
+"चालू सिस्टम मे से फ़ैक्टरी छवि को रेस्टोर करने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
+
+#: ../../source/06-Backup Recovery.rst:24 and
+msgid ""
+"Snapshots are numerical, 1 denoting the factory image. By default, running restore will "
+"restore to that snapshot. To restore to last snapshot taken run the following as root "
+"(sudo su -):"
+msgstr ""
+"स्नैपशॉट संख्यात्मक हैं, 1 फ़ैक्टरी छवि को दर्शाता है. डिफ़ॉल्ट रूप से, रिस्टोर     (पुनर्स्थापित)चलाने से  "
+"स्नैपशॉट पर पुनर्स्थापित होगा. आखरी लिए हुए    स्नैपशॉट को रिस्टोर करने हेतु नीचे दिये कमांड को रूट के "
+"रूप मे चलाये (sudo su -):"
+
+#: ../../source/06-Backup Recovery.rst:30 and
+msgid ""
+"Snapshot management is beyond the scope of this tool and document. Refer `borg "
+"documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details."
+msgstr ""
+"स्नैपशॉट का प्रबंधन इस टूल और दस्तावेज़ के दायरे से परे है. अधिक जानकारी के लिए `बोर्ग डॉक्युमेंटेशन "
+"<http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ को देखे."
+
+#: ../../source/06-Backup Recovery.rst:32 and
+msgid "Herein are just a few examples of what can be done with ``borg``:"
+msgstr "यहाँ कुछ उदाहरण दिये गए है की ``borg`` की मदद से क्या किया जा सकता है:"
+
+#: ../../source/06-Backup Recovery.rst:34 and
+msgid "To list all snapshots:"
+msgstr "सारे स्नैपशॉटस की सूची बनाए:"
+
+#: ../../source/06-Backup Recovery.rst:41 and
+msgid "To create a custom snapshot, for example, creating a snapshot of ``/home``:"
+msgstr "कस्टम स्नैपशॉट बनाने के लिए, उदाहरण के लिए, ``/home`` का स्नैपशॉट बनाने के लिए:"
+
+#: ../../source/06-Backup Recovery.rst:49 and
+msgid "/backup/folder/path/ must have sufficient space."
+msgstr "/backup/folder/path/ मे पर्याप्त जगह होनी चाहिए."
+
+#: ../../source/06-Backup Recovery.rst:51 and
+msgid "To restore ``/home`` from snapshot:"
+msgstr "स्नैपशॉट से ``/home`` को रिस्टोर करने हेतु:"
+
+#: ../../source/06-Backup Recovery.rst:59 and
+msgid "When restoration is complete:"
+msgstr "रिस्टोरेशन हो जाने पर:"
