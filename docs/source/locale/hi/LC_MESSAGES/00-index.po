@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: 2017-10-27 15:26+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/00-index.rst:5
+msgid "About the User Manual"
+msgstr "उपयोगकर्ता पुस्तिका के विषय मे"
+
+#: ../../source/00-index.rst:6
+msgid ""
+"This user manual includes guidance for some of the day-to-day tasks that may be "
+"required by an administrator (computer lab in-charge, teacher). It is assumed that the "
+"administration has some basic knowledge of working with a Linux distribution as the "
+"server is intended to be used to teach the Linux subject in schools. Providing "
+"comprehensive server administration guidance is outside the scope of this document."
+msgstr ""
+"इस उपयोगकर्ता पुस्तिका मे रोज़मरा के कार्यो के लिए मार्गदर्शन दिया किया गया है, जो किसी व्यवस्थापक "
+"(कंप्यूटर प्रयोगशाला में प्रभारी, शिक्षक) के लिये  आवश्यक हो सकता है. यहाँ यह मान लिया गया है कि "
+"व्यवस्थापक को लिनक्स डिस्ट्रिब्यूशन मे कार्य करने का मौलिक ज्ञान पहले से ही है क्योंकि इस सर्वर को प्रयोग "
+"करने का उद्देश्य विध्यालयों मे लिनक्स विषय पढ़ाने का है. सर्वर के उपयोग को लेकर सम्पूर्ण मार्गदर्शन इस "
+"दस्तावेज़ के दायरे से बाहर है."
+
+#: ../../source/00-index.rst:13
+msgid ""
+"We have created My sCool Server keeping in mind the “ease of use” so quite a lot of "
+"tasks(not all of them) can be accomplished without having to `RTFM <https://en."
+"wikipedia.org/wiki/RTFM>`_, however understanding that this device packs a lot of "
+"complex technologies so to accomplish anything “under the hood” the administrator must "
+"go through the instructions below at the minimum and follow up reading the manuals "
+"provided by applications or online for more details or tasks not covered here."
+msgstr ""
+"हमने \"उपयोग मे सरलता\" को ध्यान मे रखते हुए माइ एस कूल सर्वर बनाया है जिससे काफी सारे कार्य( सभी "
+"तो नही) पूरे किए जा सकते है `आरटीएफ़एम <https://en.wikipedia.org/wiki/RTFM>`_ किए बिना, "
+"हालांकि यह समजना आवश्यक है कि यह इतने सारे कार्योकि पूर्ति करने वाला यह डिवाइस बहुत जटिल "
+"प्रौद्योगिकियों के इस्तेमाल से बनाया गया है, व्यवस्थापक के लिए यह जरूरी है कि वो कम से कम दिये गए "
+"निर्देशों का पालन करे और एप्लिकेशन द्वारा दी गयी नियमावली को अच्छी तरह से पढ़कर उसका पालन करे और "
+"जो विवरण उपलब्ध नही है उसके विषय मे ऑनलाइन जानकारी हासिल करे."
+
+#: ../../source/00-index.rst:22
+msgid "Important Notice"
+msgstr "महत्वपूर्ण सूचना"
+
+#: ../../source/00-index.rst:23
+msgid ""
+"Recherche Tech has supplied this information believing it to be accurate and reliable "
+"at the time of publishing, but is presented without warranty of any kind, expressed or "
+"implied. Users must take full responsibility for their application of any products. "
+"Recherche assumes no responsibility for any errors that may appear in this document. "
+"Recherche reserves the right, without notice to make changes in product design or "
+"specifications. Information is subject to change without notice."
+msgstr ""
+"रेचेरचे टेक ने यह सूचना प्रदान कि है प्रकाशन के समय इसे सटीक और विश्वसनीय मानते हुए, परंतु इसे किसी भी "
+"प्रकार कि वोरंटी के बिना प्रस्तुत किया गया है, चाहे वो व्यक्त हो अथवा निहित. किसी भी वस्तु के उपयोग "
+"कि सम्पूर्ण जवाबदारी उपयोगकर्ता कि रहेगी. रेचेरचे टेक इस दस्तावेज़ में प्राप्त किसी भी गलती की ज़िम्मेदारी "
+"नही लेता है. रेचेरचे टेक अपने पास यह अधिकार सुरक्षित रखता है के वो बिना किसी सूचना के अपने उत्पादो के "
+"डिजाइन या विनिर्देश मे परिवर्तन कर सकता है. यह जानकारी बिना सूचना के बदली जा सकती है."
+
+#: ../../source/00-index.rst:33
+msgid "Restricted Rights"
+msgstr "प्रतिबंधित अधिकार"
+
+#: ../../source/00-index.rst:34
+msgid "Copyright 2016 Recherche Tech LLP. All rights reserved."
+msgstr "कॉपीराइट 2016 रेचेरचे टेक एलएलपी. सारे अधिकार सुरक्षित है."
+
+#: ../../source/00-index.rst:36
+msgid "My sCool Server, My sCool Server logo are trademarks of Recherche Tech LLP."
+msgstr "My sCool सर्वर, My sCool सर्वर लोगो रेचेरचे टेक एलएलपी के ट्रेडमार्क है."
+
+#: ../../source/00-index.rst:42
+msgid "Contact"
+msgstr "संपर्क करे"
+
+#: ../../source/00-index.rst:47
+msgid "Corporate Headquarters"
+msgstr "कॉर्पोरेट मुख्यालय"
+
+#: ../../source/00-index.rst:48
+msgid "**Recherche Tech LLP**"
+msgstr "**रेचेरचे टेक एलएलपी**"
+
+#: ../../source/00-index.rst:49
+msgid "501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,"
+msgstr "501/ए सिनेरजी बिल्डिंग , एल-74 कॉर्पोरेट रोड, मकरबा, अहमदाबाद,"
+
+#: ../../source/00-index.rst:50
+msgid "Gujarat 380015. INDIA."
+msgstr "गुजरात 380015, भारत."
+
+#: ../../source/00-index.rst:51
+msgid "Phone: +91-79-40080440"
+msgstr "दूरभाष: +91-79-40080440"
+
+#: ../../source/00-index.rst:52
+msgid "Web site: http://www.myscoolserver.com"
+msgstr "वेबसाइट: http://www.myscoolserver.com"
+
+#: ../../source/00-index.rst:54
+msgid ""
+"Visit http://www.myscoolserver.com/contact for the regional and latest contact "
+"information."
+msgstr "http://www.myscoolserver.com/contact देखे क्षेत्रीय अथवा नवीनतम संपर्क संबंधी जानकारी हेतु."
+
+#: ../../source/00-index.rst:57
+msgid "Social"
+msgstr "सामाजिक"
+
+#: ../../source/00-index.rst
+msgid "Twitter"
+msgstr "ट्विटर"
+
+#: ../../source/00-index.rst:59
+msgid "https://www.twitter.com/myscoolserver"
+msgstr "https://www.twitter.com/myscoolserver"
+
+#: ../../source/00-index.rst
+msgid "Facebook"
+msgstr "फेसबूक"
+
+#: ../../source/00-index.rst:61
+msgid "https://www.facebook.com/myscoolserver"
+msgstr "https://www.facebook.com/myscoolserver"
+
+#: ../../source/00-index.rst
+msgid "Google+"
+msgstr "गूगल+"
+
+#: ../../source/00-index.rst:63
+msgid "https://plus.google.com/+Myscoolserver"
+msgstr "https://plus.google.com/+Myscoolserver"

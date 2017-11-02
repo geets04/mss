@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: 2017-10-27 12:49+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/01-User Management.rst:4
+msgid "User Management"
+msgstr "उपयोगकर्ता प्रबंधन"
+
+#: ../../source/01-User Management.rst:7
+msgid "Create new user"
+msgstr "नया उपयोगकर्ता बनाएं"
+
+#: ../../source/01-User Management.rst:9
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –"
+msgstr ""
+"``Admin-Desktop`` मे बूट करे और *mssadmin* से लॉगिन करके नीचे दिये चरण को पूरा करे –"
+
+#: ../../source/01-User Management.rst:12 Management.rst:47 Management.rst:66
+msgid "Via GUI"
+msgstr "जीयूआई द्वारा"
+
+#: ../../source/01-User Management.rst:13 Management.rst:67
+msgid "Navigate to ``System`` → ``Administration`` → ``Users and Groups``"
+msgstr "``System`` → ``Administration`` → ``Users and Groups`` पे नेविगेट करे"
+
+#: ../../source/01-User Management.rst:14
+msgid ""
+"Add new user by pressing the ``+Add`` button and fill in the details (You may "
+"have to wait for the existing user list to load.)"
+msgstr ""
+"``+Add`` बटन दबाकर नए उपयोगकर्ता को जोड़े और विगतों को भरे (जब तक मौजूदा उपयोगकर्ताओ "
+"की सूची लोड नही हो जाती तब तक आपको प्रतीक्षा करनी पड सकती है.)"
+
+#: ../../source/01-User Management.rst:15
+msgid "Set the new user's password in the next dialog"
+msgstr "नए  उपयोगकर्ता का पासवर्ड आप अगले डायलोग मे सेट करे"
+
+#: ../../source/01-User Management.rst:18 Management.rst:55 Management.rst:74
+msgid "Via Terminal"
+msgstr "टर्मिनल द्वारा"
+
+#: ../../source/01-User Management.rst:23 Management.rst:79
+msgid "Enter *mssadmin's* password when prompted and continue."
+msgstr "पूछने पर  *mssadmin's*  का पासवर्ड डाले और आगे बढ़े."
+
+#: ../../source/01-User Management.rst:28
+msgid "Add user to epoptes group"
+msgstr "उपयोगकर्ता को epoptes समूह मे जोड़े"
+
+#: ../../source/01-User Management.rst:31
+msgid ""
+"This must only be done for teacher accounts as it grants some extra priveledges."
+msgstr "यह सिर्फ शिक्षको के  अकाउंट मे ही किया जाए क्योंकि इससे कुछ अधिक अधिकार प्राप्त होंगे."
+
+#: ../../source/01-User Management.rst:33
+msgid ""
+"Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a "
+"Terminal –"
+msgstr ""
+"``Admin-Desktop`` मे बूट करे, *mssadmin* से लॉगिन करे और टर्मिनल मे निम्न का अनुसरण करे –"
+
+#: ../../source/01-User Management.rst:41
+msgid "Change password"
+msgstr "पासवर्ड को बदले"
+
+#: ../../source/01-User Management.rst:44
+msgid "To change your own password"
+msgstr "अपने खुद के पासवर्ड को बदलने के लिए"
+
+#: ../../source/01-User Management.rst:52
+msgid ""
+"Press ``Change...`` against the ``Password:`` label. Thereafter set your "
+"password in the ``Change User Password`` dialog."
+msgstr ""
+"``Password`` लेबल के सामने ``Change...``  दबाये. इसके पश्चात ``Change User Password`` "
+"डायलोग मे जाकर अपना पासवर्ड सेट करे."
+
+#: ../../source/01-User Management.rst:61
+msgid "To change password of other user"
+msgstr "दूसरे उपयोगकर्ता का पासवर्ड बदलने के लिए"
+
+#: ../../source/01-User Management.rst:63
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps -"
+msgstr "``Admin-Desktop`` मे बूट करे, *mssadmin* से लॉगिन करे और निम्न का अनुसरण करे -"
+
+#: ../../source/01-User Management.rst:68
+msgid "Select the user whose password needs changing"
+msgstr "जिस उपयोगकर्ता का पासवर्ड बदलना हे उसे चुने"
+
+#: ../../source/01-User Management.rst:69
+msgid "Press ``Change...`` against the ``Password`` label"
+msgstr "``Password`` लेबल के सामने ``Change...`` पे क्लिक करे"
+
+#: ../../source/01-User Management.rst:70
+msgid "Authenticate with *mssadmin's* password when prompted"
+msgstr "पूछने पर *mssadmin's* का पासवर्ड डाले और प्रमाणित करे"
+
+#: ../../source/01-User Management.rst:71
+msgid "Set new password in the ``Change User Password`` dialog"
+msgstr "``Change User Password`` डायलोग मे जाकर अपना पासवर्ड सेट करे"
+
+#: ../../source/01-User Management.rst:83
+msgid "Mass user addition"
+msgstr "बड़ी संख्या मे उपयोगकर्ताओ को जोड़ने हेतु"
+
+#: ../../source/01-User Management.rst:85
+msgid ""
+"For adding  several users at one go, boot into ``Admin-Desktop``, login as "
+"*mssadmin** and perform these steps -"
+msgstr ""
+"एक ही बार मे कई सारे उपयोगकर्ताओ को जोड़ने हेतु, ``Admin-Desktop`` मे बूट करे और "
+"*mssadmin* से लॉगिन करके नीचे दिये गए चरणो का पालन करे -"
+
+#: ../../source/01-User Management.rst:87
+msgid ""
+"Create space separated file containing \"username password\" such as this :"
+"download:`sample </files/users.csv>`."
+msgstr ""
+"स्पेस द्वारा अलग की हुई फाइल को बनाए जिसमे  ‘उपयोगकर्ता का नाम और पासवर्ड’ हो जैसे की :"
+"download:`sample </files/users.csv>`."
+
+#: ../../source/01-User Management.rst:89
+msgid "Steps:"
+msgstr "चरण :"
+
+#: ../../source/01-User Management.rst:91
+msgid "Use ``LibreOffice Calc`` to create the file"
+msgstr "``LibreOffice Calc`` का प्रयोग कर फाइल बनाए"
+
+#: ../../source/01-User Management.rst:92
+msgid "Choose ``File -> Save as``. You will see the ``Save as`` dialog."
+msgstr "``File -> Save as`` को चुने. आपको ``Save as`` डायलोग दिखेगा."
+
+#: ../../source/01-User Management.rst:93
+msgid "In the ``File type`` field select the format ``Text CSV (.csv)``."
+msgstr "``File type`` फील्ड मे ``Text CSV (.csv)`` फॉर्मेट को चुने."
+
+#: ../../source/01-User Management.rst:94
+msgid "Enter a file name as users.csv and click ``Save``."
+msgstr "फाइल का नाम users.csv डाले और ``Save`` पे क्लिक करे."
+
+#: ../../source/01-User Management.rst:95
+msgid ""
+"From the ``Export of text files`` dialog that appears, select the field "
+"delimeter as ``{space}`` for the data to be exported, and press OK."
+msgstr ""
+"``Export of text files`` डायलोग मे से फील्ड डेलीमेटर के रूप मे ``{space}`` को चुने, जो "
+"डेटा निर्यात करना है उसके लिए और फिर OK दबाये."
+
+#: ../../source/01-User Management.rst:99
+msgid "There should be no empty lines in the file."
+msgstr "फ़ाइल में कोई खाली पंक्ति नहीं होनी चाहिए."
+
+#: ../../source/01-User Management.rst:101
+msgid "Open terminal and execute the command –"
+msgstr "टर्मिनल खोले और कमांड को निष्पादित करे –"
+
+#: ../../source/01-User Management.rst:107
+msgid "Example: ::"
+msgstr "उदाहरण: ::"
+
+#: ../../source/01-User Management.rst:113
+msgid "Default credentials"
+msgstr "डिफ़ॉल्ट क्रेडेंशियल्स"
+
+#: ../../source/01-User Management.rst:115
+msgid ""
+"By default, the appliance is shipped with the following user accounts pre-"
+"configured i.e. if no customisation has been requested during order placement –"
+msgstr ""
+"डिफ़ॉल्ट रूप से, उपकरणो को पूर्व-कॉन्फ़िगर किए हुए निम्न उपयोगकर्ता खातों के साथ भेज दिया "
+"जाता है अर्थात यदि ऑर्डर देते समय कोई बदलाव नही मांगा गया है –"
+
+#: ../../source/01-User Management.rst:118
+msgid "Account Type"
+msgstr "खाता प्रकार"
+
+#: ../../source/01-User Management.rst:118
+msgid "Username"
+msgstr "उपयोगकर्ता का नाम"
+
+#: ../../source/01-User Management.rst:118
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: ../../source/01-User Management.rst:120
+msgid "Admin"
+msgstr "Admin"
+
+#: ../../source/01-User Management.rst:120
+msgid "mssadmin"
+msgstr "mssadmin"
+
+#: ../../source/01-User Management.rst:120
+msgid "myskool"
+msgstr "myskool"
+
+#: ../../source/01-User Management.rst:121
+msgid "Student"
+msgstr "Student"
+
+#: ../../source/01-User Management.rst:121
+msgid "student<n>"
+msgstr "student<n>"
+
+#: ../../source/01-User Management.rst:121
+msgid "12345"
+msgstr "12345"
+
+#: ../../source/01-User Management.rst:122
+msgid "Teacher"
+msgstr "Teacher"
+
+#: ../../source/01-User Management.rst:122
+msgid "teacher<n>"
+msgstr "teacher<n>"
+
+#: ../../source/01-User Management.rst:122
+msgid "imteacher"
+msgstr "imteacher"
+
+#: ../../source/01-User Management.rst:125
+msgid ""
+"It is strongly recommend that a user must change the account password upon "
+"first time use."
+msgstr ""
+"यह दृढ़ता से अनुशंसा की जाती है कि उपयोगकर्ता को पहली बार उपयोग करने पर खाता पासवर्ड "
+"बदलना चाहिए."
