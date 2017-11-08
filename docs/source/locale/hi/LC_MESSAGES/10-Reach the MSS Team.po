@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-19 11:14+0530\n"
-"PO-Revision-Date: 2017-10-27 15:27+0530\n"
+"PO-Revision-Date: 2017-11-08 17:11+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,11 +49,10 @@ msgstr "वेबसाइट: http://www.myscoolserver.com"
 
 #: ../../source/10-Reach MSS Team.rst:15 the
 msgid ""
-"Visit http://www.myscoolserver.com/contact for the regional and latest "
-"contact information."
+"Visit http://www.myscoolserver.com/contact for the regional and latest contact "
+"information."
 msgstr ""
-"http://www.myscoolserver.com/contact देखे क्षेत्रीय अथवा नवीनतम संपर्क संबंधी "
-"जानकारी हेतु."
+"http://www.myscoolserver.com/contact देखे क्षेत्रीय अथवा नवीनतम संपर्क संबंधी जानकारी हेतु."
 
 #: ../../source/10-Reach MSS Team.rst:18 the
 msgid "Social"
