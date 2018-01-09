@@ -34,7 +34,7 @@ Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a 
 
 ::
  
- usermod -a -G epoptes <username>
+ sudo usermod -a -G epoptes <username>
 
 
 Change password 
