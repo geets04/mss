@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../source/10-Reach MSS Team.rst:18 the
 msgid "Social"
-msgstr "सामाजिक"
+msgstr "सोशल मीडिया"
 
 #: ../../source/10-Reach MSS Team.rst the
 msgid "Twitter"
