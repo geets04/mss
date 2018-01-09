@@ -29,7 +29,7 @@ msgstr "कॉर्पोरेट मुख्यालय"
 
 #: ../../source/10-Reach MSS Team.rst:9 the
 msgid "**Recherche Tech LLP**"
-msgstr "**रेचेरचे टेक एलएलपी**"
+msgstr "**रेशेशे टेक एलएलपी**"
 
 #: ../../source/10-Reach MSS Team.rst:10 the
 msgid "501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,"
