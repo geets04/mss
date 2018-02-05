@@ -36,6 +36,7 @@ Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a 
  
  sudo usermod -a -G epoptes <username>
 
+Enter *mssadmin's* password when prompted and continue.
 
 Change password 
 ---------------
