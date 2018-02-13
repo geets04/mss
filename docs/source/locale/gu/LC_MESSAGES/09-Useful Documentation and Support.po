@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-19 11:14+0530\n"
-"PO-Revision-Date: 2017-09-27 12:28+0530\n"
+"PO-Revision-Date: 2018-02-13 18:55+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,13 +25,12 @@ msgstr "ઉપયોગી દસ્તાવેજીકરણ અને સપ
 
 #: ../../source/09-Useful Documentation Support.rst:4 and
 msgid ""
-"The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ and content from Spoken Tutorial "
-"[2]_ that walks you through everything you need to know about using Ubuntu linux, almost every GUI application "
-"comes with F1 help, and respective documentation in /usr/share/doc folder."
+"The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ and content from Spoken Tutorial [2]_ that walks you "
+"through everything you need to know about using Ubuntu linux, almost every GUI application comes with F1 help, and respective "
+"documentation in /usr/share/doc folder."
 msgstr ""
-"My sCool સર્વર પેલ્લાથી લોડેડ હેકેટ અને બેંકવેલ કોમિક બુક્સ [1]_ સાથે આવે છે અને એનું કન્ટેન્ટ સ્પોકન ટ્યુટોરીયલ [2]_ થી છે જે તમને Ubuntu "
-"linux ના ઉપયોગ માટે બધી જરૂરી વસ્તુઓ ની જાણકારી આપસે, અધિકતર બધીજ GUI એપ્લીકેશન્સ F1 હેલ્પ સાથે આવે છે, જેનાથી સંબંધિત દસ્તાવેજો /"
-"usr/share/doc ફોલ્ડર માં દીધેલાં છે."
+"My sCool સર્વર પેલ્લાથી લોડેડ હેકેટ અને બેંકવેલ કોમિક બુક્સ [1]_ સાથે આવે છે અને એનું કન્ટેન્ટ સ્પોકન ટ્યુટોરીયલ [2]_ થી છે જે તમને Ubuntu linux ના ઉપયોગ માટે બધી "
+"જરૂરી વસ્તુઓ ની જાણકારી આપસે, અધિકતર બધીજ GUI એપ્લીકેશન્સ F1 હેલ્પ સાથે આવે છે, જેનાથી સંબંધિત દસ્તાવેજો /usr/share/doc ફોલ્ડર માં દીધેલાં છે."
 
 #: ../../source/09-Useful Documentation Support.rst:9 and
 msgid "Lot more community created documentation is also available online:"
@@ -115,14 +114,13 @@ msgstr "http://www.catb.org/esr/faqs/smart-questions.html"
 
 #: ../../source/09-Useful Documentation Support.rst:46 and
 msgid ""
-"Every My sCool Server has a sticker bearing a unique MSS ID or S/N (Serial Number). This ID is important for all "
-"communications with Recherche Tech in regards to your MSS hardware. If you ever have an issue with your MSS "
-"hardware and it is under warranty, simply open a ticket through any of the support channels and quote this MSS "
-"ID and the nature of your problem."
+"Every My sCool Server has a sticker bearing a unique MSS ID or S/N (Serial Number). This ID is important for all communications with "
+"Recherche Tech in regards to your MSS hardware. If you ever have an issue with your MSS hardware and it is under warranty, simply open a "
+"ticket through any of the support channels and quote this MSS ID and the nature of your problem."
 msgstr ""
-"પ્રત્યેક My sCool સર્વર પર વિશિષ્ટ MSS ID અથવા S/N (સીરીયલ નંબર) ધરાવતી સ્ટીકર છે. આ ID તમારા MSS હાર્ડવેરના સંદર્ભમાં રેચેરચે "
-"ટેક સાથેના તમામ સંચાર માટે મહત્વપૂર્ણ છે. તમને વોરંટી અવધિ માં ક્યારે પણ MSS હાર્ડવેર સંબંધી મુશ્કેલી આવે તો કોઈ પણ સપોર્ટ ચેનલ પર જઈને "
-"ટિકિટ ખોલો અને આ MSS ID ને અને તમારી સમસ્યાના પ્રકારનું ઉદ્ધરણ કરો."
+"પ્રત્યેક My sCool સર્વર પર વિશિષ્ટ MSS ID અથવા S/N (સીરીયલ નંબર) ધરાવતી સ્ટીકર છે. આ ID તમારા MSS હાર્ડવેરના સંદર્ભમાં રેશેશે ટેક સાથેના તમામ સંચાર માટે "
+"મહત્વપૂર્ણ છે. તમને વોરંટી અવધિ માં ક્યારે પણ MSS હાર્ડવેર સંબંધી મુશ્કેલી આવે તો કોઈ પણ સપોર્ટ ચેનલ પર જઈને ટિકિટ ખોલો અને આ MSS ID ને અને તમારી સમસ્યાના પ્રકારનું "
+"ઉદ્ધરણ કરો."
 
 #: ../../source/09-Useful Documentation Support.rst:53 and
 msgid "Frequently asked questions -"
