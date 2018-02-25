@@ -47,9 +47,8 @@ msgid ""
 "purpose of installing the MSS, there is no pre-existing DHCP server, hence one may safely opt "
 "for Static mode."
 msgstr ""
-"यह मन लेना सुरक्षित होगा के अधिकतर जगहो मे जहां नया नेटवर्क बस सेट उप ही किया गया है MSS इन्स्टाल करने के "
-"उद्देश्य से, वहाँ पहले से कोई DHCP सर्वर मौजूद नहीं होगा, इसलिए कोई भी सुरक्षित रूप से स्टेटिक मोड का विकल्प चुन "
-"सकता है."
+"यह मान लेना उचित होगा के अधिकतर जगहो मे जहां एमएसएस इन्स्टाल करने के उद्देश्य से ही नया नेटवर्क सेटअप किया गया है," 
+"वहाँ पहले से कोई DHCP सर्वर मौजूद नहीं होगा, इसलिए सुरक्षित रूप से स्टेटिक मोड का विकल्प चुना जा सकता है।"
 
 #: ../../source/02-Network.rst:11
 msgid "Herein are the details of how to configure in Static or Dynamic mode:"
