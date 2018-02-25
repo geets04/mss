@@ -70,7 +70,7 @@ msgid ""
 "To restore to factory image from a running system, run the following as root (sudo su "
 "-):"
 msgstr ""
-"चालू सिस्टम मे से फ़ैक्टरी छवि को रेस्टोर करने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
+"चालू सिस्टम मे से फ़ैक्टरी छवि को रीस्टोर करने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
 
 #: ../../source/06-Backup Recovery.rst:24 and
 msgid ""
