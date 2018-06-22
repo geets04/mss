@@ -41,10 +41,10 @@ Execute the following commands in a terminal to ensure requisite permissions -
   sudo find /var/www/html/mss/custom -type d -exec chmod a+rx {} \;
   sudo find /var/www/html/mss/custom -type f -exec chmod a+r {} \;
 
-Independent content hosting
+Individual content hosting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-There could be a need for each user to host their own HTML based web content. Each user can host her independent content at
+There could be a need for each user to host their own HTML based web content. Each user can host one's individual content at
 
 ::
  
