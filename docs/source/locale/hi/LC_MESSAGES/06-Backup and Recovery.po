@@ -8,15 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-19 11:14+0530\n"
-"PO-Revision-Date: 2017-10-27 15:53+0530\n"
+"POT-Creation-Date: 2018-06-23 08:54+0100\n"
+"PO-Revision-Date: 2018-06-23 16:11+0530\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: hi\n"
 "X-Generator: Poedit 2.0.4\n"
 
 #: ../../source/06-Backup Recovery.rst:2 and
@@ -24,14 +25,14 @@ msgid "Backup and Recovery"
 msgstr "बैकअप और रिकवरी"
 
 #: ../../source/06-Backup Recovery.rst:3 and
+#, fuzzy
 msgid ""
-"We understand that accidents happen and that everyone deserves a second chance. Being "
-"open-source one may be tempted to play around with the server and we do not penalise "
-"you for doing so. The My sCool Server provides ‘Factory Restore’ options via –"
+"We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted "
+"to play around with the server and we do not penalise you for doing so. The My sCool Server provides ``Factory "
+"Restore`` options via –"
 msgstr ""
-"हम समझते हैं कि दुर्घटनाएं होती हैं और हर किसी को दूसरा मौका मिलना चाहिए. ओपन सोर्स होने के नाते "
-"किसी को भी सर्वर के साथ खेलने का मन कर सकता है और ऐसा करने पर हम आपको दंडित नहे करेंगे. My sCool "
-"सर्वर ‘फ़ैक्टरि रिस्टोर’ का विकल्प उपलब्ध करता है निम्न द्वारा –"
+"हम समझते हैं कि दुर्घटनाएं होती हैं और हर किसी को दूसरा मौका मिलना चाहिए. ओपन सोर्स होने के नाते किसी को भी सर्वर के साथ खेलने का मन "
+"कर सकता है और ऐसा करने पर हम आपको दंडित नहे करेंगे. My sCool सर्वर ‘फ़ैक्टरि रिस्टोर’ का विकल्प उपलब्ध करता है निम्न द्वारा –"
 
 #: ../../source/06-Backup Recovery.rst:5 and
 msgid "Server boot menu or"
@@ -43,73 +44,122 @@ msgstr "recovery.sh साधन द्वारा बनी USB से"
 
 #: ../../source/06-Backup Recovery.rst:8 and
 msgid ""
-"Factory Restore option restores the system to the state the server left Recherche’s "
-"premises, which may include customisation such as user accounts etc., if the data is "
-"given at the time of order placement."
+"Factory Restore option restores the system to the state the server left Recherche’s premises, which may include "
+"customisation such as user accounts etc., if the data is given at the time of order placement."
 msgstr ""
-"फ़ैक्टरि रिस्टोर विकल्प सिस्टम को रिस्टोर करता है और उस स्थिति मे ले आता है जब वो रेशेशे के परिसर से "
-"बाहर निकला था, जिसमे पहले से किए बदलाव जैसे के उपयोगकर्ता अकाउंट आदि शामिल है, यदि डाटा ऑर्डर देते "
-"समय ही दिया गया था."
+"फ़ैक्टरि रिस्टोर विकल्प सिस्टम को रिस्टोर करता है और उस स्थिति मे ले आता है जब वो रेशेशे के परिसर से बाहर निकला था, जिसमे पहले से किए "
+"बदलाव जैसे के उपयोगकर्ता अकाउंट आदि शामिल है, यदि डाटा ऑर्डर देते समय ही दिया गया था."
 
 #: ../../source/06-Backup Recovery.rst:10 and
 msgid ""
-"Multiple snapshots can be created. It is limited by space available on the /recovery "
-"partition. MSS uses borg deduplicated backup so only the changes made to system since "
-"the last backup are stored on subsequent backup attempts."
+"Exercise caution before using the ``Factory Restore`` feature. It shall override any customisations done by the user "
+"to the server and shall restore it to the factory shipping state. It may also delete user created data. Hence, if "
+"user generated data is of value, it is strongly recommended that ``/home`` data is periodically backed up on an "
+"external media by following the steps below."
 msgstr ""
-"कई स्नैपशॉट बनाए जा सकते हैं. यह रिकवरी पारटिशन पर उपलब्ध जगह पर मर्यादित है. MSS बोरग "
-"डीडुप्लिकेटेड बैकअप का उपयोग करता है इससे सिर्फ वही बदलाव जो आखरी बेकअप के बाद हुए है वही अगले बैकअप "
-"के वक्त संग्रहीत होते है."
+"``Factory Restore`` सुविधा का उपयोग करने से पहले सावधानी बरतें । यह सर्वर पर उपयोगकर्ता द्वारा किए गए किसी भी कस्टमाइज़ेशन को "
+"ओवरराइड करेगा और उसे फ़ैक्टरी शिपिंग स्थिति में पुनर्स्थापित करेगा. यह उपयोगकर्ता बनाया डेटा भी हटा सकते हैं. इसलिए, यदि उपयोगकर्ता "
+"द्वारा बनाया गया डेटा मूल्य का है, तो यह पुरजोर सिफारिश की जाती है कि ``/home`` डेटा का समय पर नीचे दिए गए चरणों का अनुसरण करके "
+"किसी बाहरी मीडिया पर बैकअप लिया जाता है."
 
 #: ../../source/06-Backup Recovery.rst:12 and
+msgid ""
+"The ``Factory Restore`` feature does not restore any preloaded or custom loaded web-content. Backup and restoration "
+"of all content accessible via ``http://server`` is the responsibility of the end-user. Read below for easy and "
+"useful backup steps."
+msgstr ""
+"``Factory Restore`` सुविधा किसी भी प्री-लोडेड या कस्टम लोड की गई वेब-सामग्री पुनर्स्थापित नहीं करती है. ``http://server`` के "
+"माध्यम से सुलभ सभी सामग्री का बैकअप और बहाली अंतिम-प्रयोक्ता की जिंमेदारी है. आसान और उपयोगी बैकअप चरणों के लिए नीचे पढ़ें."
+
+#: ../../source/06-Backup Recovery.rst:14 and
+msgid ""
+"Multiple snapshots can be created. It is limited by space available on the /recovery partition. MSS uses borg "
+"deduplicated backup so only the changes made to system since the last backup are stored on subsequent backup "
+"attempts."
+msgstr ""
+"कई स्नैपशॉट बनाए जा सकते हैं. यह रिकवरी पारटिशन पर उपलब्ध जगह पर मर्यादित है. MSS बोरग डीडुप्लिकेटेड बैकअप का उपयोग करता है इससे "
+"सिर्फ वही बदलाव जो आखरी बेकअप के बाद हुए है वही अगले बैकअप के वक्त संग्रहीत होते है."
+
+#: ../../source/06-Backup Recovery.rst:16 and
 msgid "To create a backup, run the following command as root (sudo su -):"
 msgstr "बैकअप बनाने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
 
-#: ../../source/06-Backup Recovery.rst:18 and
-msgid ""
-"To restore to factory image from a running system, run the following as root (sudo su "
-"-):"
-msgstr ""
-"चालू सिस्टम मे से फ़ैक्टरी छवि को रीस्टोर करने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
+#: ../../source/06-Backup Recovery.rst:22 and
+msgid "To restore to factory image from a running system, run the following as root (sudo su -):"
+msgstr "चालू सिस्टम मे से फ़ैक्टरी छवि को रीस्टोर करने के लिए, नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
 
-#: ../../source/06-Backup Recovery.rst:24 and
+#: ../../source/06-Backup Recovery.rst:28 and
 msgid ""
-"Snapshots are numerical, 1 denoting the factory image. By default, running restore will "
-"restore to that snapshot. To restore to last snapshot taken run the following as root "
-"(sudo su -):"
+"Snapshots are numerical, 1 denoting the factory image. By default, running restore will restore to that snapshot. To "
+"restore to last snapshot taken run the following as root (sudo su -):"
 msgstr ""
-"स्नैपशॉट संख्यात्मक हैं, 1 फ़ैक्टरी छवि को दर्शाता है. डिफ़ॉल्ट रूप से, रिस्टोर     (पुनर्स्थापित)चलाने से  "
-"स्नैपशॉट पर पुनर्स्थापित होगा. आखरी लिए हुए    स्नैपशॉट को रिस्टोर करने हेतु नीचे दिये कमांड को रूट के "
-"रूप मे चलाये (sudo su -):"
+"स्नैपशॉट संख्यात्मक हैं, 1 फ़ैक्टरी छवि को दर्शाता है. डिफ़ॉल्ट रूप से, रिस्टोर     (पुनर्स्थापित)चलाने से  स्नैपशॉट पर पुनर्स्थापित होगा. आखरी "
+"लिए हुए    स्नैपशॉट को रिस्टोर करने हेतु नीचे दिये कमांड को रूट के रूप मे चलाये (sudo su -):"
 
-#: ../../source/06-Backup Recovery.rst:30 and
+#: ../../source/06-Backup Recovery.rst:34 and
 msgid ""
-"Snapshot management is beyond the scope of this tool and document. Refer `borg "
-"documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details."
+"Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup."
+"readthedocs.io/en/stable/usage.htm>`_ for details."
 msgstr ""
-"स्नैपशॉट का प्रबंधन इस टूल और दस्तावेज़ के दायरे से परे है. अधिक जानकारी के लिए `बोर्ग डॉक्युमेंटेशन "
-"<http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ को देखे."
+"स्नैपशॉट का प्रबंधन इस टूल और दस्तावेज़ के दायरे से परे है. अधिक जानकारी के लिए `बोर्ग डॉक्युमेंटेशन <http://borgbackup.readthedocs.io/"
+"en/stable/usage.htm>`_ को देखे."
 
-#: ../../source/06-Backup Recovery.rst:32 and
+#: ../../source/06-Backup Recovery.rst:36 and
 msgid "Herein are just a few examples of what can be done with ``borg``:"
 msgstr "यहाँ कुछ उदाहरण दिये गए है की ``borg`` की मदद से क्या किया जा सकता है:"
 
-#: ../../source/06-Backup Recovery.rst:34 and
+#: ../../source/06-Backup Recovery.rst:38 and
 msgid "To list all snapshots:"
 msgstr "सारे स्नैपशॉटस की सूची बनाए:"
 
-#: ../../source/06-Backup Recovery.rst:41 and
+#: ../../source/06-Backup Recovery.rst:45 and
 msgid "To create a custom snapshot, for example, creating a snapshot of ``/home``:"
 msgstr "कस्टम स्नैपशॉट बनाने के लिए, उदाहरण के लिए, ``/home`` का स्नैपशॉट बनाने के लिए:"
 
-#: ../../source/06-Backup Recovery.rst:49 and
+#: ../../source/06-Backup Recovery.rst:53 and
 msgid "/backup/folder/path/ must have sufficient space."
 msgstr "/backup/folder/path/ मे पर्याप्त जगह होनी चाहिए."
 
-#: ../../source/06-Backup Recovery.rst:51 and
+#: ../../source/06-Backup Recovery.rst:55 and
 msgid "To restore ``/home`` from snapshot:"
 msgstr "स्नैपशॉट से ``/home`` को रिस्टोर करने हेतु:"
 
-#: ../../source/06-Backup Recovery.rst:59 and
+#: ../../source/06-Backup Recovery.rst:63 and
 msgid "When restoration is complete:"
 msgstr "रिस्टोरेशन हो जाने पर:"
+
+#: ../../source/06-Backup Recovery.rst:70 and
+msgid "Pre-loaded Content Locations"
+msgstr "प्री-लोडेड सामग्री स्थान"
+
+#: ../../source/06-Backup Recovery.rst:71 and
+msgid ""
+"Most of the preloaded web content resides at the common location - ``/var/www/html/mss``. However some of the "
+"content that have their own custom location are listed below -"
+msgstr ""
+"अधिकांश प्रीलोडेड वेब सामग्री सामान्य स्थान पर होती है - ``/var/www/html/mss``. हालांकि कुछ सामग्री जिनके पास अपना स्वयं का कस्टम "
+"स्थान है वह नीचे सूचीबद्ध हैं -"
+
+#: ../../source/06-Backup Recovery.rst and
+msgid "NROER"
+msgstr "NROER"
+
+#: ../../source/06-Backup Recovery.rst:74 and
+msgid "/home/docker"
+msgstr "/home/docker"
+
+#: ../../source/06-Backup Recovery.rst and
+msgid "Gyankunj Slate"
+msgstr "Gyankunj Slate"
+
+#: ../../source/06-Backup Recovery.rst:76 and
+msgid "/home/mssadmin/slate"
+msgstr "/home/mssadmin/slate"
+
+#: ../../source/06-Backup Recovery.rst and
+msgid "ePathshala"
+msgstr "ePathshala"
+
+#: ../../source/06-Backup Recovery.rst:78 and
+msgid "/home/mssadmin/.epathshala"
+msgstr "/home/mssadmin/.epathshala"
