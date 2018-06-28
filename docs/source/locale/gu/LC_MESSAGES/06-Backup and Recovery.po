@@ -9,11 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-23 08:54+0100\n"
-<<<<<<< HEAD
-"PO-Revision-Date: 2018-06-23 16:06+0530\n"
-=======
-"PO-Revision-Date: 2018-06-26 13:53+0530\n"
->>>>>>> 0e10ffb... gu translation fix
+"PO-Revision-Date: 2018-06-28 17:31+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -29,18 +25,8 @@ msgid "Backup and Recovery"
 msgstr "બેકઅપ અને રિકવરી"
 
 #: ../../source/06-Backup Recovery.rst:3 and
-#, fuzzy
-msgid ""
-<<<<<<< HEAD
-"We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around "
-"with the server and we do not penalise you for doing so. The My sCool Server provides ``Factory Restore`` options via –"
-msgstr ""
-"અમે આ સમજયે છે કે દુર્ઘટનાઓ થતી રહે છે અને હર એક ને બીજો મોકો મળવો જોઇયે. ઓપન-સોર્સ હોવાના ને નાતે કોઈ નું પણ મન સર્વર સાથે રમવાનું થઈ સકે છે અને એવું કરવા પર "
-"અમે કોઈ પ્રકાર નું દંડ નથી લગાડતા. My sCool સર્વર અહી થી ‘ફેકટ્રી રિસ્ટોર’ ઓપ્શન આપે છે –"
-=======
-"We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around with the server and we do not penalise you for doing so. The My sCool Server provides ``Factory Restore`` options via –"
-msgstr "અમે આ સમજયે છે કે દુર્ઘટનાઓ થતી રહે છે અને હર એક ને બીજો મોકો મળવો જોઇયે. ઓપન-સોર્સ હોવાના ને નાતે કોઈ નું પણ મન સર્વર સાથે રમવાનું થઈ સકે છે અને એવું કરવા પર અમે કોઈ પ્રકાર નું દંડ નથી લગાડતા. My sCool સર્વર અહી થી ``Factory Restore`` ઓપ્શન આપે છે –"
->>>>>>> 0e10ffb... gu translation fix
+msgid "We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around with the server and we do not penalise you for doing so. The My sCool Server provides ``Factory Restore`` options via –"
+msgstr "અમે આ સમજયે છે કે દુર્ઘટનાઓ થતી રહે છે અને હર એક ને બીજો મોકો મળવો જોઇયે. ઓપન-સોર્સ હોવાના ને નાતે કોઈ નું પણ મન સર્વર સાથે રમવાનું થઈ સકે છે અને એવું કરવા પર અમે કોઈ પ્રકાર નું દંડ નથી લગાડતા. My sCool Server અહી થી ``Factory Restore`` ઓપ્શન આપે છે –"
 
 #: ../../source/06-Backup Recovery.rst:5 and
 msgid "Server boot menu or"
@@ -51,45 +37,16 @@ msgid "USB created with the recovery.sh tool"
 msgstr "recovery.sh દ્વારા બનાવેલી usb"
 
 #: ../../source/06-Backup Recovery.rst:8 and
-msgid ""
-"Factory Restore option restores the system to the state the server left Recherche’s premises, which may include customisation such as "
-"user accounts etc., if the data is given at the time of order placement."
-msgstr ""
-"ફેકટ્રી રિસ્ટોર ઓપ્શન સિસ્ટમ ને રિસ્ટોર કરે છે અને એજ અવસ્થા માં પાછું લાવે છે જ્યારે એણે રેશેશે નું સ્થળ છોડ્યું હતું, જેમાં યુઝર ના અકાઉંટ માં કરેલા પરિવર્તનો પણ શામિલ "
-"આદિ., અગર ડેટા ઓર્ડર પ્લેસમેન્ટ વખતે આપેલું હતું."
+msgid "Factory Restore option restores the system to the state the server left Recherche’s premises, which may include customisation such as user accounts etc., if the data is given at the time of order placement."
+msgstr "ફેકટ્રી રિસ્ટોર ઓપ્શન સિસ્ટમ ને રિસ્ટોર કરે છે અને એજ અવસ્થા માં પાછું લાવે છે જ્યારે એણે રેશેશે નું સ્થળ છોડ્યું હતું, જેમાં યુઝર ના અકાઉંટ માં કરેલા પરિવર્તનો પણ શામિલ આદિ., અગર ડેટા ઓર્ડર પ્લેસમેન્ટ વખતે આપેલું હતું."
 
 #: ../../source/06-Backup Recovery.rst:10 and
 msgid ""
-<<<<<<< HEAD
-"Exercise caution before using the ``Factory Restore`` feature. It shall override any customisations done by the user to the server "
-"and shall restore it to the factory shipping state. It may also delete user created data. Hence, if user generated data is of value, "
-"it is strongly recommended that ``/home`` data is periodically backed up on an external media by following the steps below."
+"Exercise caution before using the ``Factory Restore`` feature. It shall override any customisations done by the user to the server and shall restore it to the factory shipping state. It may also delete user created data. Hence, if user generated data is of value, it is strongly "
+"recommended that ``/home`` data is periodically backed up on an external media by following the steps below."
 msgstr ""
-"`` Factory Restore`` નો ઉપયોગ કરતા પહેલાં સાવધાની રાખવી. વપરાશકર્તા દ્વારા સર્વર પર કરવામાં આવતી કોઈ પણ કસ્તામૈઝેસન ને ઓવરરાઇડ કરશે અને તેને ફેક્ટરી "
-"શિપિંગ સ્ટેટમાં પુનઃસ્થાપિત કરશે. તે વપરાશકર્તા દ્વારા બનાવેલ ડેટા પણ કાઢી શકે છે. આથી, જો વપરાશકર્તાએ બનાવેલું માહિતી મૂલ્યનો છે, તો તે ખૂબ આગ્રહણીય છે કે ``/ "
-"home`` નો ડેટા સમયાંતરે બાહ્ય મીડિયાનો ઉપયોગ કરીને નીચેના પગલાંઓનું પાલન કરો."
-
-#: ../../source/06-Backup Recovery.rst:12 and
-msgid ""
-"The ``Factory Restore`` feature does not restore any preloaded or custom loaded web-content. Backup and restoration of all content "
-"accessible via ``http://server`` is the responsibility of the end-user. Read below for easy and useful backup steps."
-msgstr ""
-"``Factory Restore`` સુવિધા કોઈ પહેલાથી લોડ અથવા કસ્ટમ લોડ કરેલી વેબ-સામગ્રીને પુનઃસ્થાપિત કરતી નથી. ``http://server`` દ્વારા બધી સામગ્રીનું બૅકઅપ "
-"અને પુનઃસંગ્રહ એ વપરાશકર્તાની જવાબદારી છે. સરળ અને ઉપયોગી બેકઅપ પગલાં માટે નીચે વાંચો."
-
-#: ../../source/06-Backup Recovery.rst:14 and
-msgid ""
-"Multiple snapshots can be created. It is limited by space available on the /recovery partition. MSS uses borg deduplicated backup so "
-"only the changes made to system since the last backup are stored on subsequent backup attempts."
-msgstr ""
-"મલ્ટીપલ સ્નેપશોટ બનાવી શકાય છે.રિકવરી પાર્ટીશન પર જેટલી જગ્યા છે એટલા પરજ કામ કરી શકાય છે. MSS બોર્ગ દિડુપ્લિકેટેડ બેકપ નું પ્રયોગ કરે છે, જેનો અર્થ છે કે જે "
-"બદલાવ સિસ્ટમ માં પાછલા બેકઅપ પછી કરેલા છે એ પછી કરેલા બેકઅપ અટૈમ્પ્ટ માં સંગ્રહિત કરવામાં આવશે."
-=======
-"Exercise caution before using the ``Factory Restore`` feature. It shall override any customisations done by the user to the server and shall restore it to the factory shipping state. It may also delete user created data. Hence, if user generated data "
-"is of value, it is strongly recommended that ``/home`` data is periodically backed up on an external media by following the steps below."
-msgstr ""
-"``Factory Restore`` નો ઉપયોગ કરતા પહેલાં સાવધાની રાખવી. વપરાશકર્તા દ્વારા સર્વર પર કરવામાં આવતી કોઈ પણ કસ્તામૈઝેસન ને ઓવરરાઇડ કરશે અને તેને ફેક્ટરી શિપિંગ સ્ટેટમાં પુનઃસ્થાપિત કરશે. તે વપરાશકર્તા દ્વારા બનાવેલ ડેટા પણ કાઢી શકે છે. આથી, જો વપરાશકર્તાએ બનાવેલું માહિતી મૂલ્યનો છે, તો તે ખૂબ "
-"આગ્રહણીય છે કે ``/ home`` નો ડેટા સમયાંતરે બાહ્ય મીડિયાનો ઉપયોગ કરીને નીચેના પગલાંઓનું પાલન કરો."
+"``Factory Restore`` નો ઉપયોગ કરતા પહેલાં સાવધાની રાખવી. વપરાશકર્તા દ્વારા સર્વર પર કરવામાં આવતી કોઈ પણ કસ્તામૈઝેસન ને ઓવરરાઇડ કરશે અને તેને ફેક્ટરી શિપિંગ સ્ટેટમાં પુનઃસ્થાપિત કરશે. તે વપરાશકર્તા દ્વારા બનાવેલ ડેટા પણ કાઢી શકે છે. આથી, જો વપરાશકર્તાએ બનાવેલું માહિતી મૂલ્યનો છે, તો તે ખૂબ આગ્રહણીય છે કે ``/ home`` નો ડેટા સમયાંતરે "
+"બાહ્ય મીડિયાનો ઉપયોગ કરીને નીચેના પગલાંઓનું પાલન કરો."
 
 #: ../../source/06-Backup Recovery.rst:12 and
 msgid "The ``Factory Restore`` feature does not restore any preloaded or custom loaded web-content. Backup and restoration of all content accessible via ``http://server`` is the responsibility of the end-user. Read below for easy and useful backup steps."
@@ -98,7 +55,6 @@ msgstr "``Factory Restore`` સુવિધા કોઈ પહેલાથી �
 #: ../../source/06-Backup Recovery.rst:14 and
 msgid "Multiple snapshots can be created. It is limited by space available on the /recovery partition. MSS uses borg deduplicated backup so only the changes made to system since the last backup are stored on subsequent backup attempts."
 msgstr "મલ્ટીપલ સ્નેપશોટ બનાવી શકાય છે.રિકવરી પાર્ટીશન પર જેટલી જગ્યા છે એટલા પરજ કામ કરી શકાય છે. MSS બોર્ગ દિડુપ્લિકેટેડ બેકપ નું પ્રયોગ કરે છે, જેનો અર્થ છે કે જે બદલાવ સિસ્ટમ માં પાછલા બેકઅપ પછી કરેલા છે એ પછી કરેલા બેકઅપ અટૈમ્પ્ટ માં સંગ્રહિત કરવામાં આવશે."
->>>>>>> 0e10ffb... gu translation fix
 
 #: ../../source/06-Backup Recovery.rst:16 and
 msgid "To create a backup, run the following command as root (sudo su -):"
@@ -109,20 +65,12 @@ msgid "To restore to factory image from a running system, run the following as r
 msgstr "ચાલુ સિસ્ટમ માથી ફેક્ટરી ઇમેજ રિસ્ટોર કરવા માટે, નીચે આપેલા કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
 
 #: ../../source/06-Backup Recovery.rst:28 and
-msgid ""
-"Snapshots are numerical, 1 denoting the factory image. By default, running restore will restore to that snapshot. To restore to last "
-"snapshot taken run the following as root (sudo su -):"
-msgstr ""
-"સ્નેપશોટસ સંખ્યાત્મક છે, 1 ફેક્ટરી ઇમેજ ને દર્શાવે છે. મૂળભૂત રીતે, રિસ્ટોર ચલાવા પર સ્નેપશોટ પર રિસ્ટોર થઈ જસે. છેલ્લાં સ્નેપશોટ પર રિસ્ટોર કરવા માટે. નીચે આપેલા "
-"કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
+msgid "Snapshots are numerical, 1 denoting the factory image. By default, running restore will restore to that snapshot. To restore to last snapshot taken run the following as root (sudo su -):"
+msgstr "સ્નેપશોટસ સંખ્યાત્મક છે, 1 ફેક્ટરી ઇમેજ ને દર્શાવે છે. મૂળભૂત રીતે, રિસ્ટોર ચલાવા પર સ્નેપશોટ પર રિસ્ટોર થઈ જસે. છેલ્લાં સ્નેપશોટ પર રિસ્ટોર કરવા માટે. નીચે આપેલા કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
 
 #: ../../source/06-Backup Recovery.rst:34 and
-msgid ""
-"Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup.readthedocs.io/en/"
-"stable/usage.htm>`_ for details."
-msgstr ""
-"સ્નેપશોટ નું સંચાલન આ દસ્તાવેજ અને ટૂલ ના વિસ્તાર થી બાહર છે. હજુ વિગતો માટે `બોર્ગ દસ્તાવેજીકરણ <http://borgbackup.readthedocs.io/en/stable/usage."
-"htm>`_ નો સંદર્ભ લો."
+msgid "Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details."
+msgstr "સ્નેપશોટ નું સંચાલન આ દસ્તાવેજ અને ટૂલ ના વિસ્તાર થી બાહર છે. હજુ વિગતો માટે `બોર્ગ દસ્તાવેજીકરણ <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ નો સંદર્ભ લો."
 
 #: ../../source/06-Backup Recovery.rst:36 and
 msgid "Herein are just a few examples of what can be done with ``borg``:"
@@ -153,12 +101,8 @@ msgid "Pre-loaded Content Locations"
 msgstr "પૂર્વ લોડ સામગ્રી સ્થાનો"
 
 #: ../../source/06-Backup Recovery.rst:71 and
-msgid ""
-"Most of the preloaded web content resides at the common location - ``/var/www/html/mss``. However some of the content that have their "
-"own custom location are listed below -"
-msgstr ""
-"પહેલાથી લોડ કરેલી વેબ સામગ્રી મોટાભાગમાં સામાન્ય સ્થાન પર રહે છે- ``/var/www/html/mss``. જો કે કેટલીક સામગ્રી જેમાં તેમના પોતાના કસ્ટમ સ્થાન હોય તે નીચે "
-"સૂચિબદ્ધ છે -"
+msgid "Most of the preloaded web content resides at the common location - ``/var/www/html/mss``. However some of the content that have their own custom location are listed below -"
+msgstr "પહેલાથી લોડ કરેલી વેબ સામગ્રી મોટાભાગમાં સામાન્ય સ્થાન પર રહે છે- ``/var/www/html/mss``. જો કે કેટલીક સામગ્રી જેમાં તેમના પોતાના કસ્ટમ સ્થાન હોય તે નીચે સૂચિબદ્ધ છે -"
 
 #: ../../source/06-Backup Recovery.rst and
 msgid "NROER"

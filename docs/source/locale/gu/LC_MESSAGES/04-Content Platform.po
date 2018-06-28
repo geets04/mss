@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-23 08:54+0100\n"
-"PO-Revision-Date: 2018-06-23 15:20+0530\n"
+"PO-Revision-Date: 2018-06-28 17:28+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -30,20 +30,19 @@ msgstr "વેબ સર્વર"
 
 #: ../../source/04-Content Platform.rst:8
 msgid ""
-"The My sCool Server comes pre-configured with a ready to use web server "
-"to help you host your content and make it available on the local network."
+"The My sCool Server comes pre-configured with a ready to use web server to help you host "
+"your content and make it available on the local network."
 msgstr ""
-"My sCool સર્વર પેલા થી જ કોન્ફિગર કરેલું આવે છે, જેમાં ઉપયોગ માટે તૈયાર વેબ સર્વર આવે છે "
-"જે તમારું કંટેન્ટ હોસ્ટ કરવામાં તમને સહાયતા કરે છે અને અને સ્થાનિક નેટવર્ક પર તેને ઉપલબ્ધ "
-"કરાવે છે."
+"My sCool Server પેલા થી જ કોન્ફિગર કરેલું આવે છે, જેમાં ઉપયોગ માટે તૈયાર વેબ સર્વર આવે છે જે તમારું કંટેન્ટ "
+"હોસ્ટ કરવામાં તમને સહાયતા કરે છે અને અને સ્થાનિક નેટવર્ક પર તેને ઉપલબ્ધ કરાવે છે."
 
 #: ../../source/04-Content Platform.rst:12
 msgid ""
-"Pre-hosted content can be accessed from all clients powered by the MSS "
-"via any web browser at -"
+"Pre-hosted content can be accessed from all clients powered by the MSS via any web "
+"browser at -"
 msgstr ""
-"હોસ્ટ કરેલું કંટેન્ટ MSS દ્વારા સંચાલિત કોઈ પણ ક્લાઈંટ અથવા કોઈ પણ વેબ બ્રાઉજર થી "
-"ઍક્સેસ કરવામાં આવે છે નીચે દીધેલા માર્ગ થી -"
+"હોસ્ટ કરેલું કંટેન્ટ MSS દ્વારા સંચાલિત કોઈ પણ ક્લાઈંટ અથવા કોઈ પણ વેબ બ્રાઉજર થી ઍક્સેસ કરવામાં આવે છે નીચે "
+"દીધેલા માર્ગ થી -"
 
 #: ../../source/04-Content Platform.rst:19
 msgid "Hosting custom conent"
@@ -51,35 +50,32 @@ msgstr "કસ્ટમ કન્ટેન્ટને હોસ્ટ કરવ
 
 #: ../../source/04-Content Platform.rst:21
 msgid ""
-"Boot into ``Admin-Desktop``, login as *mssadmin* and put your custom "
-"content to be locally hosted at –"
+"Boot into ``Admin-Desktop``, login as *mssadmin* and put your custom content to be "
+"locally hosted at –"
 msgstr ""
-"``Admin-Desktop`` માં બુટ કરો પછી *mssadmin* તરીકે લૉગિન કરો અને તમારા કસ્ટમ "
-"કન્ટેન્ટને નીચે બતાવેલ જગ્યા પર મુકો –"
+"``Admin-Desktop`` માં બુટ કરો પછી *mssadmin* તરીકે લૉગિન કરો અને તમારા કસ્ટમ કન્ટેન્ટને નીચે બતાવેલ "
+"જગ્યા પર મુકો –"
 
 #: ../../source/04-Content Platform.rst:27
 msgid ""
-"The instructions for customisation of the custom content tile are "
-"available via a browser at -"
+"The instructions for customisation of the custom content tile are available via a browser "
+"at -"
 msgstr "કસ્ટમ કન્ટેન્ટ ટાઇલના કસ્ટમાઇઝેશન માટેના સૂચનો બ્રાઉઝર દ્વારા -"
 
 #: ../../source/04-Content Platform.rst:33 Platform.rst:59
 msgid ""
-"Do ensure that all content to be hosted should have the the following "
-"minimum permissions - read and execute for folders and read for files "
-"for the target audience."
+"Do ensure that all content to be hosted should have the the following minimum permissions "
+"- read and execute for folders and read for files for the target audience."
 msgstr ""
-"નીચે પ્રમાણે હોસ્ટ થવાની બધી કન્ટેન્ટ ને લઘુત્તમ પરવાનગીઓ હોવી જોઇએ તેની ખાતરી કરો "
-"- ફોલ્ડર્સ માટે read અને execute અને ફાઇલો માટે read."
+"નીચે પ્રમાણે હોસ્ટ થવાની બધી કન્ટેન્ટ ને લઘુત્તમ પરવાનગીઓ હોવી જોઇએ તેની ખાતરી કરો - ફોલ્ડર્સ માટે read "
+"અને execute અને ફાઇલો માટે read."
 
 #: ../../source/04-Content Platform.rst:36
 msgid "Setting requisite permissions via Terminal"
 msgstr "ટર્મિનલ દ્વારા આવશ્યક પરવાનગીઓ સેટ કરો"
 
 #: ../../source/04-Content Platform.rst:37
-msgid ""
-"Execute the following commands in a terminal to set requisite "
-"permissions -"
+msgid "Execute the following commands in a terminal to set requisite permissions -"
 msgstr "આવશ્યક પરવાનગીઓ સેટ કરવા માટે ટર્મિનલમાં નીચેના કમાંડ ચલાવો -"
 
 #: ../../source/04-Content Platform.rst:45
@@ -88,11 +84,11 @@ msgstr "વ્યક્તિગત કન્ટેન્ટ હોસ્ટી�
 
 #: ../../source/04-Content Platform.rst:47
 msgid ""
-"There could be a need for each user to host their own HTML based web "
-"content. Each user can host one's individual content at -"
+"There could be a need for each user to host their own HTML based web content. Each user "
+"can host one's individual content at -"
 msgstr ""
-"દરેક ઉપયોગકર્તા ને પોતાના HTML આધારિત વેબ કન્ટેન્ટને હોસ્ટ કરવાની જરૂર હોઈ શકે છે. "
-"દરેક ઉપયોગકર્તા પોતાની વ્યક્તિગત કન્ટેન્ટને અહીં હોસ્ટ કરી શકે છે -"
+"દરેક ઉપયોગકર્તા ને પોતાના HTML આધારિત વેબ કન્ટેન્ટને હોસ્ટ કરવાની જરૂર હોઈ શકે છે. દરેક ઉપયોગકર્તા "
+"પોતાની વ્યક્તિગત કન્ટેન્ટને અહીં હોસ્ટ કરી શકે છે -"
 
 #: ../../source/04-Content Platform.rst:53
 msgid "and it may then be accessed by all connected clients at"
