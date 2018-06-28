@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-23 08:54+0100\n"
-"PO-Revision-Date: 2018-06-23 16:11+0530\n"
+"PO-Revision-Date: 2018-06-28 17:26+0530\n"
 "Last-Translator: \n"
 "Language: hi\n"
 "Language-Team: \n"
@@ -30,19 +30,17 @@ msgstr "वेब सर्वर"
 
 #: ../../source/04-Content Platform.rst:8
 msgid ""
-"The My sCool Server comes pre-configured with a ready to use web server to help you host "
-"your content and make it available on the local network."
+"The My sCool Server comes pre-configured with a ready to use web server to help you host your content and "
+"make it available on the local network."
 msgstr ""
-"माइ एस कूल सर्वर उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको "
-"अपनी सामग्री को रखने और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद मिलती है."
+"My sCool Server उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको अपनी सामग्री को रखने "
+"और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद मिलती है."
 
 #: ../../source/04-Content Platform.rst:12
-msgid ""
-"Pre-hosted content can be accessed from all clients powered by the MSS via any web "
-"browser at -"
+msgid "Pre-hosted content can be accessed from all clients powered by the MSS via any web browser at -"
 msgstr ""
-"जो सामग्री आपने उपलब्ध कराई है वो किसी भी वेब ब्राउज़र पर उपलब्ध रहेगी उन सभी ग्राहको के लिए जो MSS "
-"द्वारा संचालित है निम्न लिंक पर -"
+"जो सामग्री आपने उपलब्ध कराई है वो किसी भी वेब ब्राउज़र पर उपलब्ध रहेगी उन सभी ग्राहको के लिए जो MSS द्वारा संचालित है "
+"निम्न लिंक पर -"
 
 #: ../../source/04-Content Platform.rst:19
 msgid "Hosting custom conent"
@@ -50,25 +48,20 @@ msgstr "होस्टिंग कस्टम सामग्री"
 
 #: ../../source/04-Content Platform.rst:21
 msgid ""
-"Boot into ``Admin-Desktop``, login as *mssadmin* and put your custom content to be "
-"locally hosted at –"
-msgstr ""
-"``Admin-Desktop`` में बूट करें, *mssadmin* के रूप में लॉग इन करें और अपने कस्टम कंटेंट नीचे दिखाए गए स्थान "
-"पर रखें –"
+"Boot into ``Admin-Desktop``, login as *mssadmin* and put your custom content to be locally hosted at –"
+msgstr "``Admin-Desktop`` में बूट करें, *mssadmin* के रूप में लॉग इन करें और अपने कस्टम कंटेंट नीचे दिखाए गए स्थान पर रखें –"
 
 #: ../../source/04-Content Platform.rst:27
-msgid ""
-"The instructions for customisation of the custom content tile are available via a "
-"browser at -"
+msgid "The instructions for customisation of the custom content tile are available via a browser at -"
 msgstr "कस्टम सामग्री टाइल के कस्टमइजेशन के लिए निर्देश ब्राउज़र के माध्यम से उपलब्ध हैं -"
 
 #: ../../source/04-Content Platform.rst:33 Platform.rst:59
 msgid ""
-"Do ensure that all content to be hosted should have the the following minimum "
-"permissions - read and execute for folders and read for files for the target audience."
+"Do ensure that all content to be hosted should have the the following minimum permissions - read and "
+"execute for folders and read for files for the target audience."
 msgstr ""
-"सुनिश्चित करें कि सभी सामग्री को होस्ट करने के लिए निम्न न्यूनतम अनुमतियाँ होनी चाहिए - read और "
-"execute फ़ोल्डरों के लिए और फ़ाइलों के लिए read."
+"सुनिश्चित करें कि सभी सामग्री को होस्ट करने के लिए निम्न न्यूनतम अनुमतियाँ होनी चाहिए - read और execute फ़ोल्डरों के लिए और "
+"फ़ाइलों के लिए read."
 
 #: ../../source/04-Content Platform.rst:36
 msgid "Setting requisite permissions via Terminal"
@@ -80,15 +73,15 @@ msgstr "अपेक्षित अनुमतियाँ सेट करन
 
 #: ../../source/04-Content Platform.rst:45
 msgid "Individual content hosting"
-msgstr "होस्टिंग कस्टम सामग्री"
+msgstr "व्यक्तिगत सामग्री होस्टिंग"
 
 #: ../../source/04-Content Platform.rst:47
 msgid ""
-"There could be a need for each user to host their own HTML based web content. Each user "
-"can host one's individual content at -"
+"There could be a need for each user to host their own HTML based web content. Each user can host one's "
+"individual content at -"
 msgstr ""
-"प्रत्येक उपयोगकर्ता को अपनी HTML आधारित वेब सामग्री होस्ट करने की आवश्यकता हो सकती है. प्रत्येक "
-"उपयोगकर्ता अपनी व्यक्तिगत सामग्री को होस्ट कर सकता है -"
+"प्रत्येक उपयोगकर्ता को अपनी HTML आधारित वेब सामग्री होस्ट करने की आवश्यकता हो सकती है. प्रत्येक उपयोगकर्ता अपनी व्यक्तिगत "
+"सामग्री को होस्ट कर सकता है -"
 
 #: ../../source/04-Content Platform.rst:53
 msgid "and it may then be accessed by all connected clients at"
