@@ -34,7 +34,7 @@ Add user to epoptes group
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note:: 
-   This must only be done for teacher accounts as it grants some extra priveledges.
+   This must only be done for teacher accounts as it grants some extra priviledges.
 
 Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a Terminal –
 
