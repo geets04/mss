@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-29 04:01+0530\n"
-"PO-Revision-Date: 2017-04-30 13:49+0530\n"
+"POT-Creation-Date: 2018-09-21 12:56+0100\n"
+"PO-Revision-Date: 2018-09-21 17:34+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -18,60 +18,257 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #: ../../source/01-User Management.rst:4
 msgid "User Management"
-msgstr "વપરાશકર્તા વ્યવસ્થાપન"
+msgstr "ઉપયોગકર્તા નું સંચાલન"
 
-#: ../../source/01-User Management.rst:6
-msgid "Via GUI:"
-msgstr "GUI દ્વારા:"
+#: ../../source/01-User Management.rst:7
+msgid "Create new user"
+msgstr "નવું યુઝર બનાઓ"
 
-#: ../../source/01-User Management.rst:8
-msgid "System → Administration → Users and Groups"
+#: ../../source/01-User Management.rst:9
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –"
 msgstr ""
+"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો –"
 
-#: ../../source/01-User Management.rst:11
-msgid "Via Commandline:"
-msgstr "કંમાન્ડલાઇન દ્વારા:"
+#: ../../source/01-User Management.rst:12 Management.rst:54 Management.rst:73
+msgid "Via GUI"
+msgstr "GUI દ્વારા"
 
-#: ../../source/01-User Management.rst:12
-msgid "Login as mssadmin and then execute the following commands in a terminal –"
-msgstr "મસ્સડમીન (mssadmin) તરીકે લોગીન કરો અને પછી નીચેનાં આદેશો ટર્મિનલમાં આપો –"
+#: ../../source/01-User Management.rst:13 Management.rst:74
+msgid "Navigate to ``System`` → ``Administration`` → ``Users and Groups``"
+msgstr "નેવિગેટ કરો - ``સિસ્ટમ`` → ``એડમિનિસ્ટ્રેશન`` → ``યુજર્સ એન્ડ ગ્રૂપ્સ``"
 
 #: ../../source/01-User Management.rst:14
-msgid "To switch to root user privileges – ::"
-msgstr "રુટ યુઝર વિશેષાધિકારો પર સ્વિચ કરવા માટે - ::"
-
-#: ../../source/01-User Management.rst:19
-msgid "To add a new user – ::"
-msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
-
-#: ../../source/01-User Management.rst:24
-msgid "To set a password for a previously created user – ::"
-msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
-
-#: ../../source/01-User Management.rst:29
 msgid ""
-"To add a user to epoptes group, needed only for teachers and admin accounts "
-"– ::"
+"Add new user by pressing the ``+Add`` button and fill in the details (You may "
+"have to wait for the existing user list to load.)"
 msgstr ""
-"એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ માટે જ "
-"જરૂરી છે) – ::"
+"``+Add`` બટન ને દબાવી ને નવા યુઝર ને એડ કરો અને વિગતો ભરો. (મોજૂદા યુઝર લિસ્ટ લોડ થાય "
+"ત્યાં સુધી તમને વાટ જોવી પડસે.)"
+
+#: ../../source/01-User Management.rst:15
+msgid "Set the new user's password in the next dialog"
+msgstr "આગલા ડાયલોગ માં નવા યુઝર નું પાસવર્ડ સેટ કરો"
+
+#: ../../source/01-User Management.rst:18 Management.rst:62 Management.rst:81
+msgid "Via Terminal"
+msgstr "ટર્મિનલ દ્વારા"
+
+#: ../../source/01-User Management.rst:23 Management.rst:45 Management.rst:86
+msgid "Enter *mssadmin's* password when prompted and continue."
+msgstr "પૂછવા પર *mssadmin* નું પાસવર્ડ નાખો અને આગડ વધો."
+
+#: ../../source/01-User Management.rst:25
+msgid "Set the password to activate the user's account."
+msgstr "યુઝરના એકાઉન્ટને સક્રિય કરવા માટે પાસવર્ડ સેટ કરો."
 
 #: ../../source/01-User Management.rst:34
+msgid "Add user to epoptes group"
+msgstr "યુઝર ને epoptes group માં એડ કરો"
+
+#: ../../source/01-User Management.rst:37
+msgid ""
+"This must only be done for teacher accounts as it grants some extra priviledges."
+msgstr "આ ફક્ત શિક્ષકો ના અકાઉંટ માજ કરવું કેમકે આ અધિક અધિકારો આપે છે."
+
+#: ../../source/01-User Management.rst:39
+msgid ""
+"Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a "
+"Terminal –"
+msgstr ""
+"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને ટર્મિનલ પર જઈને નીચે દીધેલાં "
+"કમાન્ડ ને ચલાઓ –"
+
+#: ../../source/01-User Management.rst:48
+msgid "Change password"
+msgstr "પાસવર્ડ ને બદલો"
+
+#: ../../source/01-User Management.rst:51
+msgid "To change your own password"
+msgstr "તમારા પોતાના પાસવર્ડ ને બદલવા માટે"
+
+#: ../../source/01-User Management.rst:59
+msgid ""
+"Press ``Change...`` against the ``Password:`` label. Thereafter set your "
+"password in the ``Change User Password`` dialog."
+msgstr ""
+"``Change...`` ને દબાઓ ``Password``  લેબલ ની સામે. આના પછી ``Change User Password`` "
+"ડાયલોગ માં તમારું પાસવર્ડ બદલો."
+
+#: ../../source/01-User Management.rst:68
+msgid "To change password of other user"
+msgstr "બીજા યુઝર નું પાસવર્ડ બદલવા માટે"
+
+#: ../../source/01-User Management.rst:70
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps -"
+msgstr ""
+"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
+
+#: ../../source/01-User Management.rst:75
+msgid "Select the user whose password needs changing"
+msgstr "જે યુઝર નું પાસવર્ડ બદલવું છે એને સિલેક્ટ કરો"
+
+#: ../../source/01-User Management.rst:76
+msgid "Press ``Change...`` against the ``Password`` label"
+msgstr "``Password`` લેબલ ની સામે ``change...`` દબાઓ"
+
+#: ../../source/01-User Management.rst:77
+msgid "Authenticate with *mssadmin's* password when prompted"
+msgstr "પૂછવા પર *mssadmin* નું પાસવર્ડ નાખો"
+
+#: ../../source/01-User Management.rst:78
+msgid "Set new password in the ``Change User Password`` dialog"
+msgstr "``Change User Password`` ડાઈલોગ માં નવું પાસવર્ડ નાખો"
+
+#: ../../source/01-User Management.rst:90
+msgid "Mass user addition"
+msgstr "ઘણા બધા યુઝર એડ કરવા માટે"
+
+#: ../../source/01-User Management.rst:92
+msgid ""
+"For adding  several users at one go, boot into ``Admin-Desktop``, login as "
+"*mssadmin** and perform these steps -"
+msgstr ""
+"ઘણા બધા યુઝર્સ ને એક આજ વાર માં જોડવા માટે, ``Admin-Desktop`` માં બુટ કરો, *mssadmin** "
+"થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
+
+#: ../../source/01-User Management.rst:94
+msgid ""
+"Create space separated file containing \"username password\" such as this :"
+"download:`sample </files/users.csv>`."
+msgstr ""
+"સ્પેસ થી અલગ કરેલી ફાઇલ બનાઓ જેમાં “યુઝરનેમ પાસવર્ડ” હોય જેમ કે આ :download:`sample </"
+"files/users.csv>`."
+
+#: ../../source/01-User Management.rst:96
+msgid "Steps:"
+msgstr "સ્ટેપ્સ:"
+
+#: ../../source/01-User Management.rst:98
+msgid "Use ``LibreOffice Calc`` to create the file"
+msgstr "``LibreOffice Calc`` ના ઉપયોગ થી ફાઇલ બનાઓ"
+
+#: ../../source/01-User Management.rst:99
+msgid "Choose ``File -> Save as``. You will see the ``Save as`` dialog."
+msgstr "``File -> Save as`` નું ચયન કરો. તમને ``Save as`` ડાયલોગ દેખાસે."
+
+#: ../../source/01-User Management.rst:100
+msgid "In the ``File type`` field select the format ``Text CSV (.csv)``."
+msgstr "``File type`` માં ``Text CSV (.csv)`` ફૉર્મટ સિલેક્ટ કરો."
+
+#: ../../source/01-User Management.rst:101
+msgid "Enter a file name as users.csv and click ``Save``."
+msgstr "ફાઇલ નું નામ users.csv દાખલ કરો અને ``Save`` પર ક્લિક કરો."
+
+#: ../../source/01-User Management.rst:102
+msgid ""
+"From the ``Export of text files`` dialog that appears, select the field "
+"delimeter as ``{space}`` for the data to be exported, and press OK."
+msgstr ""
+"``Export of text files`` ડાયલોગ જે દેખાય છે, ફિલ્ડ ડેલિમીટર ના રૂપ માં ``{space}`` "
+"સિલેક્ટ કરો ડેટા નું નિકાસ કરવા માટે અને OK પર ક્લિક કરો."
+
+#: ../../source/01-User Management.rst:106
+msgid "There should be no empty lines in the file."
+msgstr "ફાઇલ માં એક પણ લાઇન ખાલી ન હોવી જોઈએ."
+
+#: ../../source/01-User Management.rst:108
+msgid "Open terminal and execute the command –"
+msgstr "ટર્મિનલ ને ઓપન કરીને આ કમાન્ડ ને ચલાવો –"
+
+#: ../../source/01-User Management.rst:114
+msgid "Example: ::"
+msgstr "ઉદાહરણ માટે: ::"
+
+#: ../../source/01-User Management.rst:120
+msgid "Default credentials"
+msgstr "ડિફૉલ્ટ ઓળખાણપત્ર"
+
+#: ../../source/01-User Management.rst:122
 msgid ""
 "By default, the appliance is shipped with the following user accounts pre-"
 "configured i.e. if no customisation has been requested during order placement –"
 msgstr ""
-"સર્વર નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે તે પૂર્વ-સમન્વયિત છે (જો ઓર્ડર પ્લેસમેન્ટ "
-"દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી) –"
+"પેલા થી કોનફિગર કરેલા નીચે દીધેલાં યુઝર અકાઉંટ સાથે જ આ ઉપકરણ ને મોકલવા માં આવે છે અર્થાત "
+"ઓર્ડર દેતા વખતે કઈં ફેર બદલ નથી કરેલો ­­­–"
 
-#: ../../source/01-User Management.rst:36
-msgid "**student accounts:** student1 to student100; **password:** 12345"
-msgstr ""
+#: ../../source/01-User Management.rst:125
+msgid "Account Type"
+msgstr "અકાઉંટ ના પ્રકાર"
 
-#: ../../source/01-User Management.rst:38
-msgid "**teacher accounts:** teacher1 to teacher10; **password:** imteacher"
+#: ../../source/01-User Management.rst:125
+msgid "Username"
+msgstr "યુઝરનેમ"
+
+#: ../../source/01-User Management.rst:125
+msgid "Password"
+msgstr "પાસવર્ડ"
+
+#: ../../source/01-User Management.rst:127
+msgid "Admin"
+msgstr "Admin"
+
+#: ../../source/01-User Management.rst:127
+msgid "mssadmin"
+msgstr "mssadmin"
+
+#: ../../source/01-User Management.rst:127
+msgid "myskool"
+msgstr "myskool"
+
+#: ../../source/01-User Management.rst:128
+msgid "Student"
+msgstr "Student"
+
+#: ../../source/01-User Management.rst:128
+msgid "student<n>"
+msgstr "student<n>"
+
+#: ../../source/01-User Management.rst:128
+msgid "12345"
+msgstr "12345"
+
+#: ../../source/01-User Management.rst:129
+msgid "Teacher"
+msgstr "Teacher"
+
+#: ../../source/01-User Management.rst:129
+msgid "teacher<n>"
+msgstr "teacher<n>"
+
+#: ../../source/01-User Management.rst:129
+msgid "imteacher"
+msgstr "imteacher"
+
+#: ../../source/01-User Management.rst:132
+msgid ""
+"It is strongly recommend that a user must change the account password upon "
+"first time use."
 msgstr ""
+"આ વાત પર ખૂબ અજ જોર દીધેલું છે કે યુઝર પ્રથમ વાર ઉપયોગ વખતે અકાઉન્ટ પાસવર્ડ આવશ્યક રૂપ થી "
+"બદલે."
+
+#~ msgid "Via GUI:"
+#~ msgstr "GUI દ્વારા:"
+
+#~ msgid "Via Commandline:"
+#~ msgstr "કંમાન્ડલાઇન દ્વારા:"
+
+#~ msgid "To switch to root user privileges – ::"
+#~ msgstr "રુટ યુઝર વિશેષાધિકારો પર સ્વિચ કરવા માટે - ::"
+
+#~ msgid "To add a new user – ::"
+#~ msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
+
+#~ msgid "To set a password for a previously created user –"
+#~ msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
+
+#~ msgid ""
+#~ "To add a user to epoptes group, needed only for teachers and admin accounts "
+#~ "– ::"
+#~ msgstr ""
+#~ "એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ માટે જ "
+#~ "જરૂરી છે) – ::"

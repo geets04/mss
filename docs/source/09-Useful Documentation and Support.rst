@@ -36,7 +36,7 @@ https://sourceforge.net/projects/cyberorg-home/support
 For issues specific to MSS
 --------------------------
 
-https://github.com/cyberorg/myscoolserver/issues
+https://github.com/RechercheTech/mss/issues
 
 Recommended reading before asking for assistance
 ------------------------------------------------

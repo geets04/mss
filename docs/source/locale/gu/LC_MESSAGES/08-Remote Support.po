@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 14:37+0100\n"
+"PO-Revision-Date: 2017-09-27 12:53+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/08-Remote Support.rst:4
+msgid "Remote Support"
+msgstr "દૂરસ્થ સપોર્ટ"
+
+#: ../../source/08-Remote Support.rst:6
+msgid "For getting support remotely from support team, perform the following steps -"
+msgstr "સપોર્ટ ટીમ તરફથી દૂરસ્થ સપોર્ટ મેળવવા માટે, નીચેના પગલાં નું પાલન કરો -"
+
+#: ../../source/08-Remote Support.rst:8
+msgid "Login with any account, navigate to ``Applications`` → ``Internet`` →  ``Remmina``"
+msgstr "કોઈ પણ અકાઉંટ થી લૉગિન કરો, નેવિગેટ કરો ``Applications`` → ``Internet`` → ``Remmina``"
+
+#: ../../source/08-Remote Support.rst:10
+msgid "Do following steps -"
+msgstr "નીચે દીધેલાં પગલાં નું પાલન કરો -"
+
+#: ../../source/08-Remote Support.rst:12
+msgid "``RDP`` must be selected in dropdown box."
+msgstr "ડ્રોપ ડાઉન બોક્સ માં ``RDP`` જ સિલેક્ટ કરેલું હોય."
+
+#: ../../source/08-Remote Support.rst:13
+msgid "Type ``server`` as shown below."
+msgstr "``server`` ટાઈપ કરો જેમ નીચે બતાવેલું છે."
+
+#: ../../source/08-Remote Support.rst:14
+msgid "Hit ``Connect !``."
+msgstr "``Connect !`` દબાઓ."
+
+#: ../../source/08-Remote Support.rst:19
+msgid "When connection is established, Login as *mssadmin* in remmina screen ."
+msgstr "જ્યારે કનેક્શન થાય જાય, Remmina સ્ક્રીન માં *mssadmin* તરીકે પ્રવેશ કરો."
+
+#: ../../source/08-Remote Support.rst:21
+msgid "Following steps should be perform in opened remmina window"
+msgstr "નીચે દીધેલા પગલાં ને ખુલેલી રૅમમીનાં વિન્ડો માં અમલમાં મુકો"
+
+#: ../../source/08-Remote Support.rst:23
+msgid "Connect Wi-Fi/Hotspot for Internet Connection, see :ref:`connect-wifi` section for getting connected to Internet via Wi-Fi/Hotspot."
+msgstr "ઇન્ટરનેટ કનેક્શન માટે Wi-Fi/Hotspot થી કનેક્ટ કરો, :ref:`connect-wifi` સેક્શન ને જુવો, Wi-Fi/Hotspot દ્વારા ઇન્ટરનેટ થી જોડાવા માટે."
+
+#: ../../source/08-Remote Support.rst:25
+msgid "Launch ``Epoptes`` from ``Applications`` → ``Internet`` →  ``Epoptes``"
+msgstr "``Epoptes`` ને લોંચ કરો ``Applications`` → ``Internet`` → ``Epoptes`` દ્વારા"
+
+#: ../../source/08-Remote Support.rst:27
+msgid "Select ``Remote support`` option from ``Help`` → ``Remote support``"
+msgstr "``Remote support`` ઓપ્શન ને સિલેક્ટ કરો ``Help`` → ``Remote support`` ઓપ્શન માથી"
+
+#: ../../source/08-Remote Support.rst:32
+msgid "In ``remote-assistance`` dialog follow the steps below -"
+msgstr "``remote-assistance`` ડાયલોગ માં નીચે દીધેલાં પગલાં નું અનુસરણ કરો -"
+
+#: ../../source/08-Remote Support.rst:34
+msgid "In ``Method`` check if ``Graphic(VNC)`` is selected."
+msgstr "``Method`` માં તપાસો કે ``Graphic(VNC)`` સિલેક્ટ કરેલું છે શું."
+
+#: ../../source/08-Remote Support.rst:35
+msgid "In ``Host`` type ``support.myscoolserver.com:5500``"
+msgstr "``Host`` પર જઇને ટાઈપ કરો ``support.myscoolserver.com:5500``"
+
+#: ../../source/08-Remote Support.rst:36
+msgid "Hit ``Connect``."
+msgstr "``Connect`` દબાઓ."
+
+#: ../../source/08-Remote Support.rst:41
+msgid "On successful connection, ``Status`` will change to ``Connected``."
+msgstr "સફળ કનેક્શન પર, ``Status`` ``Connected`` માં બદલાઈ જશે."
+
+#: ../../source/08-Remote Support.rst:46
+msgid "Connect Wi-Fi/Hotspot"
+msgstr "વાઇફાઇ / હોટસ્પોટ કનેક્ટ કરો"
+
+#: ../../source/08-Remote Support.rst:48
+msgid "For connecting Wi-Fi/Hotspot in MSS, login as *mssadmin* and perform these steps -"
+msgstr "MSS માં Wi-Fi/Hotspot ને કનેક્ટ કરવા માટે, *mssadmin* તરીકે લૉગિન કરો અને આ પગલાંઓ નું પાલન કરો -"
+
+#: ../../source/08-Remote Support.rst:50
+msgid "Click on |internet|  from top-right corner of the screen, and click the name of the network you want to connect to."
+msgstr "સ્ક્રીન ના સીધી બાજુ સૌથી ઉપર કોર્નર થી |ઈન્ટરનેટ| પર ક્લિક કરો, એને તમે જે નેટવર્ક માં જોડાવા માંગો છો તેના નામ પર ક્લિક કરો."
+
+#: ../../source/08-Remote Support.rst:57
+msgid ""
+"If the name of the network is not in the list, select ``More networks`` to see if the network is further down the list. If you still do not see the network, your device may be out of range or the network might "
+"be hidden."
+msgstr "અગર નેટવર્ક નું નામ સૂચિ માં નથી, તો ``More networks`` સિલેક્ટ કરો એ જોવા માટે કે શું નેટવર્ક નું નામ સૂચિ માં હજી નીચે હોય સકે છે. અગર, તમને હજી પણ નેટવર્ક નથી દેખાતું, તો તમારું ડિવાઇસ રેન્જ ની બહાર હસે અથવા નેટવર્ક છુપાયેલું હસે."
+
+#: ../../source/08-Remote Support.rst:60
+msgid "Type password of *mssadmin* in ``Authenticate`` dialog as shown below and hit ``Authenticate``."
+msgstr "``Authenticate`` ડાયલોગ માં *mssadmin* નું પાસવર્ડ નાખો જેમ નીચે દેખાયેલું છે તેમ અને ``Authenticate``  ને દબાઓ."
+
+#: ../../source/08-Remote Support.rst:65
+msgid "It will again prompt for the password with the ``Authenticate`` dialog, type password of *mssadmin* and hit ``Authenticate``"
+msgstr "``Authenticate`` ડાયલોગ સાથે એ પછી પાસવર્ડ પૂછસે, *mssadmin* નું પાસવર્ડ નાખો અને ``Authenticate`` ને દબાઓ"
+
+#: ../../source/08-Remote Support.rst:70
+msgid "If the network is protected by a password, enter the password in ``Wi-Fi Network Authentication Required`` dialog when prompted and click ``Connect``."
+msgstr "અગર નેટવર્ક માં પણ પાસવર્ડ નાખેલો છે તો, ``Wi-Fi Network Authentication Required`` ડાયલોગ માં પણ પૂછવા પર પાસવર્ડ દાખલ કરો અને ``Connect`` પર ક્લિક કરો."
+
+#: ../../source/08-Remote Support.rst:75
+msgid "The network icon will change to |wifi|"
+msgstr "નેટવર્ક નું આઈકન |wifi| આમ બદલી જસે"
+
+#: ../../source/08-Remote Support.rst:79
+msgid "If the connection is not successful, you may be asked for your password again or it might just tell you that the connection has been disconnected."
+msgstr "અગર કનેક્શન સફળ  નથી થતું, તો તમને ફરી પાસવર્ડ પૂછી શકે છે નહીંતર પછી તમને સરળતા થી કહી દેશે કે કનેક્શન ડિસ્કનેક્ટ થઈ ગયું છે."

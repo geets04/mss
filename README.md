@@ -4,19 +4,23 @@ Checkout http://mss-doc.readthedocs.io/ for the comprehensive documentation.
 
 Support for My sCool Server
 ---------------------------
-For support documentation related to the MSS project refer [Documentation and Support](http://mss-sb.readthedocs.io/gu/draft/08-Useful%20Documentation%20and%20Support.html).
+For support documentation related to the MSS project refer [Documentation and Support](http://mss-doc.readthedocs.io/en/latest/08-Useful%20Documentation%20and%20Support.html).
 
-For issues related to the My sCool Server report them at the [github issue tracker](https://github.com/cyberorg/myscoolserver/issues).
+For issues specifically related to the My sCool Server report them at the [github issue tracker](https://github.com/RechercheTech/mss/issues).
 
-**NOTE:** Report issues with applications on their respective bug trackers, this space is for issues directly related to MSS only.
+**NOTE:** Report issues or feature requests with applications and add-on contents on their respective bug trackers/forums, this space is for issues directly related to MSS only.
 
-Also this place is not for support requests, use respective forums of applications for that purpose. We use Ubuntu-Mate, bugs for Ubuntu and Ubuntu Mate should be reported there:
+Also this place is not for support requests, use respective forums of applications for that purpose. 
+
+We use Ubuntu-Mate as base, bugs for Ubuntu, Ubuntu Mate and packages from their respective repositories(or ppa) should be reported on their bug trackers.
+
+Add-on content is not part of MSS, it is provided free of cost upon request from schools, use their respective forums for any issues with them or features needed.
 
 Bugs in Ubuntu or applications
 ------------------------------
 https://bugs.launchpad.net/
 
-Fixes for those applications usually arrive via online update or in subsequent releases.
+Fixes for those applications usually arrive via online update or in subsequent MSS releases.
 
 Participate in Localisation of the MSS Documentation
 ---------------------------------------------------
