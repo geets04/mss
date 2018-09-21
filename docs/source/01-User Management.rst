@@ -22,13 +22,19 @@ Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –
 
 Enter *mssadmin's* password when prompted and continue.
 
+Set the password to activate the user's account.
+
+::
+
+ sudo passwd <username>
+ 
 .. _add-user-to-epoptes-group:
 
 Add user to epoptes group
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note:: 
-   This must only be done for teacher accounts as it grants some extra priveledges.
+   This must only be done for teacher accounts as it grants some extra priviledges.
 
 Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a Terminal –
 
