@@ -33,7 +33,7 @@ msgid ""
 "The My sCool Server comes pre-configured with a ready to use web server to help you host your content and "
 "make it available on the local network."
 msgstr ""
-"My sCool Server उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको अपनी सामग्री को रखने "
+"माय स्कूल सर्वर उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको अपनी सामग्री को रखने "
 "और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद मिलती है।"
 
 #: ../../source/04-Content Platform.rst:12
