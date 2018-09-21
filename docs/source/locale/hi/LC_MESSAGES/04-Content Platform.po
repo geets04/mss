@@ -33,8 +33,8 @@ msgid ""
 "The My sCool Server comes pre-configured with a ready to use web server to help you host your content and "
 "make it available on the local network."
 msgstr ""
-"My sCool Server उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको अपनी सामग्री को रखने "
-"और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद मिलती है."
+"माय स्कूल सर्वर उपयोग के लिए तुरंत तैयार वेब सर्वर के साथ पूर्व कॉन्फ़िगर किया हुआ आता है, जिससे आपको अपनी सामग्री को रखने "
+"और उसे स्थानीय नेटवर्क पर उपलब्ध कराने मे मदद मिलती है।"
 
 #: ../../source/04-Content Platform.rst:12
 msgid "Pre-hosted content can be accessed from all clients powered by the MSS via any web browser at -"
@@ -61,7 +61,7 @@ msgid ""
 "execute for folders and read for files for the target audience."
 msgstr ""
 "सुनिश्चित करें कि सभी सामग्री को होस्ट करने के लिए निम्न न्यूनतम अनुमतियाँ होनी चाहिए - read और execute फ़ोल्डरों के लिए और "
-"फ़ाइलों के लिए read."
+"फ़ाइलों के लिए read।"
 
 #: ../../source/04-Content Platform.rst:36
 msgid "Setting requisite permissions via Terminal"
