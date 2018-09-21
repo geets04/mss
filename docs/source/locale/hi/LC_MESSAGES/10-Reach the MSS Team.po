@@ -52,7 +52,7 @@ msgid ""
 "Visit http://www.myscoolserver.com/contact for the regional and latest contact "
 "information."
 msgstr ""
-"http://www.myscoolserver.com/contact देखे क्षेत्रीय अथवा नवीनतम संपर्क संबंधी जानकारी हेतु."
+"http://www.myscoolserver.com/contact देखे क्षेत्रीय अथवा नवीनतम संपर्क संबंधी जानकारी हेतु।"
 
 #: ../../source/10-Reach MSS Team.rst:18 the
 msgid "Social"
