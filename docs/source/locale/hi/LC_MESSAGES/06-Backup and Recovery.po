@@ -30,7 +30,7 @@ msgid ""
 "server and we do not penalise you for doing so. The My sCool Server provides ``Factory Restore`` options via –"
 msgstr ""
 "हम समझते हैं कि दुर्घटनाएं होती हैं और हर किसी को दूसरा मौका मिलना चाहिए. ओपन सोर्स होने के नाते किसी को भी सर्वर के साथ खेलने का मन कर सकता है और ऐसा करने पर हम "
-"आपको दंडित नहे करेंगे। My sCool Server ``Factory Restore`` का विकल्प उपलब्ध करता है निम्न द्वारा –"
+"आपको दंडित नहे करेंगे। माय स्कूल सर्वर ``Factory Restore`` का विकल्प उपलब्ध करता है निम्न द्वारा –"
 
 #: ../../source/06-Backup Recovery.rst:5 and
 msgid "Server boot menu or"
