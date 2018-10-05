@@ -7,7 +7,7 @@ Contact Information
 Corporate Headquarters
 ^^^^^^^^^^^^^^^^^^^^^^
 | **Recherche Tech LLP**
-| 501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,
+| 501/B, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,
 | Gujarat 380015. INDIA.
 | Phone: +91-79-40080440
 | Web site: http://www.myscoolserver.com
