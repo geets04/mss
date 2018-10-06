@@ -1,5 +1,5 @@
-Useful Documentation and Support
-================================
+Documentation and Support
+=========================
 
 Frequently asked questions
 --------------------------
@@ -36,6 +36,11 @@ Important Links
 
 ----
 
+Community Support
+-----------------
+
+.. rubric:: Learning Resources
+
 The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ 
 and content from Spoken Tutorial [2]_ that walks you through everything you need to know
 about using Ubuntu linux, almost every GUI application comes with F1
@@ -52,29 +57,24 @@ Lot more community created documentation is also available online:
 | https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-first-update/955/7
 | https://ubuntu-mate.org/faq
 
-Community help for Ubuntu specific issues
------------------------------------------
+.. rubric:: Ubuntu Community help 
 
 | http://community.ubuntu.com/help-information
 | https://ubuntu-mate.org/community
 
-Community help for issues specific to MSS
---------------------------
+.. rubric:: MSS Community help
 
 https://github.com/RechercheTech/mss/issues
 
-Help for typing in your language
---------------------------------
+.. rubric:: Typing in your language
 
 https://help.ubuntu.com/community/ibus
 
-For issues specific to Li-f-e
------------------------------
+.. rubric::  Li-f-e - Linux for Education help
 
 https://sourceforge.net/projects/cyberorg-home/support
 
-Recommended reading before asking for assistance
-------------------------------------------------
+.. rubric:: Recommended reading before asking for assistance
 
 http://www.catb.org/esr/faqs/smart-questions.html
 
