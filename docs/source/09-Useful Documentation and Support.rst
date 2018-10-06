@@ -1,20 +1,20 @@
 Useful Documentation and Support
 ================================
 
-Frequently asked questions -
-----------------------------
+Frequently asked questions
+--------------------------
 Answers to most frequent queries by the MSS users, collated from various perspectives, can be found herein -
 
 http://myscoolserver.com/faqs
 
-How-to Videos and Guides -
-----------------------------
+How-to Videos and Guides
+------------------------
 The YouTube channel is regurlarly updated with basic usage training and new feature walk-through tutorials. Checkout the playlists section for your area of interest -
 
 https://www.youtube.com/myscoolserver
 
-Warranty support channels -
----------------------------
+Warranty support channels
+-------------------------
 
 Every My sCool Server has a sticker bearing a unique MSS ID or S/N (Serial Number). This ID is
 important for all communications with Recherche Tech in regards to your
