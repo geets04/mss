@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Recherche Tech LLP
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-08 10:47+0100\n"
+"PO-Revision-Date: 2018-10-08 16:39+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gu\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/09-Support Guidance.rst:2 and
+msgid "Support and Guidance"
+msgstr "સપોર્ટ અને માર્ગદર્શન"
+
+#: ../../source/09-Support Guidance.rst:5 and
+msgid "Frequently asked questions"
+msgstr "વારંવાર પૂછાતા પ્રશ્નો"
+
+#: ../../source/09-Support Guidance.rst:6 and
+msgid ""
+"Answers to most frequent queries by the MSS users, collated from various perspectives, "
+"can be found herein -"
+msgstr ""
+"વિવિધ દ્રષ્ટિકોણથી સંકળાયેલા, એમએસએસ વપરાશકર્તાઓ દ્વારા વારંવાર પૂછાતા પ્રશ્નોના જવાબો, અહીં મળી શકે "
+"છે -"
+
+#: ../../source/09-Support Guidance.rst:8 and
+msgid "http://myscoolserver.com/faqs"
+msgstr "http://myscoolserver.com/faqs"
+
+#: ../../source/09-Support Guidance.rst:11 and
+msgid "How-to Videos and Guides"
+msgstr "કેવી-રીતે વિડિઓઝ અને માર્ગદર્શિકાઓ"
+
+#: ../../source/09-Support Guidance.rst:12 and
+msgid ""
+"The YouTube channel is regurlarly updated with basic usage training and new feature walk-"
+"through tutorials. Checkout the playlists section for your area of interest -"
+msgstr ""
+"યુ ટ્યુબ ચેનલને મૂળભૂત વપરાશ તાલીમ અને નવી સુવિધા સાથે નિયમિતપણે અપડેટ કરવામાં આવી છે. તમારા રુચિના "
+"ક્ષેત્ર માટે પ્લેલિસ્ટ્સ વિભાગને તપાસ કરો -"
+
+#: ../../source/09-Support Guidance.rst:14 and
+msgid "https://www.youtube.com/myscoolserver"
+msgstr "https://www.youtube.com/myscoolserver"
+
+#: ../../source/09-Support Guidance.rst:17 and
+msgid "Warranty support channels"
+msgstr "વોરંટી સપોર્ટ ચેનલો"
+
+#: ../../source/09-Support Guidance.rst:19 and
+msgid ""
+"Every My sCool Server has a sticker bearing a unique MSS ID or S/N (Serial Number). This "
+"ID is important for all communications with Recherche Tech in regards to your MSS "
+"hardware. If you ever have an issue with your MSS hardware and it is under warranty, "
+"simply open a ticket through any of the support channels and quote this MSS ID and the "
+"nature of your problem."
+msgstr ""
+"પ્રત્યેક માય સ્કૂલ સર્વર પર વિશિષ્ટ એમએસએસ ID અથવા S/N (સીરીયલ નંબર) ધરાવતી સ્ટીકર છે. આ ID તમારા "
+"એમએસએસ હાર્ડવેરના સંદર્ભમાં રેશેશે ટેક સાથેના તમામ સંચાર માટે મહત્વપૂર્ણ છે. તમને વોરંટી માં ક્યારે પણ MSS "
+"હાર્ડવેર સંબંધી મુશ્કેલી આવે તો કોઈ પણ સપોર્ટ ચેનલ પર જઈને ટિકિટ ખોલો અને આ એમએસએસ ID ને અને તમારી "
+"સમસ્યાના પ્રકારનું ઉદ્ધરણ કરો."
+
+#: ../../source/09-Support Guidance.rst:25 and
+msgid "Support portal: https://helpdesk.myscoolserver.com"
+msgstr "સપોર્ટ પોર્ટલ: https://helpdesk.myscoolserver.com"
+
+#: ../../source/09-Support Guidance.rst:27 and
+msgid "Email-id: helpdesk@myscoolserver.com"
+msgstr "ઇમેઇલ-આઈડી: helpdesk@myscoolserver.com"
+
+#: ../../source/09-Support Guidance.rst:29 and
+msgid "WhatsApp number: +91-79-40080440"
+msgstr "વ્હાત્સેપ નંબર: + 91-79-40080440"
+
+#: ../../source/09-Support Guidance.rst:32 and
+msgid "Important Links"
+msgstr "મહત્વપૂર્ણ લિંક્સ"
+
+#: ../../source/09-Support Guidance.rst:33 and
+msgid "`Terms of service and support <https://www.myscoolserver.com/mss-service-terms/>`_"
+msgstr "`સેવાની શરતો અને સપોર્ટ <https://www.myscoolserver.com/mss-service-terms/>`_"
+
+#: ../../source/09-Support Guidance.rst:35 and
+msgid ""
+"`Limited Warranty Terms <https://www.myscoolserver.com/recherche-limited-product-"
+"warranty-mss/>`_"
+msgstr ""
+"`મર્યાદિત વોરંટી શરતો <https://www.myscoolserver.com/recherche-limited-product-warranty-"
+"mss/>`_"
+
+#: ../../source/09-Support Guidance.rst:40 and
+msgid "Community Support"
+msgstr "કોમ્યુનિટી સપોર્ટ"
+
+#: ../../source/09-Support Guidance.rst:43 and
+msgid "Learning resources"
+msgstr "શીખવાના સાધનો"
+
+#: ../../source/09-Support Guidance.rst:45 and
+msgid ""
+"The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ and "
+"content from Spoken Tutorial [2]_ that walks you through everything you need to know "
+"about using Ubuntu linux, almost every GUI application comes with ``F1`` help, and "
+"respective documentation in ``/usr/share/doc folder``."
+msgstr ""
+"માય સ્કૂલ સર્વર હેકેટ અને બેંકવેલ કોમિક પુસ્તકો [1]_ અને સ્પોકન ટ્યુટોરિયલ ના સામગ્રીને પહેલાથી લોડ કરવામાં "
+"આવે છે [2]_ જે તમને ઉબુન્ટુ લિનક્સનો ઉપયોગ વિશે જાણવાની આવશ્યકતા દ્વારા ચાલે છે, લગભગ દરેક GUI એપ્લિકેશન "
+"``F1`` સાથે આવે છે. સહાય, અને સંબંધિત દસ્તાવેજો ``/ usr / share /doc`` ફોલ્ડર માં છે."
+
+#: ../../source/09-Support Guidance.rst:51 and
+msgid "Community created documentation available at:"
+msgstr "કોમ્યુનિટી બનાવનાર દસ્તાવેજીકરણ અહીં ઉપલબ્ધ છે:"
+
+#: ../../source/09-Support Guidance.rst:52 and
+msgid "https://ubuntu-manual.org"
+msgstr "https://ubuntu-manual.org"
+
+#: ../../source/09-Support Guidance.rst:53 and
+msgid "https://help.ubuntu.com"
+msgstr "https://help.ubuntu.com"
+
+#: ../../source/09-Support Guidance.rst:54 and
+msgid "https://ubuntu-mate.github.io"
+msgstr "https://ubuntu-mate.github.io"
+
+#: ../../source/09-Support Guidance.rst:55 and
+msgid "https://help.ubuntu.com/community/CommonQuestions"
+msgstr "https://help.ubuntu.com/community/CommonQuestions"
+
+#: ../../source/09-Support Guidance.rst:56 and
+msgid "https://help.ubuntu.com/community/Beginners/FAQ"
+msgstr "https://help.ubuntu.com/community/Beginners/FAQ"
+
+#: ../../source/09-Support Guidance.rst:57 and
+msgid "http://askubuntu.com/questions?sort=faq"
+msgstr "http://askubuntu.com/questions?sort=faq"
+
+#: ../../source/09-Support Guidance.rst:58 and
+msgid ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-"
+"first-update/955/7"
+msgstr ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-install-and-run-"
+"first-update/955/7"
+
+#: ../../source/09-Support Guidance.rst:59 and
+msgid "https://ubuntu-mate.org/faq"
+msgstr "https://ubuntu-mate.org/faq"
+
+#: ../../source/09-Support Guidance.rst:62 and
+msgid "Ubuntu community help"
+msgstr "ઉબુન્ટુ કોમ્યુનિટી સહાય"
+
+#: ../../source/09-Support Guidance.rst:64 and
+msgid "http://community.ubuntu.com/help-information"
+msgstr "http://community.ubuntu.com/help-information"
+
+#: ../../source/09-Support Guidance.rst:65 and
+msgid "https://ubuntu-mate.org/community"
+msgstr "https://ubuntu-mate.org/community"
+
+#: ../../source/09-Support Guidance.rst:68 and
+msgid "MSS community help"
+msgstr "એમએસએસ કોમ્યુનિટી સહાય"
+
+#: ../../source/09-Support Guidance.rst:70 and
+msgid "https://github.com/RechercheTech/mss/issues"
+msgstr "https://github.com/RechercheTech/mss/issues"
+
+#: ../../source/09-Support Guidance.rst:73 and
+msgid "Typing in your language"
+msgstr "તમારી ભાષામાં લખવું"
+
+#: ../../source/09-Support Guidance.rst:75 and
+msgid "https://help.ubuntu.com/community/ibus"
+msgstr "https://help.ubuntu.com/community/ibus"
+
+#: ../../source/09-Support Guidance.rst:78 and
+msgid "Li-f-e - Linux for Education help"
+msgstr "Li-f-e - Linux for Education સહાય"
+
+#: ../../source/09-Support Guidance.rst:80 and
+msgid "https://sourceforge.net/projects/cyberorg-home/support"
+msgstr "https://sourceforge.net/projects/cyberorg-home/support"
+
+#: ../../source/09-Support Guidance.rst:83 and
+msgid "Must read before seeking community help"
+msgstr "કોમ્યુનિટી સહાય મેળવવા પહેલાં વાંચવું આવશ્યક છે"
+
+#: ../../source/09-Support Guidance.rst:85 and
+msgid "http://www.catb.org/esr/faqs/smart-questions.html"
+msgstr "http://www.catb.org/esr/faqs/smart-questions.html"
+
+#: ../../source/09-Support Guidance.rst:89 and
+msgid "http://hackettandbankwell.com"
+msgstr "http://hackettandbankwell.com"
+
+#: ../../source/09-Support Guidance.rst:92 and
+msgid "http://spoken-tutorial.org/about-us"
+msgstr "http://spoken-tutorial.org/about-us"
