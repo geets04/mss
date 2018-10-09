@@ -46,12 +46,12 @@ msgid ""
 "Add new user by pressing the ``+Add`` button and fill in the details (You may "
 "have to wait for the existing user list to load.)"
 msgstr ""
-"``+Add`` बटन दबाकर नए उपयोगकर्ता को जोड़े और विगतों को भरे (जब तक मौजूदा उपयोगकर्ताओ "
-"की सूची लोड नही हो जाती तब तक आपको प्रतीक्षा करनी पड सकती है.)"
+"``+Add`` बटन दबाकर नए उपयोगकर्ता को जोड़े और विगतों को भरे। (जब तक मौजूदा उपयोगकर्ताओ "
+"की सूची लोड नही हो जाती तब तक आपको प्रतीक्षा करनी पड सकती है।)"
 
 #: ../../source/01-User Management.rst:15
 msgid "Set the new user's password in the next dialog"
-msgstr "नए  उपयोगकर्ता का पासवर्ड आप अगले डायलोग मे सेट करे"
+msgstr "नए उपयोगकर्ता का पासवर्ड आप अगले डायलोग मे सेट करे।"
 
 #: ../../source/01-User Management.rst:18 Management.rst:62 Management.rst:81
 msgid "Via Terminal"
@@ -59,20 +59,20 @@ msgstr "टर्मिनल द्वारा"
 
 #: ../../source/01-User Management.rst:23 Management.rst:45 Management.rst:86
 msgid "Enter *mssadmin's* password when prompted and continue."
-msgstr "पूछने पर  *mssadmin's*  का पासवर्ड डाले और आगे बढ़े."
+msgstr "पूछने पर  *mssadmin's*  का पासवर्ड डाले और आगे बढ़े।"
 
 #: ../../source/01-User Management.rst:25
 msgid "Set the password to activate the user's account."
-msgstr "उपयोगकर्ता के खाते को सक्रिय करने के लिए पासवर्ड सेट करें."
+msgstr "उपयोगकर्ता के खाते को सक्रिय करने के लिए पासवर्ड सेट करें।"
 
 #: ../../source/01-User Management.rst:34
 msgid "Add user to epoptes group"
-msgstr "उपयोगकर्ता को epoptes समूह मे जोड़े"
+msgstr "उपयोगकर्ता को epoptes समूह मे जोड़े।"
 
 #: ../../source/01-User Management.rst:37
 msgid ""
 "This must only be done for teacher accounts as it grants some extra priviledges."
-msgstr "यह सिर्फ शिक्षको के  अकाउंट मे ही किया जाए क्योंकि इससे कुछ अधिक अधिकार प्राप्त होंगे."
+msgstr "यह सिर्फ शिक्षको के  अकाउंट मे ही किया जाए क्योंकि इससे कुछ अधिक अधिकार प्राप्त होंगे।"
 
 #: ../../source/01-User Management.rst:39
 msgid ""
@@ -95,7 +95,7 @@ msgid ""
 "password in the ``Change User Password`` dialog."
 msgstr ""
 "``Password`` लेबल के सामने ``Change...``  दबाये. इसके पश्चात ``Change User Password`` "
-"डायलोग मे जाकर अपना पासवर्ड सेट करे."
+"डायलोग मे जाकर अपना पासवर्ड सेट करे।"
 
 #: ../../source/01-User Management.rst:68
 msgid "To change password of other user"
@@ -126,7 +126,6 @@ msgid "Mass user addition"
 msgstr "बड़ी संख्या मे उपयोगकर्ताओ को जोड़ने हेतु"
 
 #: ../../source/01-User Management.rst:92
-#, fuzzy
 msgid ""
 "For adding  several users at one go, boot into ``Admin-Desktop``, login as "
 "*mssadmin** and perform these steps -"
@@ -140,7 +139,7 @@ msgid ""
 "download:`sample </files/users.csv>`."
 msgstr ""
 "स्पेस द्वारा अलग की हुई फाइल को बनाए जिसमे  ‘उपयोगकर्ता का नाम और पासवर्ड’ हो जैसे की :"
-"download:`sample </files/users.csv>`."
+"download:`sample </files/users.csv>`।"
 
 #: ../../source/01-User Management.rst:96
 msgid "Steps:"
@@ -151,32 +150,30 @@ msgid "Use ``LibreOffice Calc`` to create the file"
 msgstr "``LibreOffice Calc`` का प्रयोग कर फाइल बनाए"
 
 #: ../../source/01-User Management.rst:99
-#, fuzzy
 msgid "Choose ``File -> Save as``. You will see the ``Save as`` dialog."
-msgstr "``File -> Save as`` को चुने. आपको ``Save as`` डायलोग दिखेगा."
+msgstr "``File -> Save as`` को चुने. आपको ``Save as`` डायलोग दिखेगा"
 
 #: ../../source/01-User Management.rst:100
 #, fuzzy
 msgid "In the ``File type`` field select the format ``Text CSV (.csv)``."
-msgstr "``File type`` फील्ड मे ``Text CSV (.csv)`` फॉर्मेट को चुने."
+msgstr "``File type`` फील्ड मे ``Text CSV (.csv)`` फॉर्मेट को चुने"
 
 #: ../../source/01-User Management.rst:101
 #, fuzzy
 msgid "Enter a file name as users.csv and click ``Save``."
-msgstr "फाइल का नाम users.csv डाले और ``Save`` पे क्लिक करे."
+msgstr "फाइल का नाम users.csv डाले और ``Save`` पे क्लिक करे"
 
 #: ../../source/01-User Management.rst:102
-#, fuzzy
 msgid ""
 "From the ``Export of text files`` dialog that appears, select the field "
 "delimeter as ``{space}`` for the data to be exported, and press OK."
 msgstr ""
 "``Export of text files`` डायलोग मे से फील्ड डेलीमेटर के रूप मे ``{space}`` को चुने, जो "
-"डेटा निर्यात करना है उसके लिए और फिर OK दबाये."
+"डेटा निर्यात करना है उसके लिए और फिर OK दबाये"
 
 #: ../../source/01-User Management.rst:106
 msgid "There should be no empty lines in the file."
-msgstr "फ़ाइल में कोई खाली पंक्ति नहीं होनी चाहिए."
+msgstr "फ़ाइल में कोई खाली पंक्ति नहीं होनी चाहिए।"
 
 #: ../../source/01-User Management.rst:108
 msgid "Open terminal and execute the command –"
@@ -252,4 +249,4 @@ msgid ""
 "first time use."
 msgstr ""
 "यह दृढ़ता से अनुशंसा की जाती है कि उपयोगकर्ता को पहली बार उपयोग करने पर खाता पासवर्ड "
-"बदलना चाहिए."
+"बदलना चाहिए।"

@@ -32,7 +32,7 @@ msgid ""
 "Epoptes is a monitoring and broadcasting tool to assist teachers in "
 "imparting lessons."
 msgstr ""
-"Epoptes एक निगरानी और प्रसारण का साधन है जो पढ़ाने मे शिक्षको की सहायता करता है."
+"Epoptes एक निगरानी और प्रसारण का साधन है जो पढ़ाने मे शिक्षको की सहायता करता है।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:10 and
 msgid ""
@@ -40,7 +40,7 @@ msgid ""
 "see :ref:`add-user-to-epoptes-group`."
 msgstr ""
 "सिर्फ वही उपयोगकर्ता जो “epoptes” समूह से जुड़ा हुआ है epoptes की एप्प्लिकेशन का "
-"प्रक्षेपण कर सकता है. देखे :ref:`add-user-to-epoptes-group`."
+"प्रक्षेपण कर सकता है. देखे :ref:`add-user-to-epoptes-group`।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:12 and
 msgid ""
@@ -52,7 +52,7 @@ msgstr ""
 "पूर्व-कॉन्फ़िगर सारे शिक्षको के खाते पहले से ही Epoptes समूह के सदस्य है. *epoptes* का "
 "प्रयोग करना आत्म स्पष्ट और सहज ज्ञान युक्त है, हालांकि पूर्ण प्रलेखन `यहाँ <https://"
 "translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__ "
-"उपलब्ध है."
+"उपलब्ध है।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
 msgid "When using ``English-Desktop``, a teacher can start Epoptes as below:"
@@ -70,7 +70,7 @@ msgid ""
 "Epoptes with just a click."
 msgstr ""
 "यहाँ दिये गए चरणो की मदद से शिक्षक डेस्कटॉप लॉन्चर  बना सकते है जिससे सिर्फ एक क्लिक से "
-"Epoptes को शुरू कर सके."
+"Epoptes को शुरू कर सके।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:25 and
 msgid "Right click on desktop and select ``Create launcher...``"

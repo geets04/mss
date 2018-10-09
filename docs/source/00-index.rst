@@ -31,9 +31,9 @@ notice.
 
 Restricted Rights
 -----------------
-Copyright 2016 Recherche Tech LLP. All rights reserved.
+Copyright 2016-2018 Recherche Tech LLP. All rights reserved.
 
-My sCool Server, My sCool Server logo are trademarks of Recherche Tech
+My sCool Server, My sCool Server logo are registered trademarks of Recherche Tech
 LLP.
 
 .. _contact-info:
@@ -46,7 +46,7 @@ Contact
 Corporate Headquarters
 ^^^^^^^^^^^^^^^^^^^^^^
 | **Recherche Tech LLP**
-| 501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,
+| 501/B, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,
 | Gujarat 380015. INDIA.
 | Phone: +91-79-40080440
 | Web site: http://www.myscoolserver.com

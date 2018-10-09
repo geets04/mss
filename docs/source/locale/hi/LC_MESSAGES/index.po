@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../source/index.rst:6
 msgid "Welcome to the My sCool Server documentation!"
-msgstr ""
+msgstr "माय स्कूल सर्वर उपयोगकर्ता पुस्तिका में आपका स्वागत है!"
 

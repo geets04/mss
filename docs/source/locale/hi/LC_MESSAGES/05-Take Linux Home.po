@@ -34,7 +34,7 @@ msgid ""
 "**mssadmin** user."
 msgstr ""
 "Li-f-e: Linux for Education OS छवि सर्वर पर शामिल है और इसका उपयोग बूटेबल मीडिया बनाने मे "
-"किया जा सकता है ``Admin-Desktop`` मे बूट करके और फिर **mssadmin** उपयोगकर्ता द्वारा लॉगिन करे."
+"किया जा सकता है ``Admin-Desktop`` मे बूट करके और फिर **mssadmin** उपयोगकर्ता द्वारा लॉगिन करे।"
 
 #: ../../source/05-Take Home.rst Linux
 msgid "Note"
@@ -47,8 +47,8 @@ msgid ""
 "so use this if you are not sure about your hardware capabilities."
 msgstr ""
 "बूटेबल मीडिया को बनाते समय “isohybrid” / “EFI” विकल्प को चुने जिसका उद्देश्य उन कम्प्युटर को बूट "
-"करना है जो सिर्फ EFI बूटिंग का समर्थन करते है. इस विकल्प से आप लेगेसी हार्डवेयर पर भी बूट कर सकते है, "
-"तो इसका उपयोग तब करे जब आपको अपने हार्डवेयर क्षमताओं को लेकर निश्चिंता न हो."
+"करना है जो सिर्फ EFI बूटिंग का समर्थन करते है। इस विकल्प से आप लेगेसी हार्डवेयर पर भी बूट कर सकते है, "
+"तो इसका उपयोग तब करे जब आपको अपने हार्डवेयर क्षमताओं को लेकर निश्चिंता न हो।"
 
 #: ../../source/05-Take Home.rst:14 Linux
 msgid ""
@@ -56,9 +56,9 @@ msgid ""
 "hence more reliable. *Do note that this will wipe the USB device and cannot be used as "
 "a normal storage media from Windows PC.*"
 msgstr ""
-"बूटेबल यूएसबी बनाने के लिए \" isohybrid\" विकल्प का उपयोग आधिकारिक तौर पर सुजाया गया है , और "
-"इसलिए यह अधिक विश्वसनीय है. *इस बात का ध्यान रखे के इससे यूएसबी डिवाइस पूरी तरह साफ हो जाएगा "
-"और विंडोज पीसी मे सामान्य स्टोरेज मीडिया के रूप में इस्तेमाल नहीं किया जा सकेगा.*"
+"बूटेबल यूएसबी बनाने के लिए \" isohybrid\" विकल्प का उपयोग आधिकारिक तौर पर सुजाया गया है, और "
+"इसलिए यह अधिक विश्वसनीय है। *इस बात का ध्यान रखे के इससे यूएसबी डिवाइस पूरी तरह साफ हो जाएगा "
+"और विंडोज पीसी मे सामान्य स्टोरेज मीडिया के रूप में इस्तेमाल नहीं किया जा सकेगा।*"
 
 #: ../../source/05-Take Home.rst:18 Linux
 msgid ""
@@ -68,10 +68,10 @@ msgid ""
 "booting fails using this method, use isohybrid / EFI mode."
 msgstr ""
 "“Ubuntu” / “Legacy” विकल्प का प्रयोग करे यदि आप चाहते है उपकरण को विंडोज पीसी मे सामान्य स्टोरेज "
-"मीडिया के रूप में इस्तेमाल करना चाहते है अथवा अपना डाटा संरक्षित रखना चाहते है. इस प्रक्रिया के लिए "
-"USB स्टिक पर एक vfat फोरमेटेड पारटिशन की आवश्यकता होगी. बूट मीडिया बनाते समय पारटिशन इस्तेमाल "
+"मीडिया के रूप में इस्तेमाल करना चाहते है अथवा अपना डाटा संरक्षित रखना चाहते है। इस प्रक्रिया के लिए "
+"USB स्टिक पर एक vfat फोरमेटेड पारटिशन की आवश्यकता होगी। बूट मीडिया बनाते समय पारटिशन इस्तेमाल "
 "मे नहीं होना चाहये. यदि इस प्रक्रिया से बूटिंग नही हो पाती है तो isohybrid / EFI मोड का प्रयोग "
-"करे."
+"करे।"
 
 #: ../../source/05-Take Home.rst:25 Linux
 msgid "Via Shortcuts"
@@ -83,7 +83,7 @@ msgid ""
 "GUI Legacy`` as per your bootable media preference."
 msgstr ""
 "डेस्कटॉप पर से इनमे से किसी भी लोंचर आइकॉन का उपयोग करे - ``Live USB GUI EFI`` अथवा ``Live "
-"USB GUI Legacy`` आपके बूटेबल मीडिया के पसंद के आधार पर."
+"USB GUI Legacy`` आपके बूटेबल मीडिया के पसंद के आधार पर।"
 
 #: ../../source/05-Take Home.rst:30 Linux
 msgid "Via Menu"
@@ -95,7 +95,7 @@ msgid ""
 "located at one of these directory paths - ``/recovery/`` or ``/home/mssadmin/``."
 msgstr ""
 "इस प्रक्रिया मे आपसे ISO छवि मांगी जाएगी. Li-f-e.iso फाइल इनमे से किसी एक डायरेक्टरी पाथ पर "
-"उपलब्ध है - ``/recovery/`` अथवा ``/home/mssadmin/``."
+"उपलब्ध है - ``/recovery/`` अथवा ``/home/mssadmin/``।"
 
 #: ../../source/05-Take Home.rst:38 Linux
 msgid "Via Terminal"
@@ -104,7 +104,7 @@ msgstr "टर्मिनल द्वारा"
 #: ../../source/05-Take Home.rst:40 Linux
 msgid ""
 "It may be more convenient to use command line for running this task multiple times."
-msgstr "इस कार्य को एक से अधिक बार करने हेतु कमांड लाइन का प्रयोग करना ज्यादा सुविधाजनक रहेगा."
+msgstr "इस कार्य को एक से अधिक बार करने हेतु कमांड लाइन का प्रयोग करना ज्यादा सुविधाजनक रहेगा।"
 
 #: ../../source/05-Take Home.rst:48 Linux
 msgid "References"
