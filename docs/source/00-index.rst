@@ -1,4 +1,4 @@
-.. figure:: images/my_scool_server_logo.png
+.. figure:: images/my_scool_server_logo.svg
    :alt: 
 
 About the User Manual
