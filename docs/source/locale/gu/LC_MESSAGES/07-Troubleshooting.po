@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: 2017-09-27 12:21+0530\n"
+"PO-Revision-Date: 2018-11-03 12:32+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,20 +29,16 @@ msgstr "બુટીંગ અથવા ફ્રીઝિંગ પ્રોબ
 
 #: ../../source/07-Troubleshooting.rst:7
 msgid ""
-"If the client machines do not boot or they freeze while working, it can be caused by a faulty network cable, connection or "
-"switch. Try connecting a client directly to the server using a LAN cable and attempt booting the client. If the client "
-"boots, it confirms that the client and server both are in working order. Then continue troubleshooting your physical network "
-"or contact your network engineer."
+"If the client machines do not boot or they freeze while working, it can be caused by a faulty network cable, connection or switch. Try connecting "
+"a client directly to the server using a LAN cable and attempt booting the client. If the client boots, it confirms that the client and server "
+"both are in working order. Then continue troubleshooting your physical network or contact your network engineer."
 msgstr ""
-"અગર ક્લાઈંટ ની મશીન બૂટ ના થાય અથવા કામ કરતી વખતે ફ્રીઝ થય જાય, તો આના કારણ ખરાબ નેટવર્ક કેબલ, કનેક્શન અથવા સ્વિચ હોય સકે છે. કોશિશ કરો "
-"ક્લાઈંટ ને સર્વર થી સીધું કનેક્ટ કરવાની LAN કેબલ ની મદદ થી અને ક્લાઈંટ ને બુટ કરવાનો પ્રયાસ કરો. અગર ક્લાઈંટ બૂટ થઇ જાય છે તો એનો અર્થ છે કે "
-"ક્લાયન્ટ અને સર્વર બન્ને સરખી રીતે કાર્ય કરે છે. હવે તમે તમારા ભૌતિક નેટવર્ક ના મુશ્કેલીનિવારણ પર કાર્ય કરો અથવા તમારા નેટવર્ક એંજીનિયર ને સંપર્ક "
-"કરો."
+"અગર ક્લાઈંટ મશીન બૂટ ના થાય અથવા કામ કરતી વખતે ફ્રીઝ થય જાય, તો આના કારણ ખરાબ નેટવર્ક કેબલ, કનેક્શન અથવા સ્વિચ હોય સકે છે. કોશિશ કરો ક્લાઈંટ ને સર્વર થી સીધું કનેક્ટ "
+"કરવાની LAN કેબલ ની મદદ થી અને ક્લાઈંટ ને બુટ કરવાનો પ્રયાસ કરો. અગર ક્લાઈંટ બૂટ થઇ જાય છે તો એનો અર્થ છે કે ક્લાઈંટ અને સર્વર બન્ને સરખી રીતે કાર્ય કરે છે. હવે તમે તમારા "
+"ભૌતિક નેટવર્ક ના મુશ્કેલીનિવારણ પર કાર્ય કરો અથવા તમારા નેટવર્ક એંજીનિયર ને સંપર્ક કરો."
 
 #: ../../source/07-Troubleshooting.rst:9
-msgid ""
-"In case the client machines still do not boot after trying all above steps, :ref:`contact the MSS support team <contact-"
-"info>`."
+msgid "In case the client machines still do not boot after trying all above steps, :ref:`contact the MSS support team <contact-info>`."
 msgstr "ઉપર દીધેલાં બધા ચરણો કાર્ય પછી પણ અગર ક્લાઈંટ ની મશીન ચાલુ ના થાય તો, :ref:`MSS support team ને સંપર્ક કરો <contact-info>`."
 
 #: ../../source/07-Troubleshooting.rst:12
@@ -58,12 +54,8 @@ msgid "Restore Desktop to Default Settings"
 msgstr "ડિફૉલ્ટ સેટિંગ્સ પર ડેસ્કટૉપને પુનઃસ્થાપિત કરો"
 
 #: ../../source/07-Troubleshooting.rst:22
-msgid ""
-"To restore the desktop to default settings of any user run this in terminal from mssadmin account login once the user has "
-"logged out – ::"
-msgstr ""
-"ડેસ્કટૉપને કોઈ પણ વપરાશકર્તાની ડિફૉલ્ટ સુયોજનોને પુનઃસ્થાપિત કરવા માટે ટર્મિનલમાંથી mssadmin એકાઉન્ટ લોગિનમાંથી આ વપરાશકર્તા લૉગ આઉટ થયા "
-"પછી – ::"
+msgid "To restore the desktop to default settings of any user run this in terminal from mssadmin account login once the user has logged out – ::"
+msgstr "ડેસ્કટૉપને કોઈ પણ વપરાશકર્તાની ડિફૉલ્ટ સુયોજનોને પુનઃસ્થાપિત કરવા માટે ટર્મિનલમાંથી mssadmin એકાઉન્ટ લોગિનમાંથી આ વપરાશકર્તા લૉગ આઉટ થયા પછી – ::"
 
 #: ../../source/07-Troubleshooting.rst:27
 msgid "Next ask the user to login again."
@@ -83,7 +75,7 @@ msgstr "ફેરફારો કરવા માટે યુઝર ને  લ
 
 #: ../../source/07-Troubleshooting.rst:39
 msgid "Remote Desktop Connection Issues"
-msgstr "રિમોટ ડેકસ્ટોપ નું કનેક્શન લેવાના મુદ્દાઓ"
+msgstr "રિમોટ ડેસ્કટોપ નું કનેક્શન લેવાના મુદ્દાઓ"
 
 #: ../../source/07-Troubleshooting.rst:41
 msgid "Try the following steps as mssadmin user (enter password when prompted) -"
