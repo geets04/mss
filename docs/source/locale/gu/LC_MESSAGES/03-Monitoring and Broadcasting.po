@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-20 14:49+0530\n"
-"PO-Revision-Date: 2018-11-02 17:22+0530\n"
+"PO-Revision-Date: 2018-11-05 13:09+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -38,15 +38,15 @@ msgstr "જે યુઝર “epoptes” સમૂહ થી જોડાયે
 
 #: ../../source/03-Monitoring Broadcasting.rst:12 and
 msgid ""
-"All pre-configured teacher accounts are already members of the *epoptes* group. Using epoptes is self evident and intuitive, however complete "
-"documentation is available `here <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+"All pre-configured teacher accounts are already members of the *epoptes* group. Using epoptes is self evident and intuitive, however complete documentation is available `here "
+"<https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
 msgstr ""
-"જે શિક્ષકો ના અકાઉંટ પેલા થી કોન્ફિગર કરેલા છે એ લોકો પહેલેથી જ *epoptes* સમુહ ના સદસ્યો છે. Epoptes નું ઉપયોગ આત્મ સ્પષ્ટ અને સાહજિક છે, જોકે એનું સંપૂર્ણ દસ્તાવેજીકરણ `અહીં "
-"<https://translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__ ઉપલબ્ધ છે."
+"જે શિક્ષકો ના અકાઉંટ પેલા થી કોન્ફિગર કરેલા છે એ લોકો પહેલેથી જ *epoptes* સમુહ ના સદસ્યો છે. Epoptes નું ઉપયોગ આત્મ સ્પષ્ટ અને સાહજિક છે, જોકે એનું સંપૂર્ણ દસ્તાવેજીકરણ `અહીં <https://translate.google."
+"com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__ ઉપલબ્ધ છે."
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
 msgid "When using ``English-Desktop``, a teacher can start Epoptes as below:"
-msgstr "અગર શિક્ષક ``English-Desktop`` નું ઉપયોગ કરે છે તો, નીચે દીધેલાં માર્ગ પર જઈને Epoptes શૂરું કરી સકે છે:"
+msgstr "અગર શિક્ષક ``English-Desktop`` નું ઉપયોગ કરે છે તો, નીચે દીધેલાં માર્ગ પર જઈને Epoptes શરૂ કરી સકે છે:"
 
 #: ../../source/03-Monitoring Broadcasting.rst:22 and
 msgid "Create Epoptes Launcher"
@@ -54,7 +54,7 @@ msgstr "Epoptes લોંચર બનાવું"
 
 #: ../../source/03-Monitoring Broadcasting.rst:23 and
 msgid "Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click."
-msgstr "નીચે દીધેલાં ચરણો નું પાલન કરીને શિક્ષકો Epoptes ને એક ક્લિક થી શૂરું કરવા માટે ડેસ્કટોપ લોંચર બનાવી સકે છે."
+msgstr "નીચે દીધેલાં ચરણો નું પાલન કરીને શિક્ષકો Epoptes ને એક ક્લિક થી શરૂ કરવા માટે ડેસ્કટોપ લોંચર બનાવી સકે છે."
 
 #: ../../source/03-Monitoring Broadcasting.rst:25 and
 msgid "Right click on desktop and select ``Create launcher...``"
