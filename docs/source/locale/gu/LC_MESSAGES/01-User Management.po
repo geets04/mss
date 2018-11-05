@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-21 12:56+0100\n"
-"PO-Revision-Date: 2018-09-21 17:34+0530\n"
+"PO-Revision-Date: 2018-11-05 11:44+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -30,8 +30,7 @@ msgstr "નવું યુઝર બનાઓ"
 
 #: ../../source/01-User Management.rst:9
 msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –"
-msgstr ""
-"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો –"
+msgstr "``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો –"
 
 #: ../../source/01-User Management.rst:12 Management.rst:54 Management.rst:73
 msgid "Via GUI"
@@ -43,11 +42,11 @@ msgstr "નેવિગેટ કરો - ``સિસ્ટમ`` → ``એડમ
 
 #: ../../source/01-User Management.rst:14
 msgid ""
-"Add new user by pressing the ``+Add`` button and fill in the details (You may "
-"have to wait for the existing user list to load.)"
+"Add new user by pressing the ``+Add`` button and fill in the details (You may have to wait "
+"for the existing user list to load.)"
 msgstr ""
-"``+Add`` બટન ને દબાવી ને નવા યુઝર ને એડ કરો અને વિગતો ભરો. (મોજૂદા યુઝર લિસ્ટ લોડ થાય "
-"ત્યાં સુધી તમને વાટ જોવી પડસે.)"
+"``+Add`` બટન ને દબાવી ને નવા યુઝર ને એડ કરો અને વિગતો ભરો. (મોજૂદા યુઝર લિસ્ટ લોડ થાય ત્યાં સુધી તમને "
+"વાટ જોવી પડસે.)"
 
 #: ../../source/01-User Management.rst:15
 msgid "Set the new user's password in the next dialog"
@@ -70,17 +69,15 @@ msgid "Add user to epoptes group"
 msgstr "યુઝર ને epoptes group માં એડ કરો"
 
 #: ../../source/01-User Management.rst:37
-msgid ""
-"This must only be done for teacher accounts as it grants some extra priviledges."
+msgid "This must only be done for teacher accounts as it grants some extra priviledges."
 msgstr "આ ફક્ત શિક્ષકો ના અકાઉંટ માજ કરવું કેમકે આ અધિક અધિકારો આપે છે."
 
 #: ../../source/01-User Management.rst:39
 msgid ""
-"Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a "
-"Terminal –"
+"Boot into ``Admin-Desktop``, login as *mssadmin* and execute the following in a Terminal –"
 msgstr ""
-"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને ટર્મિનલ પર જઈને નીચે દીધેલાં "
-"કમાન્ડ ને ચલાઓ –"
+"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને ટર્મિનલ પર જઈને નીચે દીધેલાં કમાન્ડ ને "
+"ચલાઓ –"
 
 #: ../../source/01-User Management.rst:48
 msgid "Change password"
@@ -92,11 +89,11 @@ msgstr "તમારા પોતાના પાસવર્ડ ને બદ�
 
 #: ../../source/01-User Management.rst:59
 msgid ""
-"Press ``Change...`` against the ``Password:`` label. Thereafter set your "
-"password in the ``Change User Password`` dialog."
+"Press ``Change...`` against the ``Password:`` label. Thereafter set your password in the "
+"``Change User Password`` dialog."
 msgstr ""
-"``Change...`` ને દબાઓ ``Password``  લેબલ ની સામે. આના પછી ``Change User Password`` "
-"ડાયલોગ માં તમારું પાસવર્ડ બદલો."
+"``Change...`` ને દબાઓ ``Password``  લેબલ ની સામે. આના પછી ``Change User Password`` ડાયલોગ માં "
+"તમારું પાસવર્ડ બદલો."
 
 #: ../../source/01-User Management.rst:68
 msgid "To change password of other user"
@@ -104,8 +101,7 @@ msgstr "બીજા યુઝર નું પાસવર્ડ બદલવ�
 
 #: ../../source/01-User Management.rst:70
 msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps -"
-msgstr ""
-"``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
+msgstr "``Admin-Desktop`` માં બુટ કરો, *mssadmin* થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
 
 #: ../../source/01-User Management.rst:75
 msgid "Select the user whose password needs changing"
@@ -129,19 +125,19 @@ msgstr "ઘણા બધા યુઝર એડ કરવા માટે"
 
 #: ../../source/01-User Management.rst:92
 msgid ""
-"For adding  several users at one go, boot into ``Admin-Desktop``, login as "
-"*mssadmin** and perform these steps -"
+"For adding  several users at one go, boot into ``Admin-Desktop``, login as *mssadmin** and "
+"perform these steps -"
 msgstr ""
-"ઘણા બધા યુઝર્સ ને એક આજ વાર માં જોડવા માટે, ``Admin-Desktop`` માં બુટ કરો, *mssadmin** "
-"થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
+"ઘણા બધા યુઝર્સ ને એકજ વાર માં જોડવા માટે, ``Admin-Desktop`` માં બુટ કરો, *mssadmin** થી લૉગિન કરો "
+"અને આ સ્ટેપ્સ નું પાલન કરો -"
 
 #: ../../source/01-User Management.rst:94
 msgid ""
-"Create space separated file containing \"username password\" such as this :"
-"download:`sample </files/users.csv>`."
+"Create space separated file containing \"username password\" such as this :download:"
+"`sample </files/users.csv>`."
 msgstr ""
-"સ્પેસ થી અલગ કરેલી ફાઇલ બનાઓ જેમાં “યુઝરનેમ પાસવર્ડ” હોય જેમ કે આ :download:`sample </"
-"files/users.csv>`."
+"સ્પેસ થી અલગ કરેલી ફાઇલ બનાઓ જેમાં “યુઝરનેમ પાસવર્ડ” હોય જેમ કે આ :download:`sample </files/users."
+"csv>`."
 
 #: ../../source/01-User Management.rst:96
 msgid "Steps:"
@@ -165,11 +161,11 @@ msgstr "ફાઇલ નું નામ users.csv દાખલ કરો અન
 
 #: ../../source/01-User Management.rst:102
 msgid ""
-"From the ``Export of text files`` dialog that appears, select the field "
-"delimeter as ``{space}`` for the data to be exported, and press OK."
+"From the ``Export of text files`` dialog that appears, select the field delimeter as "
+"``{space}`` for the data to be exported, and press OK."
 msgstr ""
-"``Export of text files`` ડાયલોગ જે દેખાય છે, ફિલ્ડ ડેલિમીટર ના રૂપ માં ``{space}`` "
-"સિલેક્ટ કરો ડેટા નું નિકાસ કરવા માટે અને OK પર ક્લિક કરો."
+"``Export of text files`` ડાયલોગ જે દેખાય છે, ફિલ્ડ ડેલિમીટર ના રૂપ માં ``{space}`` સિલેક્ટ કરો ડેટા "
+"નું નિકાસ કરવા માટે અને OK પર ક્લિક કરો."
 
 #: ../../source/01-User Management.rst:106
 msgid "There should be no empty lines in the file."
@@ -189,11 +185,11 @@ msgstr "ડિફૉલ્ટ ઓળખાણપત્ર"
 
 #: ../../source/01-User Management.rst:122
 msgid ""
-"By default, the appliance is shipped with the following user accounts pre-"
-"configured i.e. if no customisation has been requested during order placement –"
+"By default, the appliance is shipped with the following user accounts pre-configured i.e. "
+"if no customisation has been requested during order placement –"
 msgstr ""
-"પેલા થી કોનફિગર કરેલા નીચે દીધેલાં યુઝર અકાઉંટ સાથે જ આ ઉપકરણ ને મોકલવા માં આવે છે અર્થાત "
-"ઓર્ડર દેતા વખતે કઈં ફેર બદલ નથી કરેલો ­­­–"
+"પેલા થી કોનફિગર કરેલા નીચે દીધેલાં યુઝર અકાઉંટ સાથે જ આ ઉપકરણ ને મોકલવા માં આવે છે અર્થાત ઓર્ડર દેતા વખતે "
+"કઈં ફેર બદલ નથી કરેલો ­­­–"
 
 #: ../../source/01-User Management.rst:125
 msgid "Account Type"
@@ -245,11 +241,8 @@ msgstr "imteacher"
 
 #: ../../source/01-User Management.rst:132
 msgid ""
-"It is strongly recommend that a user must change the account password upon "
-"first time use."
-msgstr ""
-"આ વાત પર ખૂબ અજ જોર દીધેલું છે કે યુઝર પ્રથમ વાર ઉપયોગ વખતે અકાઉન્ટ પાસવર્ડ આવશ્યક રૂપ થી "
-"બદલે."
+"It is strongly recommend that a user must change the account password upon first time use."
+msgstr "આ વાત પર ખૂબ અજ જોર દીધેલું છે કે યુઝર પ્રથમ વાર ઉપયોગ વખતે અકાઉન્ટ પાસવર્ડ આવશ્યક રૂપ થી બદલે."
 
 #~ msgid "Via GUI:"
 #~ msgstr "GUI દ્વારા:"
@@ -266,9 +259,6 @@ msgstr ""
 #~ msgid "To set a password for a previously created user –"
 #~ msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
 
-#~ msgid ""
-#~ "To add a user to epoptes group, needed only for teachers and admin accounts "
-#~ "– ::"
+#~ msgid "To add a user to epoptes group, needed only for teachers and admin accounts – ::"
 #~ msgstr ""
-#~ "એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ માટે જ "
-#~ "જરૂરી છે) – ::"
+#~ "એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ માટે જ જરૂરી છે) – ::"

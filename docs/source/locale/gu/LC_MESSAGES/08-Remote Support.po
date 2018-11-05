@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-20 14:37+0100\n"
-"PO-Revision-Date: 2018-11-01 14:12+0530\n"
+"PO-Revision-Date: 2018-11-03 12:34+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -113,7 +113,7 @@ msgstr "``પરસ્થાપિત કરો`` ડાયલોગ સાથ�
 
 #: ../../source/08-Remote Support.rst:70
 msgid "If the network is protected by a password, enter the password in ``Wi-Fi Network Authentication Required`` dialog when prompted and click ``Connect``."
-msgstr "અગર નેટવર્ક માં પણ પાસવર્ડ નાખેલો છે તો, ``Wi-Fi નેટવર્ક સત્તાધિકરણ`` ડાયલોગ માં પણ પૂછવા પર પાસવર્ડ દાખલ કરો અને ``જોડો`` પર ક્લિક કરો."
+msgstr "અગર નેટવર્ક માં પણ પાસવર્ડ નાખેલો છે તો, ``Wi-Fi નેટવર્ક સત્તાધિકરણ જરૂરી`` ડાયલોગ માં પણ પૂછવા પર પાસવર્ડ દાખલ કરો અને ``જોડો`` પર ક્લિક કરો."
 
 #: ../../source/08-Remote Support.rst:75
 msgid "The network icon will change to |wifi|"
