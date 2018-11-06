@@ -1,5 +1,5 @@
-Documentation and Support
-=========================
+Support and Guidance
+====================
 
 Frequently asked questions
 --------------------------
@@ -44,8 +44,8 @@ Learning resources
 
 The My sCool Server comes preloaded with Hackett and Bankwell comic books [1]_ 
 and content from Spoken Tutorial [2]_ that walks you through everything you need to know
-about using Ubuntu linux, almost every GUI application comes with F1
-help, and respective documentation in /usr/share/doc folder.
+about using Ubuntu linux, almost every GUI application comes with ``F1``
+help, and respective documentation in ``/usr/share/doc folder``.
 
 .. rubric:: Community created documentation available at:
 

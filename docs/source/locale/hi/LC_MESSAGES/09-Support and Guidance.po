@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Recherche Tech LLP
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-08 10:47+0100\n"
+"PO-Revision-Date: 2018-10-08 17:10+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/09-Support Guidance.rst:2 and
+msgid "Support and Guidance"
+msgstr "सपोर्ट और मार्गदर्शन"
+
+#: ../../source/09-Support Guidance.rst:5 and
+msgid "Frequently asked questions"
+msgstr "अक्सर पूछे जाने वाले प्रश्न"
+
+#: ../../source/09-Support Guidance.rst:6 and
+msgid ""
+"Answers to most frequent queries by the MSS users, collated from various "
+"perspectives, can be found herein -"
+msgstr ""
+"विभिन्न दृष्टिकोण से मिलते, एमएसएस उपयोगकर्ताओं द्वारा अक्सर पूछे जाने वाले प्रश्नों के "
+"उत्तर, यहां पाया जा सकता है -"
+
+#: ../../source/09-Support Guidance.rst:8 and
+msgid "http://myscoolserver.com/faqs"
+msgstr "http://myscoolserver.com/faqs"
+
+#: ../../source/09-Support Guidance.rst:11 and
+msgid "How-to Videos and Guides"
+msgstr "वीडियो और गाइड कैसे करें"
+
+#: ../../source/09-Support Guidance.rst:12 and
+msgid ""
+"The YouTube channel is regurlarly updated with basic usage training and "
+"new feature walk-through tutorials. Checkout the playlists section for "
+"your area of interest -"
+msgstr ""
+"यूट्यूब चैनल को मूल उपयोग प्रशिक्षण और नई फीचर वॉक-थ्रू ट्यूटोरियल्स के साथ नियमित रूप "
+"से अपडेट किया गया है. रुचि के क्षेत्र के लिए प्लेलिस्ट अनुभाग जांच करे -"
+
+#: ../../source/09-Support Guidance.rst:14 and
+msgid "https://www.youtube.com/myscoolserver"
+msgstr "https://www.youtube.com/myscoolserver"
+
+#: ../../source/09-Support Guidance.rst:17 and
+msgid "Warranty support channels"
+msgstr "वारंटी सपोर्ट चैनल"
+
+#: ../../source/09-Support Guidance.rst:19 and
+msgid ""
+"Every My sCool Server has a sticker bearing a unique MSS ID or S/N "
+"(Serial Number). This ID is important for all communications with "
+"Recherche Tech in regards to your MSS hardware. If you ever have an "
+"issue with your MSS hardware and it is under warranty, simply open a "
+"ticket through any of the support channels and quote this MSS ID and the "
+"nature of your problem."
+msgstr ""
+"प्रत्येक माय स्कूल सर्वर एक स्टिकर के साथ आता है जिसमे एक अद्वितीय MSS ID या S/N "
+"(क्रमांक) रहता है। यह आईडी रेशेशे टेक के साथ MSS हार्डवेयर से संबन्धित होने वाले सारे "
+"संवादो के लिए महत्वपूर्ण है। यदि आपको कभी भी MSS हार्डवेयर संबन्धित कोई समस्या आती "
+"है और यह वारंटी के तहत है, तो किसी भी सहायता केंद्र से टिकिट खोले और यह MSS आईडी "
+"और अपनी समस्या का विवरण लिखे।"
+
+#: ../../source/09-Support Guidance.rst:25 and
+msgid "Support portal: https://helpdesk.myscoolserver.com"
+msgstr "सपोर्ट पोर्टल: https://helpdesk.myscoolserver.com"
+
+#: ../../source/09-Support Guidance.rst:27 and
+msgid "Email-id: helpdesk@myscoolserver.com"
+msgstr "ईमेल-आईडी: helpdesk@myscoolserver.com"
+
+#: ../../source/09-Support Guidance.rst:29 and
+msgid "WhatsApp number: +91-79-40080440"
+msgstr "व्हाट्सएप दूरभाष: +91-79-40080440"
+
+#: ../../source/09-Support Guidance.rst:32 and
+msgid "Important Links"
+msgstr "महत्वपूर्ण लिंक"
+
+#: ../../source/09-Support Guidance.rst:33 and
+msgid ""
+"`Terms of service and support <https://www.myscoolserver.com/mss-service-"
+"terms/>`_"
+msgstr ""
+"`सेवा और सपोर्ट की शर्तें <https://www.myscoolserver.com/mss-service-terms/>`_"
+
+#: ../../source/09-Support Guidance.rst:35 and
+msgid ""
+"`Limited Warranty Terms <https://www.myscoolserver.com/recherche-limited-"
+"product-warranty-mss/>`_"
+msgstr ""
+"`सीमित वारंटी शर्तें <https://www.myscoolserver.com/recherche-limited-"
+"product-warranty-mss/>`_"
+
+#: ../../source/09-Support Guidance.rst:40 and
+msgid "Community Support"
+msgstr "कम्युनिटी सपोर्ट"
+
+#: ../../source/09-Support Guidance.rst:43 and
+msgid "Learning resources"
+msgstr "सीखने के साधन"
+
+#: ../../source/09-Support Guidance.rst:45 and
+msgid ""
+"The My sCool Server comes preloaded with Hackett and Bankwell comic "
+"books [1]_ and content from Spoken Tutorial [2]_ that walks you through "
+"everything you need to know about using Ubuntu linux, almost every GUI "
+"application comes with ``F1`` help, and respective documentation in ``/"
+"usr/share/doc folder``."
+msgstr ""
+"माय स्कूल सर्वर हैकेट और बैंकवेल की कॉमिक पुस्तकों [1]_ और स्पोकन टूटोरियल [2]_ के कंटैंट "
+"के साथ आता है जो आपको उबुन्टु लिनक्स के बारे मे हर वो जानकारी प्राप्त करवाता है "
+"जिसकी आपको आवश्यकता है, अधिकतर सारी GUI एप्लीकेशन्स ``F1`` हेल्प के साथ आती है, "
+"जिनसे संबन्धित दस्तावेज़ ``/usr/share/doc`` फोंल्डर मे उपलब्ध है।"
+
+#: ../../source/09-Support Guidance.rst:51 and
+msgid "Community created documentation available at:"
+msgstr "कम्युनिटी निर्मित दस्तावेज उपलब्ध है:"
+
+#: ../../source/09-Support Guidance.rst:52 and
+msgid "https://ubuntu-manual.org"
+msgstr "https://ubuntu-manual.org"
+
+#: ../../source/09-Support Guidance.rst:53 and
+msgid "https://help.ubuntu.com"
+msgstr "https://help.ubuntu.com"
+
+#: ../../source/09-Support Guidance.rst:54 and
+msgid "https://ubuntu-mate.github.io"
+msgstr "https://ubuntu-mate.github.io"
+
+#: ../../source/09-Support Guidance.rst:55 and
+msgid "https://help.ubuntu.com/community/CommonQuestions"
+msgstr "https://help.ubuntu.com/community/CommonQuestions"
+
+#: ../../source/09-Support Guidance.rst:56 and
+msgid "https://help.ubuntu.com/community/Beginners/FAQ"
+msgstr "https://help.ubuntu.com/community/Beginners/FAQ"
+
+#: ../../source/09-Support Guidance.rst:57 and
+msgid "http://askubuntu.com/questions?sort=faq"
+msgstr "http://askubuntu.com/questions?sort=faq"
+
+#: ../../source/09-Support Guidance.rst:58 and
+msgid ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-"
+"install-and-run-first-update/955/7"
+msgstr ""
+"https://ubuntu-mate.community/t/ubuntu-beginners-guide-complete-how-to-"
+"install-and-run-first-update/955/7"
+
+#: ../../source/09-Support Guidance.rst:59 and
+msgid "https://ubuntu-mate.org/faq"
+msgstr "https://ubuntu-mate.org/faq"
+
+#: ../../source/09-Support Guidance.rst:62 and
+msgid "Ubuntu community help"
+msgstr "उबुन्टु कम्युनिटी सेवा"
+
+#: ../../source/09-Support Guidance.rst:64 and
+msgid "http://community.ubuntu.com/help-information"
+msgstr "http://community.ubuntu.com/help-information"
+
+#: ../../source/09-Support Guidance.rst:65 and
+msgid "https://ubuntu-mate.org/community"
+msgstr "https://ubuntu-mate.org/community"
+
+#: ../../source/09-Support Guidance.rst:68 and
+msgid "MSS community help"
+msgstr "एमएसएस कम्युनिटी सेवा"
+
+#: ../../source/09-Support Guidance.rst:70 and
+msgid "https://github.com/RechercheTech/mss/issues"
+msgstr "https://github.com/RechercheTech/mss/issues"
+
+#: ../../source/09-Support Guidance.rst:73 and
+msgid "Typing in your language"
+msgstr "अपनी भाषा मे टाइप करने के लिए मदद"
+
+#: ../../source/09-Support Guidance.rst:75 and
+msgid "https://help.ubuntu.com/community/ibus"
+msgstr "https://help.ubuntu.com/community/ibus"
+
+#: ../../source/09-Support Guidance.rst:78 and
+msgid "Li-f-e - Linux for Education help"
+msgstr "Li-f-e - Linux for Education सेवा"
+
+#: ../../source/09-Support Guidance.rst:80 and
+msgid "https://sourceforge.net/projects/cyberorg-home/support"
+msgstr "https://sourceforge.net/projects/cyberorg-home/support"
+
+#: ../../source/09-Support Guidance.rst:83 and
+msgid "Must read before seeking community help"
+msgstr "कम्युनिटी सहायता मांगने से पहले पढ़ना चाहिए"
+
+#: ../../source/09-Support Guidance.rst:85 and
+msgid "http://www.catb.org/esr/faqs/smart-questions.html"
+msgstr "http://www.catb.org/esr/faqs/smart-questions.html"
+
+#: ../../source/09-Support Guidance.rst:89 and
+msgid "http://hackettandbankwell.com"
+msgstr "http://hackettandbankwell.com"
+
+#: ../../source/09-Support Guidance.rst:92 and
+msgid "http://spoken-tutorial.org/about-us"
+msgstr "http://spoken-tutorial.org/about-us"
