@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-20 14:49+0530\n"
-"PO-Revision-Date: 2017-10-27 13:18+0530\n"
+"PO-Revision-Date: 2018-11-12 12:52+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,37 +28,30 @@ msgid "Epoptes"
 msgstr "Epoptes"
 
 #: ../../source/03-Monitoring Broadcasting.rst:8 and
-msgid ""
-"Epoptes is a monitoring and broadcasting tool to assist teachers in "
-"imparting lessons."
-msgstr ""
-"Epoptes एक निगरानी और प्रसारण का साधन है जो पढ़ाने मे शिक्षको की सहायता करता है।"
+msgid "Epoptes is a monitoring and broadcasting tool to assist teachers in imparting lessons."
+msgstr "Epoptes एक निगरानी और प्रसारण का साधन है जो पढ़ाने मे शिक्षको की सहायता करता है।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:10 and
 msgid ""
-"Only a user belonging to “epoptes” group can launch epoptes application, "
-"see :ref:`add-user-to-epoptes-group`."
+"Only a user belonging to “epoptes” group can launch epoptes application, see :ref:`add-user-to-epoptes-"
+"group`."
 msgstr ""
-"सिर्फ वही उपयोगकर्ता जो “epoptes” समूह से जुड़ा हुआ है epoptes की एप्प्लिकेशन का "
-"प्रक्षेपण कर सकता है. देखे :ref:`add-user-to-epoptes-group`।"
+"सिर्फ वही उपयोगकर्ता जो “epoptes” समूह से जुड़ा हुआ है epoptes की एप्प्लिकेशन का प्रक्षेपण कर सकता है. देखे :ref:`add-"
+"user-to-epoptes-group`।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:12 and
 msgid ""
-"All pre-configured teacher accounts are already members of the *epoptes* "
-"group. Using epoptes is self evident and intuitive, however complete "
-"documentation is available `here <https://translate.google.com/translate?"
-"u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
+"All pre-configured teacher accounts are already members of the *epoptes* group. Using epoptes is self "
+"evident and intuitive, however complete documentation is available `here <https://translate.google.com/"
+"translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__."
 msgstr ""
-"पूर्व-कॉन्फ़िगर सारे शिक्षको के खाते पहले से ही Epoptes समूह के सदस्य है. *epoptes* का "
-"प्रयोग करना आत्म स्पष्ट और सहज ज्ञान युक्त है, हालांकि पूर्ण प्रलेखन `यहाँ <https://"
-"translate.google.com/translate?u=http://ts.sch.gr/wiki/Linux/epoptes>`__ "
-"उपलब्ध है।"
+"पूर्व-कॉन्फ़िगर सारे शिक्षको के खाते पहले से ही Epoptes समूह के सदस्य है. *epoptes* का प्रयोग करना आत्म स्पष्ट और सहज "
+"ज्ञान युक्त है, हालांकि पूर्ण प्रलेखन `यहाँ <https://translate.google.com/translate?u=http://ts.sch.gr/wiki/"
+"Linux/epoptes>`__ उपलब्ध है।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:14 and
 msgid "When using ``English-Desktop``, a teacher can start Epoptes as below:"
-msgstr ""
-"``English-Desktop`` का प्रयोग करते समय, शिक्षक नीचे दिये अनुसार Epoptes को शुरू कर "
-"सकता है :"
+msgstr "``English-Desktop`` का प्रयोग करते समय, शिक्षक नीचे दिये अनुसार Epoptes को शुरू कर सकता है :"
 
 #: ../../source/03-Monitoring Broadcasting.rst:22 and
 msgid "Create Epoptes Launcher"
@@ -66,36 +59,29 @@ msgstr "Epoptes लॉन्चर बनाए"
 
 #: ../../source/03-Monitoring Broadcasting.rst:23 and
 msgid ""
-"Using the steps herein a teacher may create a desktop launcher to start "
-"Epoptes with just a click."
-msgstr ""
-"यहाँ दिये गए चरणो की मदद से शिक्षक डेस्कटॉप लॉन्चर  बना सकते है जिससे सिर्फ एक क्लिक से "
-"Epoptes को शुरू कर सके।"
+"Using the steps herein a teacher may create a desktop launcher to start Epoptes with just a click."
+msgstr "यहाँ दिये गए चरणो की मदद से शिक्षक डेस्कटॉप लॉन्चर  बना सकते है जिससे सिर्फ एक क्लिक से Epoptes को शुरू कर सके।"
 
 #: ../../source/03-Monitoring Broadcasting.rst:25 and
 msgid "Right click on desktop and select ``Create launcher...``"
-msgstr "डेस्कटॉप पे राइट क्लिक करे और ``Create launcher...`` को चुने"
+msgstr "डेस्कटॉप पे राइट क्लिक करे और ``लांचर बनाए...`` को चुने"
 
 #: ../../source/03-Monitoring Broadcasting.rst:27 and
 msgid "In ``Create Launcher`` dialog do following steps -"
-msgstr "``Create launcher`` डाइलोग मे निम्न चरणो का पालन करे -"
+msgstr "``लांचर बनाए`` डाइलोग मे निम्न चरणो का पालन करे -"
 
 #: ../../source/03-Monitoring Broadcasting.rst:29 and
 msgid "Enter ``Name`` as ``Epoptes``"
-msgstr "``Name`` मे ``Epoptes`` दर्ज करे"
+msgstr "``नाम`` मे ``Epoptes`` दर्ज करे"
 
 #: ../../source/03-Monitoring Broadcasting.rst:30 and
 msgid "Enter ``Command`` as ``ltsp-remoteapps epoptes``"
-msgstr "``Command`` मे ``ltsp-remoteapps epoptes`` दर्ज करे"
+msgstr "``कमांड`` मे ``ltsp-remoteapps epoptes`` दर्ज करे"
 
 #: ../../source/03-Monitoring Broadcasting.rst:31 and
 msgid "Press OK"
-msgstr "OK दबाये"
+msgstr "ठीक दबाये"
 
 #: ../../source/03-Monitoring Broadcasting.rst:36 and
-msgid ""
-"You may need to refresh (:kbd:`F5`) the desktop to see the newly created "
-"launcher"
-msgstr ""
-"आपको डेस्कटॉप को  (:kbd:`F5`) दबाकर रिफ्रेश करना होगा ताकि आपको नया बनाया हुआ "
-"लॉन्चर दिखे"
+msgid "You may need to refresh (:kbd:`F5`) the desktop to see the newly created launcher"
+msgstr "आपको डेस्कटॉप को  (:kbd:`F5`) दबाकर रिफ्रेश करना होगा ताकि आपको नया बनाया हुआ लॉन्चर दिखे"
